@@ -1,0 +1,628 @@
+State,Year,SDP
+Andhra Pradesh,2000,126035
+Andhra Pradesh,2001,131750
+Andhra Pradesh,2002,134749
+Andhra Pradesh,2003,147950
+Andhra Pradesh,2004,121388
+Andhra Pradesh,2005,128150
+Andhra Pradesh,2006,141610
+Andhra Pradesh,2007,159270
+Andhra Pradesh,2008,163341
+Andhra Pradesh,2009,174401
+Andhra Pradesh,2010,186041
+Andhra Pradesh,2011,339996
+Andhra Pradesh,2012,341335
+Andhra Pradesh,2013,360239
+Andhra Pradesh,2014,397064
+Andhra Pradesh,2015,446997
+Andhra Pradesh,2016,477566
+Andhra Pradesh,2017,526626
+Andhra Pradesh,2018,558862
+Arunachal Pradesh,2000,1607
+Arunachal Pradesh,2001,1864
+Arunachal Pradesh,2002,1775
+Arunachal Pradesh,2003,1968
+Arunachal Pradesh,2004,3188
+Arunachal Pradesh,2005,3281
+Arunachal Pradesh,2006,3458
+Arunachal Pradesh,2007,3873
+Arunachal Pradesh,2008,4191
+Arunachal Pradesh,2009,4539
+Arunachal Pradesh,2010,4735
+Arunachal Pradesh,2011,10229
+Arunachal Pradesh,2012,10399
+Arunachal Pradesh,2013,11226
+Arunachal Pradesh,2014,13082
+Arunachal Pradesh,2015,12889
+Arunachal Pradesh,2016,13396
+Arunachal Pradesh,2017,13923
+Arunachal Pradesh,2018,14897
+Assam,2000,32821
+Assam,2001,33668
+Assam,2002,35708
+Assam,2003,37905
+Assam,2004,47181
+Assam,2005,48602
+Assam,2006,50797
+Assam,2007,52968
+Assam,2008,56123
+Assam,2009,61294
+Assam,2010,64310
+Assam,2011,129354
+Assam,2012,132518
+Assam,2013,138725
+Assam,2014,146425
+Assam,2015,167629
+Assam,2016,179632
+Assam,2017,195262
+Assam,2018,204627
+Bihar,2000,53656
+Bihar,2001,50579
+Bihar,2002,56975
+Bihar,2003,53301
+Bihar,2004,70167
+Bihar,2005,68419
+Bihar,2006,80260
+Bihar,2007,84415
+Bihar,2008,97284
+Bihar,2009,101938
+Bihar,2010,117503
+Bihar,2011,228497
+Bihar,2012,236933
+Bihar,2013,246915
+Bihar,2014,255739
+Bihar,2015,269200
+Bihar,2016,289265
+Bihar,2017,312605
+Bihar,2018,345545
+Goa,2000,5287
+Goa,2001,5492
+Goa,2002,5826
+Goa,2003,6225
+Goa,2004,10999
+Goa,2005,11916
+Goa,2006,13085
+Goa,2007,13655
+Goa,2008,14728
+Goa,2009,16119
+Goa,2010,19293
+Goa,2011,38009
+Goa,2012,32453
+Goa,2013,27971
+Goa,2014,36042
+Goa,2015,41929
+Goa,2016,46371
+Goa,2017,47077
+Goa,2018,47425
+Gujarat,2000,86431
+Gujarat,2001,93455
+Gujarat,2002,101603
+Gujarat,2003,118525
+Gujarat,2004,172265
+Gujarat,2005,197270
+Gujarat,2006,213954
+Gujarat,2007,239253
+Gujarat,2008,249480
+Gujarat,2009,284732
+Gujarat,2010,315892
+Gujarat,2011,532809
+Gujarat,2012,596659
+Gujarat,2013,641489
+Gujarat,2014,705629
+Gujarat,2015,774775
+Gujarat,2016,843930
+Gujarat,2017,946511
+Gujarat,2018,1034399
+Himachal Pradesh,2000,13262
+Himachal Pradesh,2001,13938
+Himachal Pradesh,2002,14617
+Himachal Pradesh,2003,15596
+Himachal Pradesh,2004,21189
+Himachal Pradesh,2005,23009
+Himachal Pradesh,2006,24819
+Himachal Pradesh,2007,26362
+Himachal Pradesh,2008,27649
+Himachal Pradesh,2009,29149
+Himachal Pradesh,2010,31590
+Himachal Pradesh,2011,33955
+Himachal Pradesh,2012,60536
+Himachal Pradesh,2013,64519
+Himachal Pradesh,2014,69398
+Himachal Pradesh,2015,74553
+Himachal Pradesh,2016,80563
+Himachal Pradesh,2017,88112
+Himachal Pradesh,2018,93525
+Jammu And Kashmir,2000,13917
+Jammu And Kashmir,2001,14185
+Jammu And Kashmir,2002,14907
+Jammu And Kashmir,2003,15673
+Jammu And Kashmir,2004,23292
+Jammu And Kashmir,2005,24371
+Jammu And Kashmir,2006,25794
+Jammu And Kashmir,2007,27387
+Jammu And Kashmir,2008,29102
+Jammu And Kashmir,2009,30512
+Jammu And Kashmir,2010,32256
+Jammu And Kashmir,2011,65319
+Jammu And Kashmir,2012,67316
+Jammu And Kashmir,2013,70536
+Jammu And Kashmir,2014,67154
+Jammu And Kashmir,2015,80602
+Jammu And Kashmir,2016,82636
+Jammu And Kashmir,2017,87591
+Jammu And Kashmir,2018,93072
+Jharkhand,2000,26663
+Jharkhand,2001,28500
+Jharkhand,2002,29298
+Jharkhand,2003,31515
+Jharkhand,2004,53056
+Jharkhand,2005,50678
+Jharkhand,2006,51527
+Jharkhand,2007,63005
+Jharkhand,2008,60472
+Jharkhand,2009,66465
+Jharkhand,2010,76134
+Jharkhand,2011,137383
+Jharkhand,2012,149526
+Jharkhand,2013,150609
+Jharkhand,2014,170568
+Jharkhand,2015,158231
+Jharkhand,2016,176363
+Jharkhand,2017,191573
+Jharkhand,2018,208701
+Karnataka,2000,91136
+Karnataka,2001,92788
+Karnataka,2002,97765
+Karnataka,2003,99669
+Karnataka,2004,148729
+Karnataka,2005,164031
+Karnataka,2006,181086
+Karnataka,2007,203810
+Karnataka,2008,218309
+Karnataka,2009,218363
+Karnataka,2010,240817
+Karnataka,2011,554952
+Karnataka,2012,593192
+Karnataka,2013,646787
+Karnataka,2014,671283
+Karnataka,2015,749952
+Karnataka,2016,851394
+Karnataka,2017,915642
+Karnataka,2018,974815
+Kerala,2000,62909
+Kerala,2001,66052
+Kerala,2002,70885
+Kerala,2003,75479
+Kerala,2004,104776
+Kerala,2005,115500
+Kerala,2006,124625
+Kerala,2007,135747
+Kerala,2008,144094
+Kerala,2009,157123
+Kerala,2010,167178
+Kerala,2011,328021
+Kerala,2012,348616
+Kerala,2013,364707
+Kerala,2014,382134
+Kerala,2015,411150
+Kerala,2016,443615
+Kerala,2017,473182
+Kerala,2018,510787
+Madhya Pradesh,2000,66750
+Madhya Pradesh,2001,71525
+Madhya Pradesh,2002,67795
+Madhya Pradesh,2003,75400
+Madhya Pradesh,2004,99940
+Madhya Pradesh,2005,104975
+Madhya Pradesh,2006,114545
+Madhya Pradesh,2007,119958
+Madhya Pradesh,2008,135124
+Madhya Pradesh,2009,147933
+Madhya Pradesh,2010,155701
+Madhya Pradesh,2011,282371
+Madhya Pradesh,2012,306853
+Madhya Pradesh,2013,322598
+Madhya Pradesh,2014,339247
+Madhya Pradesh,2015,370716
+Madhya Pradesh,2016,419465
+Madhya Pradesh,2017,441956
+Madhya Pradesh,2018,482361
+Chhattisgarh,2000,22372
+Chhattisgarh,2001,25503
+Chhattisgarh,2002,25072
+Chhattisgarh,2003,29782
+Chhattisgarh,2004,41387
+Chhattisgarh,2005,42063
+Chhattisgarh,2006,50065
+Chhattisgarh,2007,54112
+Chhattisgarh,2008,57662
+Chhattisgarh,2009,59263
+Chhattisgarh,2010,64977
+Chhattisgarh,2011,142273
+Chhattisgarh,2012,148760
+Chhattisgarh,2013,163494
+Chhattisgarh,2014,165354
+Chhattisgarh,2015,168879
+Chhattisgarh,2016,187541
+Chhattisgarh,2017,194073
+Chhattisgarh,2018,209211
+Maharashtra,2000,210526
+Maharashtra,2001,217963
+Maharashtra,2002,232994
+Maharashtra,2003,250989
+Maharashtra,2004,370023
+Maharashtra,2005,423632
+Maharashtra,2006,481983
+Maharashtra,2007,538081
+Maharashtra,2008,546533
+Maharashtra,2009,599338
+Maharashtra,2010,667625
+Maharashtra,2011,1126595
+Maharashtra,2012,1189711
+Maharashtra,2013,1267551
+Maharashtra,2014,1345341
+Maharashtra,2015,1452513
+Maharashtra,2016,1596121
+Maharashtra,2017,1661065
+Maharashtra,2018,1728578
+Manipur,2000,2765
+Manipur,2001,2937
+Manipur,2002,2921
+Manipur,2003,3240
+Manipur,2004,4603
+Manipur,2005,4907
+Manipur,2006,4992
+Manipur,2007,5267
+Manipur,2008,5652
+Manipur,2009,6039
+Manipur,2010,5862
+Manipur,2011,11501
+Manipur,2012,11515
+Manipur,2013,12519
+Manipur,2014,13615
+Manipur,2015,14635
+Manipur,2016,15201
+Manipur,2017,16870
+Manipur,2018,16193
+Meghalaya,2000,3422
+Meghalaya,2001,3651
+Meghalaya,2002,3759
+Meghalaya,2003,3993
+Meghalaya,2004,5846
+Meghalaya,2005,6303
+Meghalaya,2006,6778
+Meghalaya,2007,6991
+Meghalaya,2008,7889
+Meghalaya,2009,8396
+Meghalaya,2010,9226
+Meghalaya,2011,18028
+Meghalaya,2012,18323
+Meghalaya,2013,18397
+Meghalaya,2014,17893
+Meghalaya,2015,18330
+Meghalaya,2016,19295
+Meghalaya,2017,19964
+Meghalaya,2018,20968
+Mizoram,2000,1463
+Mizoram,2001,1555
+Mizoram,2002,1705
+Mizoram,2003,1760
+Mizoram,2004,2400
+Mizoram,2005,2577
+Mizoram,2006,2693
+Mizoram,2007,2988
+Mizoram,2008,3437
+Mizoram,2009,3832
+Mizoram,2010,4539
+Mizoram,2011,6404
+Mizoram,2012,6836
+Mizoram,2013,7831
+Mizoram,2014,9960
+Mizoram,2015,10948
+Mizoram,2016,12029
+Mizoram,2017,13779
+Mizoram,2018,14116
+Nagaland,2000,3052
+Nagaland,2001,3402
+Nagaland,2002,3741
+Nagaland,2003,3912
+Nagaland,2004,5421
+Nagaland,2005,5986
+Nagaland,2006,6454
+Nagaland,2007,6978
+Nagaland,2008,7422
+Nagaland,2009,7842
+Nagaland,2010,8587
+Nagaland,2011,10554
+Nagaland,2012,11163
+Nagaland,2013,11923
+Nagaland,2014,12406
+Nagaland,2015,12600
+Nagaland,2016,13488
+Nagaland,2017,14178
+Nagaland,2018,15055
+Odisha,2000,37386
+Odisha,2001,39662
+Odisha,2002,39377
+Odisha,2003,45127
+Odisha,2004,67987
+Odisha,2005,71005
+Odisha,2006,79845
+Odisha,2007,86692
+Odisha,2008,93207
+Odisha,2009,93957
+Odisha,2010,99880
+Odisha,2011,204226
+Odisha,2012,216301
+Odisha,2013,233122
+Odisha,2014,235931
+Odisha,2015,253192
+Odisha,2016,293348
+Odisha,2017,316192
+Odisha,2018,338339
+Punjab,2000,63172
+Punjab,2001,63995
+Punjab,2002,65085
+Punjab,2003,69149
+Punjab,2004,86108
+Punjab,2005,90330
+Punjab,2006,100072
+Punjab,2007,108738
+Punjab,2008,114766
+Punjab,2009,122097
+Punjab,2010,129983
+Punjab,2011,239227
+Punjab,2012,251813
+Punjab,2013,267515
+Punjab,2014,278485
+Punjab,2015,294895
+Punjab,2016,315783
+Punjab,2017,335057
+Punjab,2018,353942
+Rajasthan,2000,71764
+Rajasthan,2001,79936
+Rajasthan,2002,70333
+Rajasthan,2003,92712
+Rajasthan,2004,112636
+Rajasthan,2005,120202
+Rajasthan,2006,134350
+Rajasthan,2007,140471
+Rajasthan,2008,152284
+Rajasthan,2009,161159
+Rajasthan,2010,185366
+Rajasthan,2011,395331
+Rajasthan,2012,409802
+Rajasthan,2013,434292
+Rajasthan,2014,465408
+Rajasthan,2015,501922
+Rajasthan,2016,529650
+Rajasthan,2017,557618
+Rajasthan,2018,568102
+Sikkim,2000,814
+Sikkim,2001,881
+Sikkim,2002,947
+Sikkim,2003,1022
+Sikkim,2004,1511
+Sikkim,2005,1662
+Sikkim,2006,1760
+Sikkim,2007,1862
+Sikkim,2008,2106
+Sikkim,2009,3659
+Sikkim,2010,4028
+Sikkim,2011,9742
+Sikkim,2012,9970
+Sikkim,2013,10590
+Sikkim,2014,11437
+Sikkim,2015,12484
+Sikkim,2016,13416
+Sikkim,2017,15204
+Sikkim,2018,15889
+Tamil Nadu,2000,126349
+Tamil Nadu,2001,123901
+Tamil Nadu,2002,124521
+Tamil Nadu,2003,132281
+Tamil Nadu,2004,193645
+Tamil Nadu,2005,221588
+Tamil Nadu,2006,256286
+Tamil Nadu,2007,272340
+Tamil Nadu,2008,286744
+Tamil Nadu,2009,316760
+Tamil Nadu,2010,359961
+Tamil Nadu,2011,674478
+Tamil Nadu,2012,709343
+Tamil Nadu,2013,750416
+Tamil Nadu,2014,791915
+Tamil Nadu,2015,862437
+Tamil Nadu,2016,922084
+Tamil Nadu,2017,1000308
+Tamil Nadu,2018,1071602
+Tripura,2000,4778
+Tripura,2001,5433
+Tripura,2002,5796
+Tripura,2003,6136
+Tripura,2004,8170
+Tripura,2005,8708
+Tripura,2006,9458
+Tripura,2007,10082
+Tripura,2008,11146
+Tripura,2009,12287
+Tripura,2010,13215
+Tripura,2011,17419
+Tripura,2012,18857
+Tripura,2013,20623
+Tripura,2014,24407
+Tripura,2015,23745
+Tripura,2016,27204
+Tripura,2017,29505
+Tripura,2018,32703
+Uttar Pradesh,2000,160015
+Uttar Pradesh,2001,162926
+Uttar Pradesh,2002,168198
+Uttar Pradesh,2003,177054
+Uttar Pradesh,2004,231029
+Uttar Pradesh,2005,244514
+Uttar Pradesh,2006,263935
+Uttar Pradesh,2007,280851
+Uttar Pradesh,2008,302192
+Uttar Pradesh,2009,320989
+Uttar Pradesh,2010,346621
+Uttar Pradesh,2011,645132
+Uttar Pradesh,2012,673552
+Uttar Pradesh,2013,707469
+Uttar Pradesh,2014,729686
+Uttar Pradesh,2015,792049
+Uttar Pradesh,2016,888453
+Uttar Pradesh,2017,922458
+Uttar Pradesh,2018,949184
+West Bengal,2000,129691
+West Bengal,2001,139057
+West Bengal,2002,143931
+West Bengal,2003,152388
+West Bengal,2004,190029
+West Bengal,2005,201994
+West Bengal,2006,217849
+West Bengal,2007,234798
+West Bengal,2008,244262
+West Bengal,2009,263230
+West Bengal,2010,279191
+West Bengal,2011,473205
+West Bengal,2012,492901
+West Bengal,2013,503952
+West Bengal,2014,515702
+West Bengal,2015,546988
+West Bengal,2016,584911
+West Bengal,2017,623787
+West Bengal,2018,659288
+Andaman And Nicobar Islands,2000,838
+Andaman And Nicobar Islands,2001,857
+Andaman And Nicobar Islands,2002,948
+Andaman And Nicobar Islands,2003,1048
+Andaman And Nicobar Islands,2004,1633
+Andaman And Nicobar Islands,2005,1720
+Andaman And Nicobar Islands,2006,2029
+Andaman And Nicobar Islands,2007,2238
+Andaman And Nicobar Islands,2008,2579
+Andaman And Nicobar Islands,2009,2911
+Andaman And Nicobar Islands,2010,3164
+Andaman And Nicobar Islands,2011,3404
+Andaman And Nicobar Islands,2012,3558
+Andaman And Nicobar Islands,2013,3811
+Andaman And Nicobar Islands,2014,4151
+Andaman And Nicobar Islands,2015,4483
+Andaman And Nicobar Islands,2016,5091
+Andaman And Nicobar Islands,2017,5750
+Andaman And Nicobar Islands,2018,6108
+Chandigarh,2000,4274
+Chandigarh,2001,4649
+Chandigarh,2002,5235
+Chandigarh,2003,5804
+Chandigarh,2004,7610
+Chandigarh,2005,8442
+Chandigarh,2006,9690
+Chandigarh,2007,10405
+Chandigarh,2008,11187
+Chandigarh,2009,11767
+Chandigarh,2010,11765
+Chandigarh,2011,16930
+Chandigarh,2012,18305
+Chandigarh,2013,19813
+Chandigarh,2014,20353
+Chandigarh,2015,22058
+Chandigarh,2016,23842
+Chandigarh,2017,25289
+Chandigarh,2018,26654
+Delhi,2000,53177
+Delhi,2001,55222
+Delhi,2002,59454
+Delhi,2003,62694
+Delhi,2004,94717
+Delhi,2005,104473
+Delhi,2006,117444
+Delhi,2007,130683
+Delhi,2008,146961
+Delhi,2009,159044
+Delhi,2010,172235
+Delhi,2011,314650
+Delhi,2012,334193
+Delhi,2013,356528
+Delhi,2014,387639
+Delhi,2015,431730
+Delhi,2016,461592
+Delhi,2017,487631
+Delhi,2018,506332
+Pondicherry,2000,3305
+Pondicherry,2001,3529
+Pondicherry,2002,3879
+Pondicherry,2003,4053
+Pondicherry,2004,5033
+Pondicherry,2005,6375
+Pondicherry,2006,6614
+Pondicherry,2007,7137
+Pondicherry,2008,7792
+Pondicherry,2009,9197
+Pondicherry,2010,9812
+Pondicherry,2011,15160
+Pondicherry,2012,15507
+Pondicherry,2013,17239
+Pondicherry,2014,16055
+Pondicherry,2015,17025
+Pondicherry,2016,18284
+Pondicherry,2017,20024
+Pondicherry,2018,23468
+Telangana,2000,
+Telangana,2001,
+Telangana,2002,
+Telangana,2003,
+Telangana,2004,79916
+Telangana,2005,92751
+Telangana,2006,102977
+Telangana,2007,113456
+Telangana,2008,128918
+Telangana,2009,129267
+Telangana,2010,152123
+Telangana,2011,325139
+Telangana,2012,334205
+Telangana,2013,349593
+Telangana,2014,372897
+Telangana,2015,416892
+Telangana,2016,455731
+Telangana,2017,498145
+Telangana,2018,544441
+Uttarakhand,2000,12582
+Uttarakhand,2001,13179
+Uttarakhand,2002,14413
+Uttarakhand,2003,15553
+Uttarakhand,2004,22288
+Uttarakhand,2005,25448
+Uttarakhand,2006,28514
+Uttarakhand,2007,33498
+Uttarakhand,2008,37064
+Uttarakhand,2009,43407
+Uttarakhand,2010,47967
+Uttarakhand,2011,101960
+Uttarakhand,2012,109528
+Uttarakhand,2013,117778
+Uttarakhand,2014,125702
+Uttarakhand,2015,136144
+Uttarakhand,2016,150303
+Uttarakhand,2017,162205
+Uttarakhand,2018,166519
+Haryana,2000,51090
+Haryana,2001,55036
+Haryana,2002,58410
+Haryana,2003,64156
+Haryana,2004,86222
+Haryana,2005,94011
+Haryana,2006,104700
+Haryana,2007,112896
+Haryana,2008,121588
+Haryana,2009,136780
+Haryana,2010,146053
+Haryana,2011,271152
+Haryana,2012,289756
+Haryana,2013,314931
+Haryana,2014,333359
+Haryana,2015,372700
+Haryana,2016,412055
+Haryana,2017,434407
+Haryana,2018,470328

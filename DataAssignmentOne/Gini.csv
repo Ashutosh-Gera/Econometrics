@@ -1,0 +1,673 @@
+District,Ginni Index
+South Andaman,0.33
+Nicobar,0.33
+North And Middle Andaman,0.3
+Andaman and Nicobar Islands,0.33
+West Godavari,0.26
+Prakasam,0.24
+Krishna,0.33
+Sri Potti Sriramulu Nellore,0.27
+Srikakulam,0.27
+East Godavari,0.28
+Y.S.R.,0.35
+Guntur,0.33
+Chittoor,0.31
+Visakhapatanam,0.42
+Anantapur,0.27
+Vizianagaram,0.28
+Kurnool,0.26
+Andhra Pradesh,0.32
+West Kameng,0.23
+Papum Pare,0.3
+Upper Subansiri,0.29
+East Siang,0.28
+Lower Subansiri,0.33
+Kurung Kumey,0.23
+Upper Siang,0.34
+Dibang Valley,0.34
+Anjaw,0.34
+Changlang,0.3
+East Kameng,0.29
+Tawang,0.37
+Lower Dibang Valley,0.25
+Tirap,0.22
+West Siang,0.31
+Lohit,0.31
+Arunachal Pradesh,0.34
+Dibrugarh,0.27
+Kamrup Metropolitan,0.31
+Tinsukia,0.24
+Dhemaji,0.18
+Morigaon,0.17
+Kamrup,0.24
+Chirang,0.2
+Nalbari,0.26
+Sivasagar,0.23
+Golaghat,0.22
+Lakhimpur,0.21
+Nagaon,0.24
+Jorhat,0.31
+Udalguri,0.19
+Bongaigaon,0.27
+Barpeta,0.21
+Sonitpur,0.19
+Goalpara,0.24
+Baksa,0.2
+Darrang,0.22
+Dhubri,0.24
+Kokrajhar,0.23
+North Cachar Hills,0.19
+Karbi Anglong,0.17
+Cachar,0.19
+Karimganj,0.19
+Hailakandi,0.21
+Assam,0.26
+Khagaria,0.2
+Saharsa,0.23
+Gopalganj,0.17
+Begusarai,0.21
+Jehanabad,0.23
+Madhubani,0.25
+Siwan,0.19
+Supaul,0.21
+Samastipur,0.2
+Araria,0.23
+Vaishali,0.25
+Nawada,0.16
+Purnia,0.18
+Patna,0.34
+Kishanganj,0.24
+Munger,0.26
+Darbhanga,0.2
+Pashchim Champaran,0.22
+Lakhisarai,0.22
+Saran,0.23
+Arwal,0.21
+Gaya,0.21
+Madhepura,0.22
+Rohtas,0.23
+Sheikhpura,0.21
+Banka,0.19
+Aurangabad,0.19
+Purba Champaran,0.23
+Katihar,0.2
+Muzaffarpur,0.24
+Bhojpur,0.23
+Bhagalpur,0.24
+Kaimur (Bhabua),0.21
+Buxar,0.23
+Sheohar,0.26
+Jamui,0.21
+Nalanda,0.27
+Sitamarhi,0.21
+Arwal,0.21
+Gaya,0.21
+Madhepura,0.22
+Rohtas,0.23
+Sheikhpura,0.21
+Banka,0.19
+Aurangabad,0.19
+Purba Champaran,0.23
+Katihar,0.2
+Muzaffarpur,0.24
+Bhojpur,0.23
+Bhagalpur,0.24
+Kaimur Bhabua,0.21
+Buxar,0.23
+Sheohar,0.26
+Jamui,0.21
+Nalanda,0.27
+Sitamarhi,0.21
+Narayanpur,0.29
+Bijapur,0.29
+Bastar,0.27
+Chhattisgarh,0.31
+Dadra And Nagar Haveli,0.35
+Diu,0.29
+Daman,0.28
+Daman and Diu,0.28
+South Goa,0.23
+North Goa,0.27
+Goa,0.25
+Amreli,0.19
+Junagadh,0.23
+Rajkot,0.29
+Jamnagar,0.18
+Ahmadabad,0.33
+Sabarkantha,0.22
+Surat,0.29
+Kachchh,0.35
+Bharuch,0.25
+Bhavnagar,0.24
+Navsari,0.3
+Porbandar,0.21
+Valsad,0.32
+Anand,0.21
+Surendranagar,0.33
+The Dangs,0.31
+Vadodara,0.33
+Narmada,0.19
+Gandhinagar,0.3
+Kheda,0.22
+Mahesana,0.32
+Panch Mahals,0.23
+Banas Kantha,0.22
+Patan,0.33
+Dahod,0.19
+Tapi,
+Gujarat,0.31
+Jhajjar,0.25
+Gurgaon,0.42
+Sonipat,0.24
+Rewari,0.32
+Rohtak,0.28
+Kaithal,0.28
+Mewat,0.26
+Jind,0.28
+Kurukshetra,0.3
+Bhiwani,0.27
+Karnal,0.34
+Mahendragarh,0.25
+Panchkula,0.44
+Faridabad,0.42
+Ambala,0.37
+Hisar,0.3
+Panipat,0.28
+Yamunanagar,0.26
+Sirsa,0.31
+Fatehabad,0.3
+Palwal,
+Haryana,0.34
+Shimla,0.28
+Kinnaur,0.33
+Kangra,0.3
+Una,0.27
+Lahaul and Spiti,0.25
+Hamirpur,0.25
+Sirmaur,0.35
+Bilaspur,0.38
+Mandi,0.24
+Kullu,0.26
+Chamba,0.27
+Solan,0.32
+Kupwara,0.2
+Rajouri,0.21
+Kargil,0.23
+Leh,0.23
+Anantnag,0.17
+Pulwama,0.2
+Poonch,0.22
+Jammu,0.31
+Kathua,0.24
+Baramulla,0.2
+Budgam,0.19
+Srinagar,0.28
+Udhampur,0.26
+Doda,0.21
+Samba,
+Reasi,
+Ramban,
+Kishtwar,
+Kulgam,
+Shopian,
+Ganderbal,
+Bandipora,
+Jammu and Kashmir,0.26
+Palamu,0.36
+Bokaro,0.29
+Hazaribagh,0.24
+Pakur,0.23
+Dhanbad,0.34
+Khunti,0.23
+Ranchi,0.34
+Jamtara,0.21
+Giridih,0.21
+Purbi Singhbhum,0.26
+Deogarh,0.27
+Garhwa,0.22
+Kodarma,0.27
+Chatra,0.21
+Latehar,0.25
+Gumla,0.21
+Lohardaga,0.24
+Godda,0.18
+Dumka,0.23
+Sahibganj,0.23
+Ramgarh,0.18
+Pashchimi Singhbhum,0.19
+Simdega,
+Saraikela Kharsawan,
+Jharkhand,0.3
+Udupi,0.32
+Bangalore,0.36
+Kodagu,0.26
+Dakshina Kannada,0.44
+Hassan,0.18
+Kolar,0.26
+Chikkaballapura,0.39
+Ramanagara,0.39
+Mysore,0.33
+Shimoga,0.21
+Uttara Kannada,0.22
+Chamarajanagara,0.25
+Tumkur,0.24
+Mandya,0.26
+Chikmagalur,0.18
+Chitradurga,0.21
+Haveri,0.24
+Bangalore Rural,0.29
+Raichur,0.28
+Davangere,0.28
+Dharwad,0.34
+Bidar,0.23
+Bellary,0.21
+Bijapur,0.2
+Belgaum,0.26
+Gadag,0.26
+Gulbarga,0.23
+Koppal,0.26
+Bagalkote,0.27
+Yadgir,
+Karnataka,0.39
+Idukki,0.4
+Thiruvananthapuram,0.36
+Kottayam,0.37
+Pathanamthitta,0.31
+Kollam,0.35
+Thrissur,0.36
+Ernakulam,0.42
+Palakkad,0.39
+Malappuram,0.37
+Alappuzha,0.32
+Wayanad,0.31
+Kozhikode,0.33
+Kannur,0.31
+Kasaragod,0.26
+Kerala,0.38
+Lakshadweep,0.31
+Indore,0.3
+Ashoknagar,0.18
+Chhatarpur,0.23
+Mandsaur,0.21
+Tikamgarh,0.19
+Dewas,0.34
+Ujjain,0.35
+Shajapur,0.25
+Neemuch,0.2
+Dhar,0.24
+Gwalior,0.33
+Alirajpur,0.32
+Shivpuri,0.27
+Hoshangabad,0.34
+Bhopal,0.46
+Guna,0.23
+Ratlam,0.21
+Datia,0.23
+Rajgarh,0.3
+Sehore,0.34
+Raisen,0.28
+Narsimhapur,0.33
+Harda,0.32
+Vidisha,0.26
+Jhabua,0.24
+Seoni,0.27
+Bhind,0.19
+Morena,0.26
+Sagar,0.26
+Anuppur,0.37
+Damoh,0.23
+Chhindwara,0.44
+Singrauli,0.3
+Jabalpur,0.4
+Shahdol,0.28
+West Nimar,0.24
+Burhanpur,0.23
+Sheopur,0.28
+Katni,0.35
+East Nimar,0.23
+Balaghat,0.27
+Barwani,0.24
+Dindori,0.22
+Rewa,0.26
+Mandla,0.23
+Umaria,0.25
+Sidhi,0.24
+Betul,0.33
+Satna,0.26
+Panna,0.24
+Madhya Pradesh,0.35
+Mumbai Suburban,0.39
+Sindhudurg,0.21
+Satara,0.31
+Pune,0.37
+Sangli,0.24
+Wardha,0.24
+Kolhapur,0.21
+Osmanabad,0.25
+Jalna,0.18
+Nagpur,0.34
+Thane,0.37
+Raigad,0.35
+Solapur,0.28
+Nashik,0.3
+Ratnagiri,0.25
+Latur,0.24
+Ahmednagar,0.24
+Aurangabad,0.28
+Yavatmal,0.25
+Bid,0.24
+Dhule,0.24
+Gadchiroli,0.24
+Jalgaon,0.26
+Gondia,0.4
+Bhandara,0.24
+Hingoli,0.27
+Amravati,0.29
+Nandurbar,0.25
+Nanded,0.3
+Akola,0.25
+Washim,0.23
+Chandrapur,0.3
+Buldhana,0.25
+Parbhani,0.25
+Mumbai,
+Maharashtra,0.37
+Tamenglong,0.15
+Imphal East,0.18
+Churachandpur,0.25
+Ukhrul,0.16
+Imphal West,0.21
+Chandel,0.24
+Bishnupur,0.14
+Thoubal,0.23
+Senapati,0.12
+Manipur,0.21
+South Garo Hills,0.18
+East Garo Hills,0.17
+East Khasi Hills,0.25
+West Garo Hills,0.2
+Jaintia Hills,0.18
+Ri Bhoi,0.19
+West Khasi Hills,0.19
+Meghalaya,0.22
+Aizawl,0.26
+Champhai,0.23
+Kolasib,0.25
+Lunglei,0.24
+Lawngtlai,0.25
+Mamit,0.26
+Serchhip,0.25
+Saiha,0.25
+Mizoram,0.27
+Mon,0.19
+Longleng,0.22
+Kohima,0.21
+Tuensang,0.2
+Peren,0.2
+Kiphire,0.19
+Phek,0.21
+Dimapur,0.24
+Mokokchung,0.18
+Zunheboto,0.2
+Wokha,0.23
+Nagaland,0.22
+North,0.34
+East,0.34
+New Delhi,0.34
+West,0.34
+South West,0.34
+South,0.34
+North West,0.36
+North East,0.22
+Central,
+Delhi,0.34
+Dhenkanal,0.24
+Cuttack,0.29
+Kendrapara,0.21
+Angul,0.26
+Puri,0.22
+Khordha,0.4
+Jajpur,0.24
+Jagatsinghapur,0.24
+Bhadrak,0.19
+Jharsuguda,0.34
+Sambalpur,0.31
+Ganjam,0.27
+Bargarh,0.24
+Baleshwar,0.27
+Nayagarh,0.26
+Balangir,0.22
+Debagarh,0.29
+Kendujhar,0.3
+Gajapati,0.29
+Rayagada,0.24
+Subarnapur,0.23
+Kandhamal,0.26
+Sundargarh,0.37
+Nuapada,0.17
+Kalahandi,0.24
+Baudh,0.19
+Mayurbhanj,0.25
+Koraput,0.33
+Nabarangpur,0.28
+Malkangiri,0.21
+Odisha,0.3
+Puducherry,0.32
+Yanam,0.32
+Mahe,0.32
+Karaikal,0.31
+Pondicherry,0.32
+Fatehgarh Sahib,0.32
+Rupnagar,0.31
+Patiala,0.32
+Sahibzada Ajit Singh Nagar Mohali,0.36
+Mansa,0.26
+Kapurthala,0.33
+Nawanshahr,0.29
+Hoshiarpur,0.26
+Gurdaspur,0.26
+Jalandhar,0.33
+Moga,0.27
+Tarn Taran,0.31
+Faridkot,0.31
+Barnala,0.31
+Firozpur,0.3
+Sangrur,0.35
+Ludhiana,0.29
+Bathinda,0.32
+Muktsar,0.26
+Amritsar,0.3
+Punjab,0.31
+Jhunjhunu,0.23
+Jaipur,0.32
+Pali,0.2
+Sikar,0.26
+Hanumangarh,0.24
+Churu,0.21
+Jodhpur,0.37
+Dausa,0.22
+Tonk,0.29
+Ganganagar,0.25
+Bikaner,0.29
+Barmer,0.25
+Alwar,0.39
+Jalore,0.25
+Kota,0.28
+Nagaur,0.22
+Ajmer,0.31
+Bhilwara,0.24
+Rajsamand,0.24
+Jaisalmer,0.2
+Chittaurgarh,0.3
+Sawai Madhopur,0.21
+Udaipur,0.28
+Bundi,0.24
+Jhalawar,0.2
+Karauli,0.23
+Baran,0.2
+Banswara,0.27
+Dhaulpur,0.25
+Sirohi,0.29
+Bharatpur,0.25
+Dungarpur,0.24
+Pratapgarh,
+Rajasthan,0.29
+East District,0.28
+West District,0.19
+South District,0.24
+North District,0.24
+Sikkim,0.26
+Thiruvallur,0.3
+Chennai,0.34
+Thanjavur,0.28
+Thiruvarur,0.23
+Namakkal,0.32
+Nagapattinam,0.26
+Kanyakumari,0.36
+Tiruchirappalli,0.29
+Kanchipuram,0.31
+Coimbatore,0.34
+Pudukkottai,0.27
+Perambalur,0.27
+Ariyalur,0.24
+Erode,0.31
+Karur,0.3
+Dindigul,0.28
+Madurai,0.28
+Theni,0.24
+Tirunelveli,0.28
+Vellore,0.28
+Ramanathapuram,0.25
+Thoothukkudi,0.2
+Salem,0.26
+Tiruvannamalai,0.29
+Dharmapuri,0.32
+Sivaganga,0.27
+Virudhunagar,0.27
+The Nilgiris,0.3
+Krishnagiri,0.39
+Cuddalore,0.27
+Villupuram,0.27
+Tiruppur,
+Tamil Nadu,0.33
+Medak,0.23
+Ranga Reddy,0.31
+Mahbubnagar,0.25
+Karimnagar,0.2
+Adilabad,0.37
+Nizamabad,0.27
+Warangal,0.23
+Khammam,0.23
+Hyderabad,0.26
+Nalgonda,0.32
+Telangana,0.17
+Dhalai,0.17
+North Tripura,0.24
+South Tripura,0.24
+West Tripura,0.27
+Tripura,0.25
+Ghaziabad,0.4
+Gautam Buddha Nagar,0.47
+Muzaffarnagar,0.27
+Meerut,0.46
+Auraiya,0.19
+Pilibhit,0.25
+Saharanpur,0.26
+Hathras,0.25
+Aligarh,0.28
+Bulandshahr,0.26
+Mathura,0.23
+Kanpur Dehat,0.2
+Jhansi,0.34
+Baghpat,0.28
+Deoria,0.31
+Shrawasti,0.15
+Jyotiba Phule Nagar,0.24
+Sultanpur,0.31
+Varanasi,0.32
+Etawah,0.21
+Lalitpur,0.23
+Kanpur Nagar,0.33
+Bareilly,0.27
+Ghazipur,0.24
+Kushi Nagar,0.24
+Gorakhpur,0.32
+Lucknow,0.42
+Kheri,0.24
+Bijnor,0.25
+Siddharth Nagar,0.27
+Farrukhabad,0.24
+Agra,0.26
+Moradabad,0.27
+Sant Kabeer Nagar,0.25
+Chandauli,0.3
+Prayagraj,0.37
+Budaun,0.22
+Shahjahanpur,0.21
+Bahraich,0.24
+Kanshiram Nagar,0.29
+Firozabad,0.24
+Mahoba,0.26
+Ballia,0.27
+Mirzapur,0.28
+Hardoi,0.21
+Jaunpur,0.23
+Unnao,0.27
+Ambedkar Nagar,0.22
+Etah,0.3
+Rampur,0.21
+Jalaun,0.28
+Balrampur,0.2
+Gonda,0.24
+Maharajganj,0.26
+Barabanki,0.19
+Chitrakoot,0.17
+Sitapur,0.26
+Azamgarh,0.27
+Fatehpur,0.19
+Basti,0.31
+Faizabad,0.39
+Sonbhadra,0.27
+Mainpuri,0.25
+Rae Bareli,0.22
+Pratapgarh,0.23
+Hamirpur,0.24
+Mau,0.28
+Banda,0.22
+Kaushambi,0.27
+Bhadohi,0.24
+Kannauj,0.25
+Chamoli,0.2
+Rudraprayag,0.19
+Tehri Garhwal,0.2
+Pithoragarh,0.25
+Bageshwar,0.26
+Uttar Kashi,0.21
+Dehradun,0.28
+Haridwar,0.48
+Garhwal,0.26
+Almora,0.27
+Champawat,0.29
+Udam Singh Nagar,0.3
+Nainital,0.33
+Uttarakhand,0.35
+Kolkata,0.4
+Jalpaiguri,0.22
+Darjeeling,0.28
+North Twenty Four Parganas,0.38
+Haora,0.31
+Purba Medinipur,0.32
+Maldah,0.26
+South Twenty Four Parganas,0.29
+Koch Bihar,0.2
+Paschim Medinipur,0.28
+Birbhum,0.24
+Murshidabad,0.22
+Bankura,0.25
+Barddhaman,0.31
+Dinajpur Dakshi,0.24
+Hugli,0.28
+Nadia,0.25
+Dinajpur Uttar,0.28
+Puruliya,0.23
+West Bengal,0.33

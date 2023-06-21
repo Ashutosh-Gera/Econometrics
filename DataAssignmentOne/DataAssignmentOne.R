@@ -1,0 +1,702 @@
+# Econonometrics Data Assignment One
+
+#----Question 1-----
+# We are picking Ground Water Quality Data
+df1 <- read.csv("/home/ashu/Desktop/sem4/econometrics/DataAssignmentOne/NDAP_REPORT_7065.csv")
+
+#Question 2
+# Removing rows in which District code is na
+missing_district <- is.na(df1$District.LGD.Code)
+df1 <- df1[!missing_district,]
+
+# Removing rows in which District code is 0 because No district is assigned to this District code
+zeros <- df1$District.LGD.Code == 0
+df1 <- df1[!zeros,]
+
+# Changed Tamilnadu to Tamil Nadu because some of the states with Tamil Nadu are already given.
+df1$State[df1$State == "Tamilnadu"] <- "Tamil Nadu"
+df1$State[df1$State == "The Dadra And Nagar Haveli And Daman And Diu"] <- "Gujarat"
+df_sort<- df1[order(df1$YearCode, df1$District.LGD.Code),]
+# Removing columns which are not required in district-year level dataset
+df_subset <- subset(df_sort, select = -c(ROWID,Country,SourceYear,Ground.Water.Station.Name,Ground.Water.Station.Latitude,Ground.Water.Station.Longitude,Year))
+
+library(dplyr)
+# Aggregate data to district-year level
+df1_2 <- df_subset %>%
+  group_by(State,District, YearCode) %>%
+  summarize(
+    District.Code=max(District.LGD.Code),
+    State.Code=max(State.LGD.Code, na.rm = TRUE),
+    Amount.of.Arsenic = mean(Amount.of.Arsenic, na.rm = TRUE),
+    Amount.of.carbonate = mean(Amount.of.carbonate, na.rm = TRUE),
+    Amount.of.Calcium = mean(Amount.of.Calcium, na.rm = TRUE),
+    Amount.of.Chloride = mean(Amount.of.Chloride, na.rm = TRUE),
+    Amount.of.Electrical.Conductivity = mean(Amount.of.Electrical.Conductivity, na.rm = TRUE),
+    Amount.of.Fluorine = mean(Amount.of.Fluorine, na.rm = TRUE),
+    Amount.of.Iron = mean(Amount.of.Iron, na.rm = TRUE),
+    Amount.of.Hydrogencarbonate = mean(Amount.of.Hydrogencarbonate, na.rm = TRUE),
+    Amount.of.Potassium = mean(Amount.of.Potassium, na.rm = TRUE),
+    # Add additional indicators as needed
+    Amount.of.Magnesium = mean(Amount.of.Magnesium, na.rm = TRUE),
+    Amount.of.Nitrate = mean(Amount.of.Nitrate, na.rm = TRUE),
+    Amount.of.Sodium = mean(Amount.of.Sodium, na.rm = TRUE),
+    Percentage.of.Sodium = mean(Percentage.of.Sodium, na.rm = TRUE),
+    Amount.of.Phosphate.Ion = mean(Amount.of.Phosphate.Ion, na.rm = TRUE),
+    Amount.of.Residual.Sodium.Carbonate = mean(Amount.of.Residual.Sodium.Carbonate, na.rm = TRUE),
+    Amount.of.Sodium.absorption.ratio = mean(Amount.of.Sodium.absorption.ratio, na.rm = TRUE),
+    Amount.of.Sulfate = mean(Amount.of.Sulfate, na.rm = TRUE),
+    Amount.of.Silicon.dioxide = mean(Amount.of.Silicon.dioxide, na.rm = TRUE),
+    Amount.of.Hardness.Total = mean(Amount.of.Hardness.Total, na.rm = TRUE),
+    Amount.of.Alkalinity.Total = mean(Amount.of.Alkalinity.Total, na.rm = TRUE),
+    Amount.of.Total.Dissolved.Solids = mean(Amount.of.Total.Dissolved.Solids, na.rm = TRUE),
+    Amount.of.Potential.of.Hydrogen = mean(Amount.of.Potential.of.Hydrogen, na.rm = TRUE),
+    
+    
+  ) %>%
+  ungroup()
+
+# Create a unique district-year ID for each row
+df1_2 <- df1_2 %>%
+  mutate(district_year_id = paste0(District.Code, "_", YearCode))
+# changing nan values to ''
+df1_2 <- df1_2 %>%
+  mutate_if(is.numeric, ~ifelse(is.nan(.), '', .))
+
+#there are some differnet distric with same district code, So dropped that rows
+duplicate_rows <- df1_2[duplicated(df1_2$district_year_id),]
+df1_2 <- df1_2[!duplicated(df1_2$district_year_id),]
+
+# Question 3
+# Read in the state-year wise economic output data
+sdp_data <- read.csv("/home/ashu/Desktop/sem4/econometrics/DataAssignmentOne/sdp_data.csv")
+sdp_data <- sdp_data %>% rename(YearCode = Year)
+merged_data <- merge(df1_2, sdp_data, by = c("State", "YearCode"))
+
+#Question 4
+# Read in the gini index data
+gini_data <- read.csv("/home/ashu/Desktop/sem4/econometrics/DataAssignmentOne/Gini.csv")
+
+final_merged_data <- merge(merged_data, gini_data, by = c("District"),all.x = TRUE)
+duplicate_rows <- final_merged_data[duplicated(final_merged_data$district_year_id),]
+final_merged_data <- final_merged_data[!duplicated(final_merged_data$district_year_id),]
+final_merged_data$Ginni.Index[is.na(final_merged_data$Ginni.Index)] <- ""
+
+final_merged_data$Ginni.Index <- ifelse(final_merged_data$State == "Uttar Pradesh" & final_merged_data$District == "Pratapgarh", 2.3, final_merged_data$Ginni.Index)
+final_merged_data$Ginni.Index <- ifelse(final_merged_data$State == "Rajasthan" & final_merged_data$District == "Pratapgarh", "",  final_merged_data$Ginni.Index)
+write.csv(final_merged_data, "/home/ashu/Desktop/sem4/econometrics/DataAssignmentOne/group_8.csv", row.names = FALSE)
+
+final_merged_data$Amount.of.Arsenic <- as.numeric(final_merged_data$Amount.of.Arsenic)
+final_merged_data$Amount.of.carbonate <- as.numeric(final_merged_data$Amount.of.carbonate)
+final_merged_data$Amount.of.Calcium <- as.numeric(final_merged_data$Amount.of.Calcium)
+final_merged_data$Amount.of.Chloride <- as.numeric(final_merged_data$Amount.of.Chloride)
+final_merged_data$Amount.of.Electrical.Conductivity <- as.numeric(final_merged_data$Amount.of.Electrical.Conductivity)
+final_merged_data$Amount.of.Fluorine <- as.numeric(final_merged_data$Amount.of.Fluorine)
+final_merged_data$Amount.of.Iron <- as.numeric(final_merged_data$Amount.of.Iron)
+final_merged_data$Amount.of.Hydrogencarbonate <- as.numeric(final_merged_data$Amount.of.Hydrogencarbonate)
+final_merged_data$Amount.of.Potassium <- as.numeric(final_merged_data$Amount.of.Potassium)
+final_merged_data$Amount.of.Magnesium <- as.numeric(final_merged_data$Amount.of.Magnesium)
+final_merged_data$Amount.of.Nitrate <- as.numeric(final_merged_data$Amount.of.Nitrate)
+final_merged_data$Amount.of.Sodium <- as.numeric(final_merged_data$Amount.of.Sodium)
+final_merged_data$Percentage.of.Sodium <- as.numeric(final_merged_data$Percentage.of.Sodium)
+final_merged_data$Amount.of.Phosphate.Ion <- as.numeric(final_merged_data$Amount.of.Phosphate.Ion)
+final_merged_data$Amount.of.Residual.Sodium.Carbonate <- as.numeric(final_merged_data$Amount.of.Residual.Sodium.Carbonate)
+final_merged_data$Amount.of.Sodium.absorption.ratio <- as.numeric(final_merged_data$Amount.of.Sodium.absorption.ratio)
+final_merged_data$Amount.of.Sulfate <- as.numeric(final_merged_data$Amount.of.Sulfate)
+final_merged_data$Amount.of.Silicon.dioxide <- as.numeric(final_merged_data$Amount.of.Silicon.dioxide)
+final_merged_data$Amount.of.Hardness.Total <- as.numeric(final_merged_data$Amount.of.Hardness.Total)
+final_merged_data$Amount.of.Alkalinity.Total <- as.numeric(final_merged_data$Amount.of.Alkalinity.Total)
+final_merged_data$Amount.of.Total.Dissolved.Solids <- as.numeric(final_merged_data$Amount.of.Total.Dissolved.Solids)
+final_merged_data$Amount.of.Potential.of.Hydrogen <- as.numeric(final_merged_data$Amount.of.Potential.of.Hydrogen)
+final_merged_data$SDP <- as.numeric(final_merged_data$SDP)
+final_merged_data$Ginni.Index<- as.numeric(final_merged_data$Ginni.Index)
+
+
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+# Till now all the steps were to prepare our required dataset.
+# Now we have a csv file named "final_merged_data.csv" consisting of 11442 obs. of 30 variables and 
+# on which we will be doing our questions 5 to 9
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------
+
+
+final_merged_data <- read.csv("/home/ashu/Desktop/sem4/econometrics/DataAssignmentOne/final_merged_data.csv")
+df <- final_merged_data
+
+#Viewing the complete dataset
+View(df)
+
+#class(df)
+#dim(df) 
+
+#df is our dataframe which we are gonna use (and modify) in questions
+
+# ------ Starting Ques5 here on -----
+
+# Prepare detailed summary statistics for all the variables (tables; histogram; box-plot;
+# shape of the distribution, skew). Are there any outliers?
+
+# In our data, we have total of 22 variables, we will do analysis of each and every variable one by one
+# First let's isolate each variable from our data set
+
+amountArsenic <- df$Amount.of.Arsenic
+amountCarbonate <- df$Amount.of.carbonate
+amountCalcium <- df$Amount.of.Calcium
+amountChloride <- df$Amount.of.Chloride
+amountElecConductivity <- df$Amount.of.Electrical.Conductivity
+amountFluorine <- df$Amount.of.Fluorine
+amountIron <- df$Amount.of.Iron
+amountHydrogenCarbonate <- df$Amount.of.Hydrogencarbonate
+amountPotassium <- df$Amount.of.Potassium
+amountMagnesium <- df$Amount.of.Magnesium
+amountNitrate <- df$Amount.of.Nitrate
+amountSodium <- df$Amount.of.Sodium
+percentageSodium <- df$Percentage.of.Sodium
+amountPhosphate <- df$Amount.of.Phosphate.Ion
+amountSodiumCarbonate <- df$Amount.of.Residual.Sodium.Carbonate
+amountSodiumAbsorptionRatio <- df$Amount.of.Sodium.absorption.ratio
+amountSulfate <- df$Amount.of.Sulfate
+amountSiliconDiOxide <- df$Amount.of.Silicon.dioxide
+totalHardness <- df$Amount.of.Hardness.Total
+totalAlkalinity <- df$Amount.of.Alkalinity.Total
+totalDissolvedSolids <- df$Amount.of.Total.Dissolved.Solids
+hydrogenPotential <- df$Amount.of.Potential.of.Hydrogen
+
+#we have isolated all our variables
+# Now we will prepare summary statistics for all our variables
+
+# ----Amount of Arsenic----
+df2 = df[df$Amount.of.Arsenic>0,]
+#df2$Amount.of.Arsenic <- as.numeric(df2$Amount.of.Arsenic)
+#View(df2)
+summary(amountArsenic)
+summary(df2$Amount.of.Arsenic)
+df2$YearCode <- as.factor(df2$YearCode)
+#We have made 2 histograms for arsenic, one using df and other using df2
+ggplot(df2, aes(x = Amount.of.Arsenic)) + 
+         geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                        position = 'identity', bins = 30) + xlab("Amount of arsenic") +
+       ylab("District count")
+df3 <- df
+df3$YearCode <- as.factor(df3$YearCode)
+#df3[is.na(df3)] <- 0
+ggplot(df3, aes(x = YearCode, y = Amount.of.Arsenic)) +
+      geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=4) +
+  geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+
+#Calculating the skewness of distribution
+skewness(df3$Amount.of.Arsenic, na.rm = TRUE)
+
+#----Amount of Carbonate----
+
+summary(amountCarbonate)
+df3 <- df
+df3$YearCode <- as.factor(df3$YearCode)
+
+ggplot(df3, aes(x = Amount.of.carbonate)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Carbonate") +
+  ylab("District count")
+
+#df3[is.na(df3)] <- 0
+ggplot(df3, aes(x = YearCode, y = Amount.of.carbonate)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2) #+
+  #geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+
+#Calculating the skewness of distribution
+skewness(df$Amount.of.carbonate, na.rm = TRUE)
+#View(amountCarbonate)
+
+#----Amount of Calcium----
+
+summary(amountCalcium)
+df3 <- df
+df3$YearCode <- as.factor(df3$YearCode)
+
+ggplot(df3, aes(x = Amount.of.Calcium)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Calcium") +
+  ylab("District count")
+
+#df3[is.na(df3)] <- 0
+ggplot(df3, aes(x = YearCode, y = Amount.of.Calcium)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2) #+
+#geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+
+#Calculating the skewness of distribution
+skewness(df$Amount.of.Calcium, na.rm = TRUE)
+#View(amountCalcium)
+
+#----Amount of Chloride----
+
+summary(amountChloride)
+df3 <- df
+df3$YearCode <- as.factor(df3$YearCode)
+
+ggplot(df3, aes(x = Amount.of.Chloride)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Chloride") +
+  ylab("District count")
+
+#df3[is.na(df3)] <- 0
+ggplot(df3, aes(x = YearCode, y = Amount.of.Chloride)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2) #+
+#geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+
+#Calculating the skewness of distribution
+skewness(df$Amount.of.Chloride, na.rm = TRUE)
+
+#----Amount of Electrical Conductivity----
+
+summary(amountElecConductivity)
+
+ggplot(df3, aes(x = Amount.of.Electrical.Conductivity)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Electrical Conductivity") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Electrical.Conductivity)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2) #+
+
+
+skewness(df$Amount.of.Electrical.Conductivity, na.rm = TRUE)
+
+#----Amount of Fluorine---
+
+summary(amountFluorine)
+
+ggplot(df3, aes(x = Amount.of.Fluorine)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Fluorine") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Fluorine)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Fluorine, na.rm = TRUE)
+
+#----Amount of Iron---
+
+summary(amountIron)
+
+ggplot(df3, aes(x = Amount.of.Iron)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Iron") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Iron)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Iron, na.rm = TRUE)
+
+#----Amount of Hydrogen Carbonate---
+
+summary(amountHydrogenCarbonate)
+
+ggplot(df3, aes(x = Amount.of.Hydrogencarbonate)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Hydrogen Carbonate") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Hydrogencarbonate)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Hydrogencarbonate, na.rm = TRUE)
+
+#----Amount of Potassium---
+
+summary(amountPotassium)
+
+ggplot(df3, aes(x = Amount.of.Potassium)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Potassium") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Potassium)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Potassium, na.rm = TRUE)
+
+#----Amount of Magnesium---
+
+summary(amountMagnesium)
+
+ggplot(df3, aes(x = Amount.of.Magnesium)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Magnesium") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Magnesium)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Magnesium, na.rm = TRUE)
+
+#----Amount of Nitrate---
+
+summary(amountNitrate)
+
+ggplot(df3, aes(x = Amount.of.Nitrate)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Nitrate") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Nitrate)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Nitrate, na.rm = TRUE)
+
+#----Amount of Sodium---
+
+summary(amountSodium)
+
+ggplot(df3, aes(x = Amount.of.Sodium)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Sodium") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Sodium)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Sodium, na.rm = TRUE)
+
+#----Percentage of Sodium---
+
+summary(percentageSodium)
+
+ggplot(df3, aes(x = Percentage.of.Sodium)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Percentage of Sodium") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Percentage.of.Sodium)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Percentage.of.Sodium, na.rm = TRUE)
+
+#----Amount of Phosphate ion---
+
+summary(amountPhosphate)
+
+ggplot(df3, aes(x = Amount.of.Phosphate.Ion)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount.of.Phosphate.Ion") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Phosphate.Ion)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Phosphate.Ion, na.rm = TRUE)
+
+#----Amount of Residual Sodium Carbonate---
+
+summary(amountSodiumCarbonate)
+
+ggplot(df3, aes(x = Amount.of.Residual.Sodium.Carbonate)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount.of.Residual.Sodium.Carbonate") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Residual.Sodium.Carbonate)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Residual.Sodium.Carbonate, na.rm = TRUE)
+
+#----Amount of Sodium Absorption Ratio---
+
+summary(amountSodiumAbsorptionRatio)
+
+ggplot(df3, aes(x = Amount.of.Sodium.absorption.ratio)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Sodium Absorption Ratio") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Sodium.absorption.ratio)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Sodium.absorption.ratio, na.rm = TRUE)
+
+#----Amount of Sulfate---
+
+summary(amountSulfate)
+
+ggplot(df3, aes(x = Amount.of.Sulfate)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Sulfate") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Sulfate)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Sulfate, na.rm = TRUE)
+
+#----Amount of Silicon Dioxide---
+
+summary(amountSiliconDiOxide)
+
+ggplot(df3, aes(x = Amount.of.Silicon.dioxide)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Silicon dioxide") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Silicon.dioxide)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Silicon.dioxide, na.rm = TRUE)
+
+#----Amount of Hardness total---
+
+summary(totalHardness)
+
+ggplot(df3, aes(x = Amount.of.Hardness.Total)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Hardness Total") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Hardness.Total)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Hardness.Total, na.rm = TRUE)
+
+#----Amount of Alkalinity total---
+
+summary(totalAlkalinity)
+
+ggplot(df3, aes(x = Amount.of.Alkalinity.Total)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Alkalinity Total") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Alkalinity.Total)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Alkalinity.Total, na.rm = TRUE)
+
+#----Amount of total dissolved solids---
+
+summary(totalDissolvedSolids)
+
+ggplot(df3, aes(x = Amount.of.Total.Dissolved.Solids)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Total Dissolved Solids") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Total.Dissolved.Solids)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Total.Dissolved.Solids, na.rm = TRUE)
+
+#----Amount of Potential of Hydrogen---
+
+summary(hydrogenPotential)
+
+ggplot(df3, aes(x = Amount.of.Potential.of.Hydrogen)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Amount of Potential of Hydrogen") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Amount.of.Potential.of.Hydrogen)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Amount.of.Potential.of.Hydrogen, na.rm = TRUE)
+
+#----SDP---
+
+summary(df$SDP)
+
+ggplot(df3, aes(x = SDP)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("SDP") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = SDP)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$SDP, na.rm = TRUE)
+
+#----Ginni Index---
+
+summary(df$Ginni.Index)
+
+ggplot(df3, aes(x = Ginni.Index)) + 
+  geom_histogram(aes(color = YearCode), fill = 'cyan', 
+                 position = 'identity', bins = 30) + xlab("Ginni Index") +
+  ylab("District count")
+
+
+ggplot(df3, aes(x = YearCode, y = Ginni.Index)) +
+  geom_boxplot() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=2)
+
+
+skewness(df$Ginni.Index, na.rm = TRUE)
+
+
+#-----Q5 Completed!!!!---
+
+
+#-----Starting Question 6------
+
+#Now, using this data, estimate the following regression for any one environmental
+#quality indicator of your choice. Summarize the results in a table and interpret in
+#plain English. Note that i indexes districts, t indexes years, and ui,t is random error.
+#Environmental Quality Indicator (EQI)i,t = β0 + β1SDPi,t + ui,t
+
+#We are choosing AMOUNT OF HYDROGEN CARBONATE to be our EQI since it is closer to normal distribution as compared to others
+
+df4 <- df
+missing_eqi <- is.na(df4$Amount.of.Hydrogencarbonate)
+df4 <- df4[!missing_eqi,]
+
+missing_sdp <- is.na(df4$SDP)
+df4 <- df4[!missing_sdp,]
+
+EQI_lm <- lm(formula = Amount.of.Hydrogencarbonate ~ SDP, data = df4)
+summary(EQI_lm)
+
+#N = 7179
+#Interpretation in doc!!!
+#------Question 6 done------
+
+#------Starting Question 7 -------
+
+res <- resid(EQI_lm) #getting list of residuals
+#length(res) gives 7179, hence, we have all the residuals
+
+#Residual vs Fitted plot, useful for visually detecting hetereoskedasticity
+plot(fitted(EQI_lm), res)
+abline(0,0)
+# => Our data is heteroskedastic
+
+#Density plot, useful for visually checking whether or not the residuals are normally distributed
+plot(density(res))
+# We can see that the density plot roughly follows a bell shape, although it is slightly skewed to the right.
+
+#Visualize the model residuals (i.e.,ûi,t) on a plot having the environmental quality
+#indicator on Y-axis and SDP on the X-axis.
+
+plot1 <- ggplot(df4, aes(x = SDP, y = Amount.of.Hydrogencarbonate)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(x = "SDP", y = "Environmental Quality Indicator(Amount of H2CO3) ") +
+  ggtitle("Environmental Quality Indicator vs. SDP")
+plot1
+
+
+plot2 <- ggplot(df4, aes(x = SDP, y = res)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(x = "SDP", y = "Model Residuals") +
+  ggtitle("Model Residuals vs SDP")
+plot2
+
+predicted <- predict(EQI_lm)
+plot3 <- ggplot(df4, aes(x = Amount.of.Hydrogencarbonate, y = predicted)) +
+  geom_point() +
+  geom_abline(slope = 1, intercept = 0, color = "red") +
+  labs(x = "Actual Environmental Quality Indicator", y = "Predicted Environmental Quality Indicator") +
+  ggtitle("Predicted vs Actual Environmental Quality Indicator") 
+plot3
+
+#Write interpretations and question 7 is done!!!
+#-----Question 7 done------
+
+#-----Question 8 ---------
+
+# Plot a histogram of the residuals
+hist(res, main = "Histogram of Model Residuals",col="cyan",freq=TRUE)
+
+# Calculate the sum of the residuals
+sum_residuals <- sum(res)
+print(paste0("Sum of Residuals: ", sum_residuals))
+
+#-----Question 9------
+#Final Regression Model
+#View(df4)
+df5 <- df4
+df5$sdp2 <- 0
+
+# Looping through each row and assigning the unique identifier
+for (i in 1:nrow(df5)) {
+  df5$sdp2[i] <- (df5$SDP[i] ^ 2)
+}
+#View(df5)
+
+df5$sdp3 <- 0
+
+# Looping through each row and assigning the unique identifier
+for (i in 1:nrow(df5)) {
+  df5$sdp3[i] <- (df5$SDP[i] ^ 3)
+}
+
+EQI_lm2 <- lm(formula = Amount.of.Hydrogencarbonate ~ SDP + sdp2 + sdp3 + Ginni.Index, data = df5)
+summary(EQI_lm2)
+
+
+
+
+
+
