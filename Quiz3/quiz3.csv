@@ -1,0 +1,2426 @@
+country,state,district,yearcode,dyid,road_sum,districtcode
+India,West Bengal,24 Paraganas North,2011,24 Paraganas North2011,30.113,1
+India,West Bengal,24 Paraganas North,2012,24 Paraganas North2012,239.487,1
+India,West Bengal,24 Paraganas North,2013,24 Paraganas North2013,427.56,1
+India,West Bengal,24 Paraganas North,2016,24 Paraganas North2016,27.695,1
+India,West Bengal,24 Paraganas North,2017,24 Paraganas North2017,645.469,1
+India,West Bengal,24 Paraganas North,2018,24 Paraganas North2018,.,1
+India,West Bengal,24 Paraganas South,2011,24 Paraganas South2011,88.035,2
+India,West Bengal,24 Paraganas South,2012,24 Paraganas South2012,171.847,2
+India,West Bengal,24 Paraganas South,2016,24 Paraganas South2016,575.578,2
+India,West Bengal,24 Paraganas South,2017,24 Paraganas South2017,151.251,2
+India,Telangana,Adilabad,2012,Adilabad2012,9.575,3
+India,Telangana,Adilabad,2016,Adilabad2016,.,3
+India,Telangana,Adilabad,2017,Adilabad2017,130.517,3
+India,Madhya Pradesh,Agar Malwa,2011,Agar Malwa2011,33,4
+India,Madhya Pradesh,Agar Malwa,2012,Agar Malwa2012,183.74,4
+India,Madhya Pradesh,Agar Malwa,2013,Agar Malwa2013,35.12,4
+India,Madhya Pradesh,Agar Malwa,2015,Agar Malwa2015,116.1,4
+India,Madhya Pradesh,Agar Malwa,2016,Agar Malwa2016,8.9,4
+India,Madhya Pradesh,Agar Malwa,2017,Agar Malwa2017,7.05,4
+India,Madhya Pradesh,Agar Malwa,2018,Agar Malwa2018,.,4
+India,Uttar Pradesh,Agra,2011,Agra2011,18.06,5
+India,Uttar Pradesh,Agra,2012,Agra2012,123.3,5
+India,Gujarat,Ahmadabad,2013,Ahmadabad2013,129.804,6
+India,Gujarat,Ahmadabad,2016,Ahmadabad2016,.,6
+India,Maharashtra,Ahmednagar,2012,Ahmednagar2012,76.395,7
+India,Maharashtra,Ahmednagar,2013,Ahmednagar2013,47.82,7
+India,Maharashtra,Ahmednagar,2017,Ahmednagar2017,49.495,7
+India,Mizoram,Aizawl,2013,Aizawl2013,28.75,8
+India,Mizoram,Aizawl,2016,Aizawl2016,100.08,8
+India,Mizoram,Aizawl,2017,Aizawl2017,39.54,8
+India,Rajasthan,Ajmer,2011,Ajmer2011,32.3,9
+India,Rajasthan,Ajmer,2012,Ajmer2012,57.97,9
+India,Rajasthan,Ajmer,2013,Ajmer2013,30.145,9
+India,Rajasthan,Ajmer,2016,Ajmer2016,39.35,9
+India,Maharashtra,Akola,2012,Akola2012,13.2,10
+India,Kerala,Alappuzha,2013,Alappuzha2013,24.7,11
+India,Uttar Pradesh,Aligarh,2012,Aligarh2012,107.05,12
+India,Uttar Pradesh,Aligarh,2018,Aligarh2018,15.85,12
+India,West Bengal,Alipurduar,2011,Alipurduar2011,15.21,13
+India,West Bengal,Alipurduar,2012,Alipurduar2012,38.333,13
+India,West Bengal,Alipurduar,2013,Alipurduar2013,35.697,13
+India,West Bengal,Alipurduar,2017,Alipurduar2017,276.457,13
+India,West Bengal,Alipurduar,2018,Alipurduar2018,.,13
+India,Madhya Pradesh,Alirajpur,2012,Alirajpur2012,145.33,14
+India,Madhya Pradesh,Alirajpur,2013,Alirajpur2013,4.75,14
+India,Madhya Pradesh,Alirajpur,2015,Alirajpur2015,.,14
+India,Madhya Pradesh,Alirajpur,2016,Alirajpur2016,44.67,14
+India,Madhya Pradesh,Alirajpur,2017,Alirajpur2017,50.53,14
+India,Madhya Pradesh,Alirajpur,2018,Alirajpur2018,.,14
+India,Uttarakhand,Almora,2011,Almora2011,2.25,15
+India,Uttarakhand,Almora,2012,Almora2012,59.26,15
+India,Uttarakhand,Almora,2013,Almora2013,170.35,15
+India,Uttarakhand,Almora,2016,Almora2016,341.532,15
+India,Uttarakhand,Almora,2017,Almora2017,321.862,15
+India,Uttarakhand,Almora,2018,Almora2018,1071.189,15
+India,Uttarakhand,Almora,2021,Almora2021,184.475,15
+India,Rajasthan,Alwar,2011,Alwar2011,4.4,16
+India,Rajasthan,Alwar,2012,Alwar2012,153.03,16
+India,Uttar Pradesh,Ambedkar Nagar,2011,Ambedkar Nagar2011,44.545,17
+India,Uttar Pradesh,Ambedkar Nagar,2012,Ambedkar Nagar2012,80.615,17
+India,Uttar Pradesh,Ambedkar Nagar,2018,Ambedkar Nagar2018,18.6,17
+India,Uttar Pradesh,Amethi,2011,Amethi2011,19.065,18
+India,Uttar Pradesh,Amethi,2012,Amethi2012,134.875,18
+India,Maharashtra,Amravati,2012,Amravati2012,15.2,19
+India,Maharashtra,Amravati,2013,Amravati2013,43.65,19
+India,Gujarat,Amreli,2013,Amreli2013,31.5,20
+India,Punjab,Amritsar,2011,Amritsar2011,112.815,21
+India,Punjab,Amritsar,2012,Amritsar2012,82.63,21
+India,Punjab,Amritsar,2013,Amritsar2013,34.34,21
+India,Punjab,Amritsar,2014,Amritsar2014,3.6,21
+India,Uttar Pradesh,Amroha,2011,Amroha2011,4.305,22
+India,Uttar Pradesh,Amroha,2012,Amroha2012,80.875,22
+India,Uttar Pradesh,Amroha,2018,Amroha2018,6,22
+India,Gujarat,Anand,2012,Anand2012,8.7,23
+India,Gujarat,Anand,2013,Anand2013,30.44,23
+India,Andhra Pradesh,Anantapur,2013,Anantapur2013,456.76,24
+India,Andhra Pradesh,Anantapur,2017,Anantapur2017,31.64,24
+India,Andhra Pradesh,Anantapur,2018,Anantapur2018,.,24
+India,Jammu And Kashmir,Anantnag,2011,Anantnag2011,122.1,25
+India,Jammu And Kashmir,Anantnag,2012,Anantnag2012,30.55,25
+India,Jammu And Kashmir,Anantnag,2016,Anantnag2016,175.77,25
+India,Jammu And Kashmir,Anantnag,2017,Anantnag2017,12.28,25
+India,Jammu And Kashmir,Anantnag,2018,Anantnag2018,251.305,25
+India,Arunachal Pradesh,Anjaw,2012,Anjaw2012,9.07,26
+India,Arunachal Pradesh,Anjaw,2013,Anjaw2013,16.72,26
+India,Arunachal Pradesh,Anjaw,2014,Anjaw2014,62.366,26
+India,Arunachal Pradesh,Anjaw,2018,Anjaw2018,48.33,26
+India,Odisha,Anugul,2011,Anugul2011,57.7,27
+India,Odisha,Anugul,2012,Anugul2012,259.51,27
+India,Odisha,Anugul,2013,Anugul2013,30.38,27
+India,Odisha,Anugul,2016,Anugul2016,126.925,27
+India,Odisha,Anugul,2017,Anugul2017,57.27,27
+India,Madhya Pradesh,Anuppur,2011,Anuppur2011,154.945,28
+India,Madhya Pradesh,Anuppur,2015,Anuppur2015,12.5,28
+India,Madhya Pradesh,Anuppur,2016,Anuppur2016,.,28
+India,Madhya Pradesh,Anuppur,2017,Anuppur2017,59.72,28
+India,Bihar,Araria,2012,Araria2012,84.542,29
+India,Bihar,Araria,2013,Araria2013,305.423,29
+India,Bihar,Araria,2016,Araria2016,78.927,29
+India,Bihar,Araria,2017,Araria2017,3.497,29
+India,Bihar,Araria,2018,Araria2018,.,29
+India,Bihar,Araria,2020,Araria2020,.,29
+India,Tamil Nadu,Ariyalur,2012,Ariyalur2012,55.3,30
+India,Tamil Nadu,Ariyalur,2014,Ariyalur2014,100.541,30
+India,Tamil Nadu,Ariyalur,2018,Ariyalur2018,12.141,30
+India,Gujarat,Arvalli,2011,Arvalli2011,4.54,31
+India,Gujarat,Arvalli,2012,Arvalli2012,55.83,31
+India,Gujarat,Arvalli,2013,Arvalli2013,196.28,31
+India,Gujarat,Arvalli,2018,Arvalli2018,.,31
+India,Bihar,Arwal,2011,Arwal2011,84.607,32
+India,Bihar,Arwal,2012,Arwal2012,.,32
+India,Bihar,Arwal,2013,Arwal2013,60.273,32
+India,Bihar,Arwal,2016,Arwal2016,21.222,32
+India,Bihar,Arwal,2017,Arwal2017,27.499,32
+India,Madhya Pradesh,Ashoknagar,2011,Ashoknagar2011,45.525,33
+India,Madhya Pradesh,Ashoknagar,2012,Ashoknagar2012,219.7,33
+India,Madhya Pradesh,Ashoknagar,2013,Ashoknagar2013,71.6,33
+India,Madhya Pradesh,Ashoknagar,2015,Ashoknagar2015,139.225,33
+India,Madhya Pradesh,Ashoknagar,2016,Ashoknagar2016,79.425,33
+India,Madhya Pradesh,Ashoknagar,2017,Ashoknagar2017,2.25,33
+India,Madhya Pradesh,Ashoknagar,2018,Ashoknagar2018,.,33
+India,Uttar Pradesh,Auraiya,2012,Auraiya2012,51.35,34
+India,Bihar,Aurangabad,2011,Aurangabad2011,244.548,35
+India,Maharashtra,Aurangabad,2012,Aurangabad2012,6,35
+India,Bihar,Aurangabad,2013,Aurangabad2013,888.827,35
+India,Bihar,Aurangabad,2016,Aurangabad2016,246.369,35
+India,Bihar,Aurangabad,2017,Aurangabad2017,120.854,35
+India,Bihar,Aurangabad,2018,Aurangabad2018,146.905,35
+India,Bihar,Aurangabad,2020,Aurangabad2020,.,35
+India,Uttar Pradesh,Ayodhya,2011,Ayodhya2011,20.67,36
+India,Uttar Pradesh,Ayodhya,2012,Ayodhya2012,109.24,36
+India,Uttar Pradesh,Ayodhya,2018,Ayodhya2018,18.95,36
+India,Uttar Pradesh,Azamgarh,2011,Azamgarh2011,4.6,37
+India,Uttar Pradesh,Azamgarh,2012,Azamgarh2012,177,37
+India,Karnataka,Bagalkote,2013,Bagalkote2013,13.4,38
+India,Uttarakhand,Bageshwar,2012,Bageshwar2012,54.1,39
+India,Uttarakhand,Bageshwar,2013,Bageshwar2013,301.464,39
+India,Uttarakhand,Bageshwar,2016,Bageshwar2016,72.485,39
+India,Uttarakhand,Bageshwar,2017,Bageshwar2017,85.15,39
+India,Uttarakhand,Bageshwar,2018,Bageshwar2018,570.208,39
+India,Uttarakhand,Bageshwar,2021,Bageshwar2021,19.225,39
+India,Uttar Pradesh,Baghpat,2012,Baghpat2012,43.435,40
+India,Uttar Pradesh,Bahraich,2011,Bahraich2011,42.27,41
+India,Uttar Pradesh,Bahraich,2012,Bahraich2012,154.3,41
+India,Uttar Pradesh,Bahraich,2018,Bahraich2018,11.35,41
+India,Assam,Baksa,2012,Baksa2012,13.15,42
+India,Assam,Baksa,2013,Baksa2013,51.863,42
+India,Assam,Baksa,2016,Baksa2016,6.197,42
+India,Assam,Baksa,2017,Baksa2017,338.053,42
+India,Assam,Baksa,2018,Baksa2018,3.854,42
+India,Madhya Pradesh,Balaghat,2011,Balaghat2011,65.905,43
+India,Madhya Pradesh,Balaghat,2015,Balaghat2015,65.475,43
+India,Madhya Pradesh,Balaghat,2016,Balaghat2016,66.91,43
+India,Madhya Pradesh,Balaghat,2017,Balaghat2017,56.815,43
+India,Madhya Pradesh,Balaghat,2018,Balaghat2018,.,43
+India,Odisha,Balangir,2011,Balangir2011,519.33,44
+India,Odisha,Balangir,2012,Balangir2012,258.22,44
+India,Odisha,Balangir,2013,Balangir2013,344.381,44
+India,Odisha,Balangir,2016,Balangir2016,467.435,44
+India,Odisha,Balangir,2017,Balangir2017,83.18,44
+India,Odisha,Balangir,2018,Balangir2018,37.65,44
+India,Odisha,Baleshwar,2011,Baleshwar2011,118.65,45
+India,Odisha,Baleshwar,2012,Baleshwar2012,448.65,45
+India,Odisha,Baleshwar,2013,Baleshwar2013,177.22,45
+India,Odisha,Baleshwar,2016,Baleshwar2016,91.57,45
+India,Odisha,Baleshwar,2017,Baleshwar2017,204.53,45
+India,Odisha,Baleshwar,2018,Baleshwar2018,14.9,45
+India,Karnataka,Ballari,2012,Ballari2012,11.93,46
+India,Karnataka,Ballari,2013,Ballari2013,17.73,46
+India,Uttar Pradesh,Ballia,2012,Ballia2012,127.005,47
+India,Uttar Pradesh,Ballia,2018,Ballia2018,13.305,47
+India,Chhattisgarh,Balod,2011,Balod2011,13.15,48
+India,Chhattisgarh,Balod,2012,Balod2012,132.585,48
+India,Chhattisgarh,Balod,2013,Balod2013,1.76,48
+India,Chhattisgarh,Balod,2016,Balod2016,10.75,48
+India,Chhattisgarh,Balod,2018,Balod2018,.,48
+India,Chhattisgarh,Baloda Bazar,2011,Baloda Bazar2011,116.635,49
+India,Chhattisgarh,Baloda Bazar,2013,Baloda Bazar2013,193.575,49
+India,Chhattisgarh,Baloda Bazar,2016,Baloda Bazar2016,7.425,49
+India,Uttar Pradesh,Balrampur,2011,Balrampur2011,11.15,50
+India,Uttar Pradesh,Balrampur,2012,Balrampur2012,60.45,50
+India,Chhattisgarh,Balrampur,2013,Balrampur2013,.,50
+India,Chhattisgarh,Balrampur,2016,Balrampur2016,44.105,50
+India,Uttar Pradesh,Balrampur,2018,Balrampur2018,12.35,50
+India,Gujarat,Banas Kantha,2012,Banas Kantha2012,23.37,51
+India,Gujarat,Banas Kantha,2013,Banas Kantha2013,132.025,51
+India,Gujarat,Banas Kantha,2016,Banas Kantha2016,25.51,51
+India,Gujarat,Banas Kantha,2017,Banas Kantha2017,14.39,51
+India,Uttar Pradesh,Banda,2012,Banda2012,68.75,52
+India,Uttar Pradesh,Banda,2018,Banda2018,17,52
+India,Jammu And Kashmir,Bandipora,2011,Bandipora2011,60.3,53
+India,Jammu And Kashmir,Bandipora,2016,Bandipora2016,60.14,53
+India,Jammu And Kashmir,Bandipora,2018,Bandipora2018,96.615,53
+India,Bihar,Banka,2012,Banka2012,101.246,54
+India,Bihar,Banka,2013,Banka2013,322.429,54
+India,Bihar,Banka,2016,Banka2016,158.445,54
+India,Bihar,Banka,2017,Banka2017,24.83,54
+India,Bihar,Banka,2018,Banka2018,.,54
+India,Bihar,Banka,2020,Banka2020,.,54
+India,West Bengal,Bankura,2011,Bankura2011,34.97,55
+India,West Bengal,Bankura,2012,Bankura2012,583.617,55
+India,West Bengal,Bankura,2013,Bankura2013,569.473,55
+India,West Bengal,Bankura,2016,Bankura2016,469.916,55
+India,West Bengal,Bankura,2017,Bankura2017,496.599,55
+India,Rajasthan,Banswara,2011,Banswara2011,370.76,56
+India,Rajasthan,Banswara,2012,Banswara2012,178.79,56
+India,Rajasthan,Banswara,2013,Banswara2013,239.675,56
+India,Rajasthan,Banswara,2016,Banswara2016,123.435,56
+India,Uttar Pradesh,Barabanki,2012,Barabanki2012,147.465,57
+India,Uttar Pradesh,Barabanki,2018,Barabanki2018,14.4,57
+India,Jammu And Kashmir,Baramulla,2011,Baramulla2011,112.15,58
+India,Jammu And Kashmir,Baramulla,2012,Baramulla2012,32.4,58
+India,Jammu And Kashmir,Baramulla,2016,Baramulla2016,153.745,58
+India,Jammu And Kashmir,Baramulla,2017,Baramulla2017,2.2,58
+India,Jammu And Kashmir,Baramulla,2018,Baramulla2018,180.14,58
+India,Rajasthan,Baran,2012,Baran2012,34.13,59
+India,Rajasthan,Baran,2017,Baran2017,.,59
+India,Uttar Pradesh,Bareilly,2012,Bareilly2012,106.5,60
+India,Uttar Pradesh,Bareilly,2018,Bareilly2018,12,60
+India,Odisha,Bargarh,2011,Bargarh2011,102.955,61
+India,Odisha,Bargarh,2012,Bargarh2012,312.06,61
+India,Odisha,Bargarh,2013,Bargarh2013,98.602,61
+India,Odisha,Bargarh,2016,Bargarh2016,120.19,61
+India,Odisha,Bargarh,2017,Bargarh2017,114.466,61
+India,Odisha,Bargarh,2018,Bargarh2018,9.62,61
+India,Rajasthan,Barmer,2011,Barmer2011,163.655,62
+India,Rajasthan,Barmer,2012,Barmer2012,139.1,62
+India,Rajasthan,Barmer,2013,Barmer2013,412.22,62
+India,Rajasthan,Barmer,2016,Barmer2016,550.635,62
+India,Punjab,Barnala,2012,Barnala2012,70.83,63
+India,Punjab,Barnala,2013,Barnala2013,9.61,63
+India,Assam,Barpeta,2012,Barpeta2012,25.55,64
+India,Assam,Barpeta,2013,Barpeta2013,18.8,64
+India,Assam,Barpeta,2017,Barpeta2017,294.411,64
+India,Assam,Barpeta,2018,Barpeta2018,151.248,64
+India,Madhya Pradesh,Barwani,2012,Barwani2012,78.36,65
+India,Madhya Pradesh,Barwani,2013,Barwani2013,4.45,65
+India,Madhya Pradesh,Barwani,2016,Barwani2016,32.825,65
+India,Madhya Pradesh,Barwani,2017,Barwani2017,56.61,65
+India,Madhya Pradesh,Barwani,2018,Barwani2018,.,65
+India,Chhattisgarh,Bastar,2013,Bastar2013,38.7,66
+India,Chhattisgarh,Bastar,2016,Bastar2016,170.6,66
+India,Chhattisgarh,Bastar,2018,Bastar2018,193.87,66
+India,Uttar Pradesh,Basti,2012,Basti2012,117.125,67
+India,Uttar Pradesh,Basti,2018,Basti2018,14.635,67
+India,Punjab,Bathinda,2012,Bathinda2012,17.52,68
+India,Maharashtra,Beed,2012,Beed2012,19.31,69
+India,Bihar,Begusarai,2012,Begusarai2012,159.128,70
+India,Bihar,Begusarai,2013,Begusarai2013,94.76,70
+India,Bihar,Begusarai,2016,Begusarai2016,13.867,70
+India,Bihar,Begusarai,2017,Begusarai2017,1.23,70
+India,Bihar,Begusarai,2018,Begusarai2018,.,70
+India,Karnataka,Belagavi,2012,Belagavi2012,13.65,71
+India,Karnataka,Belagavi,2013,Belagavi2013,15.25,71
+India,Chhattisgarh,Bemetara,2011,Bemetara2011,105.62,72
+India,Chhattisgarh,Bemetara,2013,Bemetara2013,40.84,72
+India,Madhya Pradesh,Betul,2012,Betul2012,506.2,73
+India,Madhya Pradesh,Betul,2013,Betul2013,50.1,73
+India,Madhya Pradesh,Betul,2015,Betul2015,83.28,73
+India,Madhya Pradesh,Betul,2016,Betul2016,136.005,73
+India,Madhya Pradesh,Betul,2017,Betul2017,5.37,73
+India,Madhya Pradesh,Betul,2018,Betul2018,.,73
+India,Uttar Pradesh,Bhadohi,2012,Bhadohi2012,41.25,74
+India,Uttar Pradesh,Bhadohi,2018,Bhadohi2018,5.25,74
+India,Telangana,Bhadradri Kothagudem,2016,Bhadradri Kothagudem2016,.,75
+India,Telangana,Bhadradri Kothagudem,2017,Bhadradri Kothagudem2017,113.066,75
+India,Odisha,Bhadrak,2011,Bhadrak2011,52.5,76
+India,Odisha,Bhadrak,2012,Bhadrak2012,174.1,76
+India,Odisha,Bhadrak,2013,Bhadrak2013,144.2,76
+India,Odisha,Bhadrak,2016,Bhadrak2016,146.55,76
+India,Odisha,Bhadrak,2017,Bhadrak2017,49.86,76
+India,Bihar,Bhagalpur,2012,Bhagalpur2012,100.511,77
+India,Bihar,Bhagalpur,2013,Bhagalpur2013,284.802,77
+India,Bihar,Bhagalpur,2016,Bhagalpur2016,39.109,77
+India,Bihar,Bhagalpur,2017,Bhagalpur2017,.,77
+India,Bihar,Bhagalpur,2020,Bhagalpur2020,.,77
+India,Maharashtra,Bhandara,2013,Bhandara2013,.,78
+India,Rajasthan,Bharatpur,2011,Bharatpur2011,1.7,79
+India,Rajasthan,Bharatpur,2012,Bharatpur2012,70.14,79
+India,Gujarat,Bharuch,2012,Bharuch2012,14.81,80
+India,Gujarat,Bharuch,2013,Bharuch2013,8.440001,80
+India,Gujarat,Bhavnagar,2012,Bhavnagar2012,0.9,81
+India,Gujarat,Bhavnagar,2013,Bhavnagar2013,30.435,81
+India,Rajasthan,Bhilwara,2011,Bhilwara2011,27.93,82
+India,Rajasthan,Bhilwara,2012,Bhilwara2012,331.62,82
+India,Madhya Pradesh,Bhind,2011,Bhind2011,55.74,83
+India,Madhya Pradesh,Bhind,2012,Bhind2012,198.425,83
+India,Madhya Pradesh,Bhind,2013,Bhind2013,47.325,83
+India,Madhya Pradesh,Bhind,2015,Bhind2015,119.288,83
+India,Madhya Pradesh,Bhind,2016,Bhind2016,14.625,83
+India,Madhya Pradesh,Bhind,2017,Bhind2017,10.575,83
+India,Bihar,Bhojpur,2012,Bhojpur2012,222.768,84
+India,Bihar,Bhojpur,2013,Bhojpur2013,256.411,84
+India,Bihar,Bhojpur,2016,Bhojpur2016,32,84
+India,Bihar,Bhojpur,2017,Bhojpur2017,16.385,84
+India,Bihar,Bhojpur,2020,Bhojpur2020,.,84
+India,Madhya Pradesh,Bhopal,2011,Bhopal2011,52.975,85
+India,Madhya Pradesh,Bhopal,2012,Bhopal2012,49.28,85
+India,Madhya Pradesh,Bhopal,2013,Bhopal2013,3.5,85
+India,Madhya Pradesh,Bhopal,2015,Bhopal2015,2.9,85
+India,Madhya Pradesh,Bhopal,2016,Bhopal2016,1.625,85
+India,Madhya Pradesh,Bhopal,2018,Bhopal2018,.,85
+India,Karnataka,Bidar,2012,Bidar2012,11.58,86
+India,Chhattisgarh,Bijapur,2016,Bijapur2016,873.27,87
+India,Chhattisgarh,Bijapur,2018,Bijapur2018,616.415,87
+India,Uttar Pradesh,Bijnor,2012,Bijnor2012,121.975,88
+India,Uttar Pradesh,Bijnor,2018,Bijnor2018,8.8,88
+India,Rajasthan,Bikaner,2011,Bikaner2011,177.75,89
+India,Rajasthan,Bikaner,2012,Bikaner2012,154.25,89
+India,Rajasthan,Bikaner,2013,Bikaner2013,329.5,89
+India,Rajasthan,Bikaner,2016,Bikaner2016,247.3,89
+India,Chhattisgarh,Bilaspur,2011,Bilaspur2011,120.185,90
+India,Chhattisgarh,Bilaspur,2013,Bilaspur2013,131.65,90
+India,Himachal Pradesh,Bilaspur,2014,Bilaspur2014,0.75,90
+India,Himachal Pradesh,Bilaspur,2016,Bilaspur2016,54.83,90
+India,Himachal Pradesh,Bilaspur,2017,Bilaspur2017,3.5,90
+India,Chhattisgarh,Bilaspur,2018,Bilaspur2018,88.765,90
+India,West Bengal,Birbhum,2011,Birbhum2011,58.86,91
+India,West Bengal,Birbhum,2012,Birbhum2012,556.726,91
+India,West Bengal,Birbhum,2014,Birbhum2014,50.545,91
+India,West Bengal,Birbhum,2016,Birbhum2016,613.92,91
+India,West Bengal,Birbhum,2017,Birbhum2017,148.5,91
+India,West Bengal,Birbhum,2018,Birbhum2018,.,91
+India,Manipur,Bishnupur,2012,Bishnupur2012,.,92
+India,Manipur,Bishnupur,2013,Bishnupur2013,52.772,92
+India,Manipur,Bishnupur,2014,Bishnupur2014,76.347,92
+India,Manipur,Bishnupur,2017,Bishnupur2017,39.48,92
+India,Manipur,Bishnupur,2018,Bishnupur2018,.,92
+India,Assam,Biswanath,2012,Biswanath2012,.,93
+India,Assam,Biswanath,2013,Biswanath2013,6,93
+India,Assam,Biswanath,2017,Biswanath2017,50.75,93
+India,Assam,Biswanath,2018,Biswanath2018,10.41,93
+India,Jharkhand,Bokaro,2011,Bokaro2011,50.05,94
+India,Jharkhand,Bokaro,2012,Bokaro2012,.,94
+India,Jharkhand,Bokaro,2013,Bokaro2013,65.225,94
+India,Jharkhand,Bokaro,2016,Bokaro2016,229.291,94
+India,Jharkhand,Bokaro,2017,Bokaro2017,115.323,94
+India,Assam,Bongaigaon,2012,Bongaigaon2012,16.51,95
+India,Assam,Bongaigaon,2013,Bongaigaon2013,49.402,95
+India,Assam,Bongaigaon,2016,Bongaigaon2016,2.33,95
+India,Assam,Bongaigaon,2017,Bongaigaon2017,98.385,95
+India,Assam,Bongaigaon,2018,Bongaigaon2018,5.67,95
+India,Gujarat,Botad,2013,Botad2013,6.225,96
+India,Odisha,Boudh,2011,Boudh2011,24.64,97
+India,Odisha,Boudh,2013,Boudh2013,67.96,97
+India,Odisha,Boudh,2016,Boudh2016,31.39,97
+India,Odisha,Boudh,2017,Boudh2017,60.705,97
+India,Odisha,Boudh,2018,Boudh2018,4.84,97
+India,Uttar Pradesh,Budaun,2012,Budaun2012,90.8,98
+India,Uttar Pradesh,Budaun,2018,Budaun2018,10.18,98
+India,Jammu And Kashmir,Budgam,2011,Budgam2011,84.04,99
+India,Jammu And Kashmir,Budgam,2012,Budgam2012,.,99
+India,Jammu And Kashmir,Budgam,2016,Budgam2016,61.48,99
+India,Jammu And Kashmir,Budgam,2017,Budgam2017,37.38,99
+India,Jammu And Kashmir,Budgam,2018,Budgam2018,179.39,99
+India,Uttar Pradesh,Bulandshahr,2012,Bulandshahr2012,106.035,100
+India,Uttar Pradesh,Bulandshahr,2018,Bulandshahr2018,7.645,100
+India,Maharashtra,Buldhana,2012,Buldhana2012,.,101
+India,Maharashtra,Buldhana,2017,Buldhana2017,6.7,101
+India,Rajasthan,Bundi,2011,Bundi2011,1.1,102
+India,Rajasthan,Bundi,2012,Bundi2012,43.83,102
+India,Rajasthan,Bundi,2017,Bundi2017,.,102
+India,Madhya Pradesh,Burhanpur,2012,Burhanpur2012,16.55,103
+India,Madhya Pradesh,Burhanpur,2013,Burhanpur2013,4.3,103
+India,Madhya Pradesh,Burhanpur,2016,Burhanpur2016,22.45,103
+India,Madhya Pradesh,Burhanpur,2018,Burhanpur2018,.,103
+India,Bihar,Buxar,2012,Buxar2012,91.302,104
+India,Bihar,Buxar,2013,Buxar2013,120.268,104
+India,Bihar,Buxar,2016,Buxar2016,9.99,104
+India,Bihar,Buxar,2017,Buxar2017,49.744,104
+India,Bihar,Buxar,2018,Buxar2018,.,104
+India,Assam,Cachar,2012,Cachar2012,9.86,105
+India,Assam,Cachar,2013,Cachar2013,19.098,105
+India,Assam,Cachar,2016,Cachar2016,58.545,105
+India,Assam,Cachar,2017,Cachar2017,23.798,105
+India,Assam,Cachar,2018,Cachar2018,46.623,105
+India,Himachal Pradesh,Chamba,2011,Chamba2011,273.67,106
+India,Himachal Pradesh,Chamba,2013,Chamba2013,42.6,106
+India,Himachal Pradesh,Chamba,2014,Chamba2014,13.58,106
+India,Himachal Pradesh,Chamba,2016,Chamba2016,216.435,106
+India,Himachal Pradesh,Chamba,2017,Chamba2017,200.055,106
+India,Himachal Pradesh,Chamba,2018,Chamba2018,496.225,106
+India,Uttarakhand,Chamoli,2011,Chamoli2011,3,107
+India,Uttarakhand,Chamoli,2012,Chamoli2012,173.66,107
+India,Uttarakhand,Chamoli,2013,Chamoli2013,321.015,107
+India,Uttarakhand,Chamoli,2016,Chamoli2016,156.613,107
+India,Uttarakhand,Chamoli,2017,Chamoli2017,189.87,107
+India,Uttarakhand,Chamoli,2018,Chamoli2018,776.788,107
+India,Uttarakhand,Chamoli,2021,Chamoli2021,171.974,107
+India,Uttarakhand,Champawat,2011,Champawat2011,.,108
+India,Uttarakhand,Champawat,2012,Champawat2012,87.26,108
+India,Uttarakhand,Champawat,2013,Champawat2013,44.38,108
+India,Uttarakhand,Champawat,2016,Champawat2016,95.425,108
+India,Uttarakhand,Champawat,2017,Champawat2017,186.025,108
+India,Uttarakhand,Champawat,2018,Champawat2018,302.55,108
+India,Uttarakhand,Champawat,2021,Champawat2021,142.75,108
+India,Mizoram,Champhai,2016,Champhai2016,51.915,109
+India,Mizoram,Champhai,2017,Champhai2017,15.14,109
+India,Mizoram,Champhai,2018,Champhai2018,6,109
+India,Uttar Pradesh,Chandauli,2012,Chandauli2012,153.445,110
+India,Uttar Pradesh,Chandauli,2018,Chandauli2018,18.5,110
+India,Manipur,Chandel,2012,Chandel2012,.,111
+India,Manipur,Chandel,2013,Chandel2013,9.5,111
+India,Manipur,Chandel,2014,Chandel2014,15,111
+India,Manipur,Chandel,2017,Chandel2017,62.7,111
+India,Manipur,Chandel,2018,Chandel2018,46.5,111
+India,Manipur,Chandel,2020,Chandel2020,.,111
+India,Maharashtra,Chandrapur,2012,Chandrapur2012,15.4,112
+India,Maharashtra,Chandrapur,2013,Chandrapur2013,82.42,112
+India,Arunachal Pradesh,Changlang,2012,Changlang2012,85.714,113
+India,Arunachal Pradesh,Changlang,2013,Changlang2013,14.192,113
+India,Arunachal Pradesh,Changlang,2014,Changlang2014,3.72,113
+India,Arunachal Pradesh,Changlang,2016,Changlang2016,34.44,113
+India,Arunachal Pradesh,Changlang,2018,Changlang2018,142.35,113
+India,Assam,Charaideo,2012,Charaideo2012,21.335,114
+India,Assam,Charaideo,2013,Charaideo2013,15.019,114
+India,Assam,Charaideo,2016,Charaideo2016,15.39,114
+India,Assam,Charaideo,2017,Charaideo2017,186.639,114
+India,Assam,Charaideo,2018,Charaideo2018,6.37,114
+India,Jharkhand,Chatra,2011,Chatra2011,43.22,115
+India,Jharkhand,Chatra,2012,Chatra2012,7.25,115
+India,Jharkhand,Chatra,2013,Chatra2013,294.005,115
+India,Jharkhand,Chatra,2016,Chatra2016,105.92,115
+India,Jharkhand,Chatra,2017,Chatra2017,372.55,115
+India,Jharkhand,Chatra,2018,Chatra2018,38.41,115
+India,Tamil Nadu,Chengalpattu,2012,Chengalpattu2012,46.308,116
+India,Tamil Nadu,Chengalpattu,2014,Chengalpattu2014,145.146,116
+India,Tamil Nadu,Chengalpattu,2016,Chengalpattu2016,4.7,116
+India,Tamil Nadu,Chengalpattu,2018,Chengalpattu2018,28.831,116
+India,Madhya Pradesh,Chhatarpur,2011,Chhatarpur2011,53.23,117
+India,Madhya Pradesh,Chhatarpur,2012,Chhatarpur2012,259.495,117
+India,Madhya Pradesh,Chhatarpur,2013,Chhatarpur2013,42.49,117
+India,Madhya Pradesh,Chhatarpur,2015,Chhatarpur2015,212.36,117
+India,Madhya Pradesh,Chhatarpur,2016,Chhatarpur2016,68.85,117
+India,Madhya Pradesh,Chhatarpur,2017,Chhatarpur2017,10.3,117
+India,Madhya Pradesh,Chhindwara,2011,Chhindwara2011,111.245,118
+India,Madhya Pradesh,Chhindwara,2012,Chhindwara2012,666.975,118
+India,Madhya Pradesh,Chhindwara,2013,Chhindwara2013,67.775,118
+India,Madhya Pradesh,Chhindwara,2015,Chhindwara2015,172.131,118
+India,Madhya Pradesh,Chhindwara,2016,Chhindwara2016,235.649,118
+India,Madhya Pradesh,Chhindwara,2017,Chhindwara2017,30.025,118
+India,Madhya Pradesh,Chhindwara,2018,Chhindwara2018,.,118
+India,Gujarat,Chhotaudepur,2011,Chhotaudepur2011,7.62,119
+India,Gujarat,Chhotaudepur,2012,Chhotaudepur2012,14.95,119
+India,Gujarat,Chhotaudepur,2013,Chhotaudepur2013,30.305,119
+India,Karnataka,Chikkaballapura,2012,Chikkaballapura2012,7.64,120
+India,Karnataka,Chikkamagaluru,2013,Chikkamagaluru2013,.,121
+India,Assam,Chirang,2012,Chirang2012,20.8,122
+India,Assam,Chirang,2013,Chirang2013,25.75,122
+India,Assam,Chirang,2017,Chirang2017,98.105,122
+India,Assam,Chirang,2018,Chirang2018,27.44,122
+India,Karnataka,Chitradurga,2013,Chitradurga2013,.,123
+India,Uttar Pradesh,Chitrakoot,2012,Chitrakoot2012,67.35,124
+India,Andhra Pradesh,Chittoor,2017,Chittoor2017,.,125
+India,Rajasthan,Chittorgarh,2012,Chittorgarh2012,106.44,126
+India,Manipur,Churachandpur,2012,Churachandpur2012,28.72,127
+India,Manipur,Churachandpur,2013,Churachandpur2013,70.51,127
+India,Manipur,Churachandpur,2014,Churachandpur2014,.,127
+India,Manipur,Churachandpur,2017,Churachandpur2017,123.22,127
+India,Manipur,Churachandpur,2018,Churachandpur2018,37.78,127
+India,Manipur,Churachandpur,2020,Churachandpur2020,.,127
+India,Rajasthan,Churu,2011,Churu2011,5.2,128
+India,Rajasthan,Churu,2012,Churu2012,10,128
+India,Rajasthan,Churu,2013,Churu2013,30.85,128
+India,Rajasthan,Churu,2016,Churu2016,41.8,128
+India,Tamil Nadu,Coimbatore,2012,Coimbatore2012,125.959,129
+India,Tamil Nadu,Coimbatore,2016,Coimbatore2016,21.16,129
+India,Tamil Nadu,Coimbatore,2018,Coimbatore2018,31.6,129
+India,West Bengal,Coochbehar,2011,Coochbehar2011,102.72,130
+India,West Bengal,Coochbehar,2012,Coochbehar2012,137.6,130
+India,West Bengal,Coochbehar,2016,Coochbehar2016,110.97,130
+India,West Bengal,Coochbehar,2017,Coochbehar2017,201.751,130
+India,West Bengal,Coochbehar,2018,Coochbehar2018,.,130
+India,Tamil Nadu,Cuddalore,2012,Cuddalore2012,90.419,131
+India,Tamil Nadu,Cuddalore,2014,Cuddalore2014,25.804,131
+India,Tamil Nadu,Cuddalore,2016,Cuddalore2016,13.316,131
+India,Tamil Nadu,Cuddalore,2018,Cuddalore2018,15.43,131
+India,Odisha,Cuttack,2011,Cuttack2011,95.16,132
+India,Odisha,Cuttack,2012,Cuttack2012,284.43,132
+India,Odisha,Cuttack,2013,Cuttack2013,106.107,132
+India,Odisha,Cuttack,2016,Cuttack2016,242.79,132
+India,Odisha,Cuttack,2017,Cuttack2017,151.39,132
+India,Karnataka,Dakshina Kannada,2013,Dakshina Kannada2013,.,133
+India,Madhya Pradesh,Damoh,2011,Damoh2011,57.95,134
+India,Madhya Pradesh,Damoh,2012,Damoh2012,233.75,134
+India,Madhya Pradesh,Damoh,2015,Damoh2015,120,134
+India,Madhya Pradesh,Damoh,2016,Damoh2016,36.7,134
+India,Madhya Pradesh,Damoh,2018,Damoh2018,.,134
+India,Gujarat,Dang,2011,Dang2011,8.190001,135
+India,Gujarat,Dang,2013,Dang2013,96.03,135
+India,Chhattisgarh,Dantewada,2016,Dantewada2016,145.48,136
+India,Chhattisgarh,Dantewada,2018,Dantewada2018,126.795,136
+India,Bihar,Darbhanga,2012,Darbhanga2012,24.881,137
+India,Bihar,Darbhanga,2013,Darbhanga2013,595.578,137
+India,Bihar,Darbhanga,2016,Darbhanga2016,86.386,137
+India,Bihar,Darbhanga,2017,Darbhanga2017,22.455,137
+India,Bihar,Darbhanga,2018,Darbhanga2018,.,137
+India,Bihar,Darbhanga,2020,Darbhanga2020,.,137
+India,West Bengal,Darjeeling,2012,Darjeeling2012,156.229,138
+India,West Bengal,Darjeeling,2013,Darjeeling2013,98.751,138
+India,West Bengal,Darjeeling,2014,Darjeeling2014,43.578,138
+India,West Bengal,Darjeeling,2016,Darjeeling2016,225.039,138
+India,West Bengal,Darjeeling,2017,Darjeeling2017,55.09,138
+India,West Bengal,Darjeeling,2018,Darjeeling2018,.,138
+India,Assam,Darrang,2012,Darrang2012,28,139
+India,Assam,Darrang,2013,Darrang2013,18.36,139
+India,Assam,Darrang,2017,Darrang2017,295.914,139
+India,Madhya Pradesh,Datia,2012,Datia2012,66.555,140
+India,Madhya Pradesh,Datia,2013,Datia2013,33.35,140
+India,Madhya Pradesh,Datia,2015,Datia2015,82.9,140
+India,Madhya Pradesh,Datia,2016,Datia2016,9,140
+India,Madhya Pradesh,Datia,2017,Datia2017,1.6,140
+India,Rajasthan,Dausa,2012,Dausa2012,208.52,141
+India,Rajasthan,Dausa,2013,Dausa2013,117.485,141
+India,Uttarakhand,Dehradun,2012,Dehradun2012,112.62,142
+India,Uttarakhand,Dehradun,2013,Dehradun2013,214.808,142
+India,Uttarakhand,Dehradun,2016,Dehradun2016,49.41,142
+India,Uttarakhand,Dehradun,2017,Dehradun2017,158.955,142
+India,Uttarakhand,Dehradun,2018,Dehradun2018,229,142
+India,Uttarakhand,Dehradun,2021,Dehradun2021,86.375,142
+India,Odisha,Deogarh,2011,Deogarh2011,206.31,143
+India,Odisha,Deogarh,2012,Deogarh2012,6.5,143
+India,Odisha,Deogarh,2013,Deogarh2013,50.32,143
+India,Odisha,Deogarh,2016,Deogarh2016,29.739,143
+India,Odisha,Deogarh,2017,Deogarh2017,53.53,143
+India,Odisha,Deogarh,2018,Deogarh2018,16.38,143
+India,Jharkhand,Deoghar,2011,Deoghar2011,.,144
+India,Jharkhand,Deoghar,2012,Deoghar2012,198.986,144
+India,Jharkhand,Deoghar,2013,Deoghar2013,46.228,144
+India,Jharkhand,Deoghar,2015,Deoghar2015,.,144
+India,Jharkhand,Deoghar,2016,Deoghar2016,62.75,144
+India,Jharkhand,Deoghar,2017,Deoghar2017,2,144
+India,Uttar Pradesh,Deoria,2011,Deoria2011,1.8,145
+India,Uttar Pradesh,Deoria,2012,Deoria2012,148.975,145
+India,Uttar Pradesh,Deoria,2018,Deoria2018,12.05,145
+India,Gujarat,Devbhumi Dwarka,2012,Devbhumi Dwarka2012,3.8,146
+India,Gujarat,Devbhumi Dwarka,2013,Devbhumi Dwarka2013,1.35,146
+India,Madhya Pradesh,Dewas,2011,Dewas2011,51.9,147
+India,Madhya Pradesh,Dewas,2012,Dewas2012,167.75,147
+India,Madhya Pradesh,Dewas,2013,Dewas2013,71.53,147
+India,Madhya Pradesh,Dewas,2015,Dewas2015,197.05,147
+India,Madhya Pradesh,Dewas,2016,Dewas2016,92.12,147
+India,Madhya Pradesh,Dewas,2017,Dewas2017,3.475,147
+India,Madhya Pradesh,Dewas,2018,Dewas2018,.,147
+India,Tripura,Dhalai,2011,Dhalai2011,144.101,148
+India,Tripura,Dhalai,2013,Dhalai2013,228.668,148
+India,Tripura,Dhalai,2016,Dhalai2016,22.014,148
+India,Tripura,Dhalai,2017,Dhalai2017,42.201,148
+India,Tripura,Dhalai,2018,Dhalai2018,4.502,148
+India,Chhattisgarh,Dhamtari,2012,Dhamtari2012,54.4,149
+India,Chhattisgarh,Dhamtari,2013,Dhamtari2013,2.6,149
+India,Chhattisgarh,Dhamtari,2016,Dhamtari2016,.,149
+India,Jharkhand,Dhanbad,2012,Dhanbad2012,43.025,150
+India,Jharkhand,Dhanbad,2016,Dhanbad2016,36.34,150
+India,Madhya Pradesh,Dhar,2011,Dhar2011,37.44,151
+India,Madhya Pradesh,Dhar,2012,Dhar2012,284.11,151
+India,Madhya Pradesh,Dhar,2013,Dhar2013,15.95,151
+India,Madhya Pradesh,Dhar,2015,Dhar2015,42.35,151
+India,Madhya Pradesh,Dhar,2016,Dhar2016,92.745,151
+India,Madhya Pradesh,Dhar,2017,Dhar2017,74.245,151
+India,Madhya Pradesh,Dhar,2018,Dhar2018,.,151
+India,Tamil Nadu,Dharmapuri,2012,Dharmapuri2012,55,152
+India,Tamil Nadu,Dharmapuri,2014,Dharmapuri2014,66.705,152
+India,Tamil Nadu,Dharmapuri,2016,Dharmapuri2016,36.28,152
+India,Tamil Nadu,Dharmapuri,2018,Dharmapuri2018,41.07,152
+India,Karnataka,Dharwad,2012,Dharwad2012,10.63,153
+India,Karnataka,Dharwad,2013,Dharwad2013,.,153
+India,Assam,Dhemaji,2012,Dhemaji2012,7.48,154
+India,Assam,Dhemaji,2017,Dhemaji2017,356.794,154
+India,Assam,Dhemaji,2018,Dhemaji2018,109.567,154
+India,Odisha,Dhenkanal,2011,Dhenkanal2011,52.935,155
+India,Odisha,Dhenkanal,2012,Dhenkanal2012,99.017,155
+India,Odisha,Dhenkanal,2013,Dhenkanal2013,.,155
+India,Odisha,Dhenkanal,2016,Dhenkanal2016,94.15,155
+India,Odisha,Dhenkanal,2017,Dhenkanal2017,40.951,155
+India,Odisha,Dhenkanal,2018,Dhenkanal2018,4.978,155
+India,Rajasthan,Dholpur,2012,Dholpur2012,102.03,156
+India,Assam,Dhubri,2012,Dhubri2012,21.12846,157
+India,Assam,Dhubri,2013,Dhubri2013,24.25874,157
+India,Assam,Dhubri,2017,Dhubri2017,111.9293,157
+India,Assam,Dhubri,2018,Dhubri2018,13.18682,157
+India,Maharashtra,Dhule,2012,Dhule2012,198.82,158
+India,Arunachal Pradesh,Dibang Valley,2014,Dibang Valley2014,15,159
+India,Arunachal Pradesh,Dibang Valley,2018,Dibang Valley2018,134.2,159
+India,Assam,Dibrugarh,2012,Dibrugarh2012,45.07,160
+India,Assam,Dibrugarh,2013,Dibrugarh2013,76.345,160
+India,Assam,Dibrugarh,2016,Dibrugarh2016,110.4,160
+India,Assam,Dibrugarh,2017,Dibrugarh2017,296.311,160
+India,Assam,Dibrugarh,2018,Dibrugarh2018,5.6,160
+India,Assam,Dima Hasao,2012,Dima Hasao2012,.,161
+India,Assam,Dima Hasao,2016,Dima Hasao2016,.,161
+India,Assam,Dima Hasao,2017,Dima Hasao2017,.,161
+India,Assam,Dima Hasao,2018,Dima Hasao2018,209.223,161
+India,Nagaland,Dimapur,2011,Dimapur2011,.,162
+India,Nagaland,Dimapur,2017,Dimapur2017,.,162
+India,Nagaland,Dimapur,2018,Dimapur2018,.,162
+India,West Bengal,Dinajpur Dakshin,2012,Dinajpur Dakshin2012,205.329,163
+India,West Bengal,Dinajpur Dakshin,2016,Dinajpur Dakshin2016,87.7,163
+India,West Bengal,Dinajpur Dakshin,2017,Dinajpur Dakshin2017,64.307,163
+India,West Bengal,Dinajpur Uttar,2011,Dinajpur Uttar2011,89.558,164
+India,West Bengal,Dinajpur Uttar,2012,Dinajpur Uttar2012,282.254,164
+India,West Bengal,Dinajpur Uttar,2013,Dinajpur Uttar2013,4.171,164
+India,West Bengal,Dinajpur Uttar,2017,Dinajpur Uttar2017,218.758,164
+India,West Bengal,Dinajpur Uttar,2018,Dinajpur Uttar2018,.,164
+India,Tamil Nadu,Dindigul,2012,Dindigul2012,117.923,165
+India,Tamil Nadu,Dindigul,2014,Dindigul2014,27.05,165
+India,Tamil Nadu,Dindigul,2016,Dindigul2016,69.97,165
+India,Tamil Nadu,Dindigul,2018,Dindigul2018,49.685,165
+India,Madhya Pradesh,Dindori,2011,Dindori2011,231.5,166
+India,Madhya Pradesh,Dindori,2012,Dindori2012,88.975,166
+India,Madhya Pradesh,Dindori,2015,Dindori2015,14.52,166
+India,Madhya Pradesh,Dindori,2016,Dindori2016,74.305,166
+India,Madhya Pradesh,Dindori,2017,Dindori2017,62.745,166
+India,Madhya Pradesh,Dindori,2018,Dindori2018,.,166
+India,Jammu And Kashmir,Doda,2011,Doda2011,275.176,167
+India,Jammu And Kashmir,Doda,2012,Doda2012,157.435,167
+India,Jammu And Kashmir,Doda,2016,Doda2016,339.553,167
+India,Jammu And Kashmir,Doda,2017,Doda2017,119.52,167
+India,Jammu And Kashmir,Doda,2018,Doda2018,264.733,167
+India,Gujarat,Dohad,2011,Dohad2011,42.23,168
+India,Gujarat,Dohad,2012,Dohad2012,291.765,168
+India,Gujarat,Dohad,2013,Dohad2013,259.045,168
+India,Jharkhand,Dumka,2012,Dumka2012,490.465,169
+India,Jharkhand,Dumka,2013,Dumka2013,.,169
+India,Jharkhand,Dumka,2016,Dumka2016,157.768,169
+India,Jharkhand,Dumka,2017,Dumka2017,13.16,169
+India,Jharkhand,Dumka,2018,Dumka2018,50.13,169
+India,Rajasthan,Dungarpur,2011,Dungarpur2011,541.72,170
+India,Rajasthan,Dungarpur,2012,Dungarpur2012,282.595,170
+India,Rajasthan,Dungarpur,2013,Dungarpur2013,497.335,170
+India,Rajasthan,Dungarpur,2016,Dungarpur2016,295.66,170
+India,Chhattisgarh,Durg,2011,Durg2011,43.05,171
+India,Chhattisgarh,Durg,2012,Durg2012,2.07,171
+India,Chhattisgarh,Durg,2013,Durg2013,20.78,171
+India,Chhattisgarh,Durg,2018,Durg2018,.,171
+India,Sikkim,East District,2011,East District2011,141.73,172
+India,Sikkim,East District,2013,East District2013,93.045,172
+India,Sikkim,East District,2014,East District2014,57.77,172
+India,Sikkim,East District,2016,East District2016,120.72,172
+India,Sikkim,East District,2017,East District2017,169.499,172
+India,Sikkim,East District,2020,East District2020,.,172
+India,Sikkim,East District,2021,East District2021,.,172
+India,Meghalaya,East Garo Hills,2011,East Garo Hills2011,2.045,173
+India,Meghalaya,East Garo Hills,2013,East Garo Hills2013,166.829,173
+India,Meghalaya,East Garo Hills,2018,East Garo Hills2018,88.275,173
+India,Andhra Pradesh,East Godavari,2012,East Godavari2012,39.65,174
+India,Andhra Pradesh,East Godavari,2017,East Godavari2017,33.216,174
+India,Andhra Pradesh,East Godavari,2018,East Godavari2018,13.2,174
+India,Meghalaya,East Jaintia Hills,2011,East Jaintia Hills2011,6.2,175
+India,Meghalaya,East Jaintia Hills,2013,East Jaintia Hills2013,48.934,175
+India,Meghalaya,East Jaintia Hills,2017,East Jaintia Hills2017,7.6,175
+India,Meghalaya,East Jaintia Hills,2018,East Jaintia Hills2018,44.9,175
+India,Arunachal Pradesh,East Kameng,2012,East Kameng2012,.,176
+India,Arunachal Pradesh,East Kameng,2013,East Kameng2013,.,176
+India,Arunachal Pradesh,East Kameng,2016,East Kameng2016,221.04,176
+India,Arunachal Pradesh,East Kameng,2017,East Kameng2017,.,176
+India,Arunachal Pradesh,East Kameng,2018,East Kameng2018,293.56,176
+India,Meghalaya,East Khasi Hills,2011,East Khasi Hills2011,22.019,177
+India,Meghalaya,East Khasi Hills,2013,East Khasi Hills2013,55.953,177
+India,Meghalaya,East Khasi Hills,2017,East Khasi Hills2017,24.02,177
+India,Meghalaya,East Khasi Hills,2018,East Khasi Hills2018,308.952,177
+India,Madhya Pradesh,East Nimar,2012,East Nimar2012,75.25,178
+India,Madhya Pradesh,East Nimar,2013,East Nimar2013,39.86,178
+India,Madhya Pradesh,East Nimar,2015,East Nimar2015,17.8,178
+India,Madhya Pradesh,East Nimar,2016,East Nimar2016,12.3,178
+India,Madhya Pradesh,East Nimar,2017,East Nimar2017,24.732,178
+India,Madhya Pradesh,East Nimar,2018,East Nimar2018,.,178
+India,Arunachal Pradesh,East Siang,2013,East Siang2013,1.5,179
+India,Jharkhand,East Singhbum,2011,East Singhbum2011,295.955,180
+India,Jharkhand,East Singhbum,2012,East Singhbum2012,71.296,180
+India,Jharkhand,East Singhbum,2013,East Singhbum2013,247.125,180
+India,Jharkhand,East Singhbum,2016,East Singhbum2016,176.071,180
+India,Jharkhand,East Singhbum,2017,East Singhbum2017,149.44,180
+India,Jharkhand,East Singhbum,2018,East Singhbum2018,62.815,180
+India,Kerala,Ernakulam,2013,Ernakulam2013,51.853,181
+India,Kerala,Ernakulam,2015,Ernakulam2015,.,181
+India,Tamil Nadu,Erode,2012,Erode2012,127.699,182
+India,Tamil Nadu,Erode,2014,Erode2014,36.32,182
+India,Tamil Nadu,Erode,2016,Erode2016,34.381,182
+India,Tamil Nadu,Erode,2018,Erode2018,19.25,182
+India,Uttar Pradesh,Etah,2011,Etah2011,27.29,183
+India,Uttar Pradesh,Etah,2012,Etah2012,40.525,183
+India,Uttar Pradesh,Etah,2018,Etah2018,8.3,183
+India,Uttar Pradesh,Etawah,2012,Etawah2012,72.85,184
+India,Uttar Pradesh,Etawah,2018,Etawah2018,12,184
+India,Punjab,Faridkot,2012,Faridkot2012,57.281,185
+India,Uttar Pradesh,Farrukhabad,2011,Farrukhabad2011,10.15,186
+India,Uttar Pradesh,Farrukhabad,2012,Farrukhabad2012,71.41,186
+India,Uttar Pradesh,Farrukhabad,2018,Farrukhabad2018,13.75,186
+India,Punjab,Fatehgarh Sahib,2012,Fatehgarh Sahib2012,38.1,187
+India,Punjab,Fatehgarh Sahib,2014,Fatehgarh Sahib2014,1.6,187
+India,Uttar Pradesh,Fatehpur,2011,Fatehpur2011,38.23,188
+India,Uttar Pradesh,Fatehpur,2012,Fatehpur2012,185.45,188
+India,Uttar Pradesh,Fatehpur,2018,Fatehpur2018,11.5,188
+India,Punjab,Fazilka,2011,Fazilka2011,28.13,189
+India,Punjab,Fazilka,2012,Fazilka2012,76.13,189
+India,Punjab,Fazilka,2013,Fazilka2013,54.66,189
+India,Punjab,Ferozepur,2011,Ferozepur2011,147.53,190
+India,Punjab,Ferozepur,2012,Ferozepur2012,25.21,190
+India,Punjab,Ferozepur,2014,Ferozepur2014,23.78,190
+India,Uttar Pradesh,Firozabad,2012,Firozabad2012,101.87,191
+India,Maharashtra,Gadchiroli,2012,Gadchiroli2012,.,192
+India,Maharashtra,Gadchiroli,2017,Gadchiroli2017,277.01,192
+India,Odisha,Gajapati,2011,Gajapati2011,590.45,193
+India,Odisha,Gajapati,2012,Gajapati2012,57.91,193
+India,Odisha,Gajapati,2013,Gajapati2013,.,193
+India,Odisha,Gajapati,2016,Gajapati2016,363.46,193
+India,Odisha,Gajapati,2017,Gajapati2017,116.98,193
+India,Odisha,Gajapati,2018,Gajapati2018,23.62,193
+India,Jammu And Kashmir,Ganderbal,2011,Ganderbal2011,49.25,194
+India,Jammu And Kashmir,Ganderbal,2012,Ganderbal2012,22.98,194
+India,Jammu And Kashmir,Ganderbal,2016,Ganderbal2016,44.5,194
+India,Jammu And Kashmir,Ganderbal,2018,Ganderbal2018,62.04,194
+India,Rajasthan,Ganganagar,2017,Ganganagar2017,.,195
+India,Odisha,Ganjam,2011,Ganjam2011,109.785,196
+India,Odisha,Ganjam,2012,Ganjam2012,183.24,196
+India,Odisha,Ganjam,2013,Ganjam2013,307.915,196
+India,Odisha,Ganjam,2016,Ganjam2016,532.91,196
+India,Odisha,Ganjam,2017,Ganjam2017,464.82,196
+India,Odisha,Ganjam,2018,Ganjam2018,19.22,196
+India,Jharkhand,Garhwa,2011,Garhwa2011,157.205,197
+India,Jharkhand,Garhwa,2012,Garhwa2012,109.618,197
+India,Jharkhand,Garhwa,2016,Garhwa2016,280.534,197
+India,Jharkhand,Garhwa,2017,Garhwa2017,153.28,197
+India,Chhattisgarh,Gariyaband,2011,Gariyaband2011,26.43,198
+India,Chhattisgarh,Gariyaband,2012,Gariyaband2012,118.75,198
+India,Chhattisgarh,Gariyaband,2013,Gariyaband2013,69.095,198
+India,Chhattisgarh,Gariyaband,2016,Gariyaband2016,35,198
+India,Chhattisgarh,Gaurella Pendra Marwahi,2012,Gaurella Pendra Marwahi2012,32.59,199
+India,Chhattisgarh,Gaurella Pendra Marwahi,2013,Gaurella Pendra Marwahi2013,41.06,199
+India,Uttar Pradesh,Gautam Buddha Nagar,2012,Gautam Buddha Nagar2012,76.625,200
+India,Uttar Pradesh,Gautam Buddha Nagar,2018,Gautam Buddha Nagar2018,7.835,200
+India,Bihar,Gaya,2011,Gaya2011,403.191,201
+India,Bihar,Gaya,2012,Gaya2012,.,201
+India,Bihar,Gaya,2013,Gaya2013,856.762,201
+India,Bihar,Gaya,2016,Gaya2016,459.65,201
+India,Bihar,Gaya,2017,Gaya2017,65.3,201
+India,Bihar,Gaya,2018,Gaya2018,183.104,201
+India,Bihar,Gaya,2020,Gaya2020,.,201
+India,Uttar Pradesh,Ghaziabad,2012,Ghaziabad2012,34.35,202
+India,Uttar Pradesh,Ghaziabad,2018,Ghaziabad2018,8.3,202
+India,Uttar Pradesh,Ghazipur,2011,Ghazipur2011,40.9,203
+India,Uttar Pradesh,Ghazipur,2012,Ghazipur2012,88.6,203
+India,Uttar Pradesh,Ghazipur,2018,Ghazipur2018,18.1,203
+India,Jharkhand,Giridih,2012,Giridih2012,263.503,204
+India,Jharkhand,Giridih,2013,Giridih2013,277.915,204
+India,Jharkhand,Giridih,2016,Giridih2016,262.414,204
+India,Jharkhand,Giridih,2017,Giridih2017,144.549,204
+India,Jharkhand,Giridih,2018,Giridih2018,126.61,204
+India,Assam,Goalpara,2012,Goalpara2012,59.39,205
+India,Assam,Goalpara,2013,Goalpara2013,31.89,205
+India,Assam,Goalpara,2016,Goalpara2016,13.89,205
+India,Assam,Goalpara,2017,Goalpara2017,521.011,205
+India,Assam,Goalpara,2018,Goalpara2018,5.47,205
+India,Jharkhand,Godda,2012,Godda2012,189.229,206
+India,Jharkhand,Godda,2013,Godda2013,.,206
+India,Jharkhand,Godda,2016,Godda2016,78.616,206
+India,Jharkhand,Godda,2017,Godda2017,14.52,206
+India,Assam,Golaghat,2012,Golaghat2012,33.097,207
+India,Assam,Golaghat,2013,Golaghat2013,65.48,207
+India,Assam,Golaghat,2016,Golaghat2016,52.99,207
+India,Assam,Golaghat,2017,Golaghat2017,133.54,207
+India,Assam,Golaghat,2018,Golaghat2018,100.16,207
+India,Tripura,Gomati,2011,Gomati2011,15.407,208
+India,Tripura,Gomati,2013,Gomati2013,154.426,208
+India,Tripura,Gomati,2016,Gomati2016,15.436,208
+India,Tripura,Gomati,2017,Gomati2017,8.621,208
+India,Uttar Pradesh,Gonda,2011,Gonda2011,27.57,209
+India,Uttar Pradesh,Gonda,2012,Gonda2012,134.65,209
+India,Uttar Pradesh,Gonda,2018,Gonda2018,10,209
+India,Maharashtra,Gondia,2013,Gondia2013,.,210
+India,Bihar,Gopalganj,2012,Gopalganj2012,47.636,211
+India,Bihar,Gopalganj,2013,Gopalganj2013,194.714,211
+India,Bihar,Gopalganj,2016,Gopalganj2016,69.671,211
+India,Uttar Pradesh,Gorakhpur,2011,Gorakhpur2011,2,212
+India,Uttar Pradesh,Gorakhpur,2012,Gorakhpur2012,175.15,212
+India,Uttar Pradesh,Gorakhpur,2018,Gorakhpur2018,15,212
+India,Jharkhand,Gumla,2011,Gumla2011,385.89,213
+India,Jharkhand,Gumla,2012,Gumla2012,142.17,213
+India,Jharkhand,Gumla,2013,Gumla2013,.,213
+India,Jharkhand,Gumla,2016,Gumla2016,175.214,213
+India,Jharkhand,Gumla,2017,Gumla2017,401.76,213
+India,Jharkhand,Gumla,2018,Gumla2018,103.463,213
+India,Madhya Pradesh,Guna,2011,Guna2011,51.925,214
+India,Madhya Pradesh,Guna,2012,Guna2012,411.43,214
+India,Madhya Pradesh,Guna,2013,Guna2013,88.4,214
+India,Madhya Pradesh,Guna,2015,Guna2015,115.661,214
+India,Madhya Pradesh,Guna,2016,Guna2016,77.9,214
+India,Madhya Pradesh,Guna,2017,Guna2017,2.4,214
+India,Andhra Pradesh,Guntur,2017,Guntur2017,.,215
+India,Punjab,Gurdaspur,2011,Gurdaspur2011,86.15,216
+India,Punjab,Gurdaspur,2012,Gurdaspur2012,9.2,216
+India,Punjab,Gurdaspur,2013,Gurdaspur2013,51.74,216
+India,Punjab,Gurdaspur,2014,Gurdaspur2014,1.6,216
+India,Madhya Pradesh,Gwalior,2012,Gwalior2012,47.14,217
+India,Madhya Pradesh,Gwalior,2013,Gwalior2013,7.925,217
+India,Madhya Pradesh,Gwalior,2015,Gwalior2015,78.665,217
+India,Madhya Pradesh,Gwalior,2016,Gwalior2016,.,217
+India,Madhya Pradesh,Gwalior,2017,Gwalior2017,7.1,217
+India,Madhya Pradesh,Gwalior,2018,Gwalior2018,.,217
+India,Assam,Hailakandi,2012,Hailakandi2012,.,218
+India,Assam,Hailakandi,2016,Hailakandi2016,5.669,218
+India,Assam,Hailakandi,2017,Hailakandi2017,2.896,218
+India,Assam,Hailakandi,2018,Hailakandi2018,55.892,218
+India,Himachal Pradesh,Hamirpur,2011,Hamirpur2011,12.22,219
+India,Uttar Pradesh,Hamirpur,2012,Hamirpur2012,28.7,219
+India,Himachal Pradesh,Hamirpur,2013,Hamirpur2013,2,219
+India,Himachal Pradesh,Hamirpur,2014,Hamirpur2014,.,219
+India,Himachal Pradesh,Hamirpur,2016,Hamirpur2016,53.225,219
+India,Himachal Pradesh,Hamirpur,2017,Hamirpur2017,38.19,219
+India,Himachal Pradesh,Hamirpur,2018,Hamirpur2018,104.355,219
+India,Telangana,Hanumakonda,2012,Hanumakonda2012,8.3,220
+India,Rajasthan,Hanumangarh,2011,Hanumangarh2011,7.85,221
+India,Uttar Pradesh,Hapur,2012,Hapur2012,50.5,222
+India,Uttar Pradesh,Hapur,2018,Hapur2018,9.5,222
+India,Madhya Pradesh,Harda,2012,Harda2012,86.1,223
+India,Madhya Pradesh,Harda,2013,Harda2013,24.88,223
+India,Madhya Pradesh,Harda,2015,Harda2015,53.45,223
+India,Madhya Pradesh,Harda,2017,Harda2017,3.5,223
+India,Madhya Pradesh,Harda,2018,Harda2018,.,223
+India,Uttar Pradesh,Hardoi,2011,Hardoi2011,16.65,224
+India,Uttar Pradesh,Hardoi,2012,Hardoi2012,381.76,224
+India,Uttar Pradesh,Hardoi,2018,Hardoi2018,14.435,224
+India,Uttarakhand,Haridwar,2013,Haridwar2013,93.75,225
+India,Uttarakhand,Haridwar,2017,Haridwar2017,2.32,225
+India,Karnataka,Hassan,2012,Hassan2012,12.65,226
+India,Karnataka,Hassan,2013,Hassan2013,6.71,226
+India,Uttar Pradesh,Hathras,2012,Hathras2012,109.475,227
+India,Karnataka,Haveri,2012,Haveri2012,27.51,228
+India,Karnataka,Haveri,2013,Haveri2013,.,228
+India,Jharkhand,Hazaribagh,2011,Hazaribagh2011,277.344,229
+India,Jharkhand,Hazaribagh,2012,Hazaribagh2012,48.15,229
+India,Jharkhand,Hazaribagh,2013,Hazaribagh2013,174.691,229
+India,Jharkhand,Hazaribagh,2016,Hazaribagh2016,315.557,229
+India,Jharkhand,Hazaribagh,2017,Hazaribagh2017,107.244,229
+India,Jharkhand,Hazaribagh,2018,Hazaribagh2018,23.27,229
+India,Maharashtra,Hingoli,2012,Hingoli2012,.,230
+India,Mizoram,Hnahthial,2013,Hnahthial2013,13.5,231
+India,Mizoram,Hnahthial,2017,Hnahthial2017,25.45,231
+India,Mizoram,Hnahthial,2018,Hnahthial2018,12.3,231
+India,Assam,Hojai,2012,Hojai2012,2.8,232
+India,Assam,Hojai,2013,Hojai2013,15.291,232
+India,Assam,Hojai,2016,Hojai2016,27.688,232
+India,Assam,Hojai,2017,Hojai2017,141.775,232
+India,Assam,Hojai,2018,Hojai2018,84.52,232
+India,West Bengal,Hooghly,2011,Hooghly2011,92.355,233
+India,West Bengal,Hooghly,2012,Hooghly2012,129.59,233
+India,West Bengal,Hooghly,2014,Hooghly2014,76.714,233
+India,West Bengal,Hooghly,2016,Hooghly2016,165.239,233
+India,West Bengal,Hooghly,2017,Hooghly2017,355.32,233
+India,Madhya Pradesh,Hoshangabad,2012,Hoshangabad2012,229.96,234
+India,Madhya Pradesh,Hoshangabad,2013,Hoshangabad2013,43.1,234
+India,Madhya Pradesh,Hoshangabad,2015,Hoshangabad2015,168.59,234
+India,Madhya Pradesh,Hoshangabad,2016,Hoshangabad2016,5.85,234
+India,Madhya Pradesh,Hoshangabad,2017,Hoshangabad2017,1.375,234
+India,Punjab,Hoshiarpur,2012,Hoshiarpur2012,101.9,235
+India,Punjab,Hoshiarpur,2013,Hoshiarpur2013,63.82,235
+India,Punjab,Hoshiarpur,2014,Hoshiarpur2014,7.43,235
+India,West Bengal,Howrah,2011,Howrah2011,18.29,236
+India,West Bengal,Howrah,2012,Howrah2012,307.382,236
+India,West Bengal,Howrah,2016,Howrah2016,23.15,236
+India,West Bengal,Howrah,2017,Howrah2017,463.729,236
+India,Kerala,Idukki,2013,Idukki2013,126.399,237
+India,Kerala,Idukki,2018,Idukki2018,13.56,237
+India,Manipur,Imphal East,2012,Imphal East2012,.,238
+India,Manipur,Imphal East,2013,Imphal East2013,53.413,238
+India,Manipur,Imphal East,2014,Imphal East2014,101.75,238
+India,Manipur,Imphal East,2017,Imphal East2017,51.39,238
+India,Manipur,Imphal East,2018,Imphal East2018,15,238
+India,Manipur,Imphal East,2020,Imphal East2020,.,238
+India,Manipur,Imphal West,2012,Imphal West2012,.,239
+India,Manipur,Imphal West,2013,Imphal West2013,51.35,239
+India,Manipur,Imphal West,2014,Imphal West2014,122.65,239
+India,Manipur,Imphal West,2017,Imphal West2017,26.44,239
+India,Manipur,Imphal West,2020,Imphal West2020,.,239
+India,Madhya Pradesh,Indore,2011,Indore2011,44.53,240
+India,Madhya Pradesh,Indore,2012,Indore2012,173.21,240
+India,Madhya Pradesh,Indore,2013,Indore2013,12.6,240
+India,Madhya Pradesh,Indore,2015,Indore2015,3.74,240
+India,Madhya Pradesh,Indore,2016,Indore2016,97.85,240
+India,Madhya Pradesh,Indore,2017,Indore2017,3.45,240
+India,Madhya Pradesh,Indore,2018,Indore2018,.,240
+India,Madhya Pradesh,Jabalpur,2011,Jabalpur2011,63.615,241
+India,Madhya Pradesh,Jabalpur,2012,Jabalpur2012,250.685,241
+India,Madhya Pradesh,Jabalpur,2013,Jabalpur2013,34.21,241
+India,Madhya Pradesh,Jabalpur,2015,Jabalpur2015,50.305,241
+India,Madhya Pradesh,Jabalpur,2016,Jabalpur2016,41.37,241
+India,Madhya Pradesh,Jabalpur,2018,Jabalpur2018,.,241
+India,Odisha,Jagatsinghapur,2011,Jagatsinghapur2011,47.47,242
+India,Odisha,Jagatsinghapur,2012,Jagatsinghapur2012,52.64,242
+India,Odisha,Jagatsinghapur,2013,Jagatsinghapur2013,115.52,242
+India,Odisha,Jagatsinghapur,2016,Jagatsinghapur2016,111.05,242
+India,Odisha,Jagatsinghapur,2017,Jagatsinghapur2017,118.778,242
+India,Odisha,Jagatsinghapur,2018,Jagatsinghapur2018,31.935,242
+India,Telangana,Jagitial,2016,Jagitial2016,.,243
+India,Telangana,Jagitial,2017,Jagitial2017,4.75,243
+India,Rajasthan,Jaipur,2011,Jaipur2011,41.55,244
+India,Rajasthan,Jaipur,2012,Jaipur2012,181.86,244
+India,Rajasthan,Jaipur,2013,Jaipur2013,372.313,244
+India,Rajasthan,Jaipur,2016,Jaipur2016,8,244
+India,Rajasthan,Jaisalmer,2011,Jaisalmer2011,18,245
+India,Rajasthan,Jaisalmer,2012,Jaisalmer2012,4,245
+India,Rajasthan,Jaisalmer,2013,Jaisalmer2013,13,245
+India,Rajasthan,Jaisalmer,2016,Jaisalmer2016,83.35,245
+India,Odisha,Jajapur,2011,Jajapur2011,78.6,246
+India,Odisha,Jajapur,2012,Jajapur2012,151.47,246
+India,Odisha,Jajapur,2013,Jajapur2013,55.57,246
+India,Odisha,Jajapur,2016,Jajapur2016,263.377,246
+India,Odisha,Jajapur,2017,Jajapur2017,236.063,246
+India,Punjab,Jalandhar,2012,Jalandhar2012,57.33,247
+India,Punjab,Jalandhar,2013,Jalandhar2013,9.27,247
+India,Punjab,Jalandhar,2014,Jalandhar2014,8.01,247
+India,Uttar Pradesh,Jalaun,2012,Jalaun2012,75.55,248
+India,Maharashtra,Jalgaon,2012,Jalgaon2012,.,249
+India,Maharashtra,Jalgaon,2013,Jalgaon2013,41.66,249
+India,Maharashtra,Jalna,2012,Jalna2012,14.75,250
+India,Rajasthan,Jalore,2011,Jalore2011,211.555,251
+India,Rajasthan,Jalore,2012,Jalore2012,141.925,251
+India,Rajasthan,Jalore,2013,Jalore2013,519.63,251
+India,Rajasthan,Jalore,2016,Jalore2016,364.475,251
+India,West Bengal,Jalpaiguri,2011,Jalpaiguri2011,43.11,252
+India,West Bengal,Jalpaiguri,2012,Jalpaiguri2012,65.275,252
+India,West Bengal,Jalpaiguri,2013,Jalpaiguri2013,93.477,252
+India,West Bengal,Jalpaiguri,2016,Jalpaiguri2016,212.75,252
+India,West Bengal,Jalpaiguri,2017,Jalpaiguri2017,105.661,252
+India,West Bengal,Jalpaiguri,2018,Jalpaiguri2018,.,252
+India,Jammu And Kashmir,Jammu,2011,Jammu2011,91.51,253
+India,Jammu And Kashmir,Jammu,2016,Jammu2016,146.985,253
+India,Jammu And Kashmir,Jammu,2018,Jammu2018,166.845,253
+India,Gujarat,Jamnagar,2012,Jamnagar2012,4.85,254
+India,Gujarat,Jamnagar,2013,Jamnagar2013,26.705,254
+India,Jharkhand,Jamtara,2012,Jamtara2012,152.905,255
+India,Jharkhand,Jamtara,2013,Jamtara2013,.,255
+India,Jharkhand,Jamtara,2016,Jamtara2016,109.251,255
+India,Bihar,Jamui,2011,Jamui2011,251.73,256
+India,Bihar,Jamui,2013,Jamui2013,579.637,256
+India,Bihar,Jamui,2016,Jamui2016,148.82,256
+India,Bihar,Jamui,2017,Jamui2017,61.543,256
+India,Bihar,Jamui,2018,Jamui2018,59.095,256
+India,Bihar,Jamui,2020,Jamui2020,.,256
+India,Telangana,Jangoan,2012,Jangoan2012,26.29,257
+India,Telangana,Jangoan,2016,Jangoan2016,5.75,257
+India,Chhattisgarh,Janjgir-Champa,2011,Janjgir-Champa2011,105.37,258
+India,Chhattisgarh,Janjgir-Champa,2012,Janjgir-Champa2012,139.07,258
+India,Chhattisgarh,Janjgir-Champa,2013,Janjgir-Champa2013,28.96,258
+India,Chhattisgarh,Janjgir-Champa,2016,Janjgir-Champa2016,1.45,258
+India,Chhattisgarh,Jashpur,2011,Jashpur2011,143.8,259
+India,Chhattisgarh,Jashpur,2012,Jashpur2012,307.9,259
+India,Chhattisgarh,Jashpur,2013,Jashpur2013,240.06,259
+India,Chhattisgarh,Jashpur,2016,Jashpur2016,42.136,259
+India,Uttar Pradesh,Jaunpur,2012,Jaunpur2012,200.805,260
+India,Uttar Pradesh,Jaunpur,2018,Jaunpur2018,14.6,260
+India,Telangana,Jayashankar Bhupalapally,2012,Jayashankar Bhupalapally2012,5.9,261
+India,Telangana,Jayashankar Bhupalapally,2016,Jayashankar Bhupalapally2016,1.76,261
+India,Telangana,Jayashankar Bhupalapally,2017,Jayashankar Bhupalapally2017,4.5,261
+India,Bihar,Jehanabad,2011,Jehanabad2011,135.932,262
+India,Bihar,Jehanabad,2012,Jehanabad2012,.,262
+India,Bihar,Jehanabad,2013,Jehanabad2013,98.872,262
+India,Bihar,Jehanabad,2016,Jehanabad2016,30.411,262
+India,Bihar,Jehanabad,2017,Jehanabad2017,7.492,262
+India,Bihar,Jehanabad,2018,Jehanabad2018,25.506,262
+India,Madhya Pradesh,Jhabua,2012,Jhabua2012,230.95,263
+India,Madhya Pradesh,Jhabua,2013,Jhabua2013,6.36,263
+India,Madhya Pradesh,Jhabua,2015,Jhabua2015,2.2,263
+India,Madhya Pradesh,Jhabua,2016,Jhabua2016,22.26,263
+India,Madhya Pradesh,Jhabua,2017,Jhabua2017,62.7,263
+India,Madhya Pradesh,Jhabua,2018,Jhabua2018,.,263
+India,Rajasthan,Jhalawar,2011,Jhalawar2011,0.9,264
+India,Rajasthan,Jhalawar,2012,Jhalawar2012,15.4,264
+India,Uttar Pradesh,Jhansi,2012,Jhansi2012,67.32,265
+India,Uttar Pradesh,Jhansi,2018,Jhansi2018,12.2,265
+India,West Bengal,Jhargram,2011,Jhargram2011,50.33,266
+India,West Bengal,Jhargram,2012,Jhargram2012,603.013,266
+India,West Bengal,Jhargram,2013,Jhargram2013,366.631,266
+India,West Bengal,Jhargram,2016,Jhargram2016,170.856,266
+India,West Bengal,Jhargram,2017,Jhargram2017,223.547,266
+India,West Bengal,Jhargram,2018,Jhargram2018,.,266
+India,Odisha,Jharsuguda,2011,Jharsuguda2011,39.44,267
+India,Odisha,Jharsuguda,2012,Jharsuguda2012,10.961,267
+India,Odisha,Jharsuguda,2013,Jharsuguda2013,18.208,267
+India,Odisha,Jharsuguda,2016,Jharsuguda2016,26.68,267
+India,Odisha,Jharsuguda,2017,Jharsuguda2017,24.854,267
+India,Odisha,Jharsuguda,2018,Jharsuguda2018,1.8,267
+India,Rajasthan,Jhunjhunu,2011,Jhunjhunu2011,268,268
+India,Rajasthan,Jhunjhunu,2012,Jhunjhunu2012,89.625,268
+India,Rajasthan,Jhunjhunu,2013,Jhunjhunu2013,70.4,268
+India,Rajasthan,Jhunjhunu,2016,Jhunjhunu2016,279.33,268
+India,Manipur,Jiribam,2012,Jiribam2012,.,269
+India,Manipur,Jiribam,2013,Jiribam2013,11.97,269
+India,Manipur,Jiribam,2014,Jiribam2014,6.45,269
+India,Manipur,Jiribam,2017,Jiribam2017,19.67,269
+India,Rajasthan,Jodhpur,2011,Jodhpur2011,557.35,270
+India,Rajasthan,Jodhpur,2012,Jodhpur2012,207.65,270
+India,Rajasthan,Jodhpur,2013,Jodhpur2013,569.4,270
+India,Rajasthan,Jodhpur,2016,Jodhpur2016,756.6,270
+India,Assam,Jorhat,2012,Jorhat2012,46.531,271
+India,Assam,Jorhat,2013,Jorhat2013,15.883,271
+India,Assam,Jorhat,2016,Jorhat2016,22.98,271
+India,Assam,Jorhat,2017,Jorhat2017,51.827,271
+India,Assam,Jorhat,2018,Jorhat2018,73.785,271
+India,Gujarat,Junagadh,2013,Junagadh2013,9.799999,272
+India,Chhattisgarh,Kabirdham,2011,Kabirdham2011,115.36,273
+India,Chhattisgarh,Kabirdham,2012,Kabirdham2012,303.76,273
+India,Chhattisgarh,Kabirdham,2013,Kabirdham2013,.,273
+India,Chhattisgarh,Kabirdham,2016,Kabirdham2016,13.13,273
+India,Chhattisgarh,Kabirdham,2018,Kabirdham2018,.,273
+India,Gujarat,Kachchh,2013,Kachchh2013,401.18,274
+India,Bihar,Kaimur (Bhabua),2012,Kaimur (Bhabua)2012,64.244,275
+India,Bihar,Kaimur (Bhabua),2013,Kaimur (Bhabua)2013,340.374,275
+India,Bihar,Kaimur (Bhabua),2016,Kaimur (Bhabua)2016,224.395,275
+India,Bihar,Kaimur (Bhabua),2017,Kaimur (Bhabua)2017,310.94,275
+India,Bihar,Kaimur (Bhabua),2018,Kaimur (Bhabua)2018,57.65,275
+India,Manipur,Kakching,2012,Kakching2012,.,276
+India,Manipur,Kakching,2013,Kakching2013,24.3,276
+India,Manipur,Kakching,2014,Kakching2014,75.8,276
+India,Manipur,Kakching,2017,Kakching2017,25.1,276
+India,Manipur,Kakching,2020,Kakching2020,.,276
+India,Karnataka,Kalaburagi,2013,Kalaburagi2013,.,277
+India,Odisha,Kalahandi,2011,Kalahandi2011,521.11,278
+India,Odisha,Kalahandi,2012,Kalahandi2012,190.62,278
+India,Odisha,Kalahandi,2013,Kalahandi2013,225.635,278
+India,Odisha,Kalahandi,2016,Kalahandi2016,750.78,278
+India,Odisha,Kalahandi,2017,Kalahandi2017,173.53,278
+India,Odisha,Kalahandi,2018,Kalahandi2018,28.1,278
+India,West Bengal,Kalimpong,2012,Kalimpong2012,75.6,279
+India,West Bengal,Kalimpong,2013,Kalimpong2013,71.764,279
+India,West Bengal,Kalimpong,2016,Kalimpong2016,88.177,279
+India,West Bengal,Kalimpong,2017,Kalimpong2017,16.37,279
+India,West Bengal,Kalimpong,2018,Kalimpong2018,.,279
+India,Tamil Nadu,Kallakurichi,2012,Kallakurichi2012,117.9603,280
+India,Tamil Nadu,Kallakurichi,2016,Kallakurichi2016,27.78536,280
+India,Tamil Nadu,Kallakurichi,2018,Kallakurichi2018,26.34173,280
+India,Telangana,Kamareddy,2016,Kamareddy2016,.,281
+India,Manipur,Kamjong,2012,Kamjong2012,37.75,282
+India,Manipur,Kamjong,2013,Kamjong2013,84.28,282
+India,Manipur,Kamjong,2014,Kamjong2014,4.02,282
+India,Manipur,Kamjong,2017,Kamjong2017,159.75,282
+India,Manipur,Kamjong,2018,Kamjong2018,55.02,282
+India,Manipur,Kamjong,2020,Kamjong2020,.,282
+India,Arunachal Pradesh,Kamle,2013,Kamle2013,7.5,283
+India,Arunachal Pradesh,Kamle,2016,Kamle2016,54.2,283
+India,Arunachal Pradesh,Kamle,2018,Kamle2018,179.57,283
+India,Assam,Kamrup,2012,Kamrup2012,36.516,284
+India,Assam,Kamrup,2013,Kamrup2013,11.68,284
+India,Assam,Kamrup,2016,Kamrup2016,24.728,284
+India,Assam,Kamrup,2017,Kamrup2017,764.319,284
+India,Assam,Kamrup,2018,Kamrup2018,33.775,284
+India,Tamil Nadu,Kanchipuram,2012,Kanchipuram2012,93.998,285
+India,Tamil Nadu,Kanchipuram,2014,Kanchipuram2014,98.441,285
+India,Tamil Nadu,Kanchipuram,2018,Kanchipuram2018,4.37,285
+India,Odisha,Kandhamal,2011,Kandhamal2011,27.1,286
+India,Odisha,Kandhamal,2012,Kandhamal2012,184.38,286
+India,Odisha,Kandhamal,2013,Kandhamal2013,97.34,286
+India,Odisha,Kandhamal,2016,Kandhamal2016,638.272,286
+India,Odisha,Kandhamal,2017,Kandhamal2017,137.24,286
+India,Odisha,Kandhamal,2018,Kandhamal2018,23.69,286
+India,Manipur,Kangpokpi,2012,Kangpokpi2012,.,287
+India,Manipur,Kangpokpi,2013,Kangpokpi2013,.,287
+India,Manipur,Kangpokpi,2014,Kangpokpi2014,.,287
+India,Manipur,Kangpokpi,2017,Kangpokpi2017,.,287
+India,Manipur,Kangpokpi,2018,Kangpokpi2018,.,287
+India,Manipur,Kangpokpi,2020,Kangpokpi2020,.,287
+India,Himachal Pradesh,Kangra,2011,Kangra2011,108.44,288
+India,Himachal Pradesh,Kangra,2013,Kangra2013,80.765,288
+India,Himachal Pradesh,Kangra,2014,Kangra2014,164.275,288
+India,Himachal Pradesh,Kangra,2016,Kangra2016,286.16,288
+India,Himachal Pradesh,Kangra,2017,Kangra2017,129.92,288
+India,Himachal Pradesh,Kangra,2018,Kangra2018,399.275,288
+India,Chhattisgarh,Kanker,2012,Kanker2012,104.465,289
+India,Chhattisgarh,Kanker,2013,Kanker2013,16.85,289
+India,Chhattisgarh,Kanker,2016,Kanker2016,417.334,289
+India,Chhattisgarh,Kanker,2018,Kanker2018,612.22,289
+India,Uttar Pradesh,Kannauj,2012,Kannauj2012,50.325,290
+India,Uttar Pradesh,Kannauj,2018,Kannauj2018,12.15,290
+India,Tamil Nadu,Kanniyakumari,2012,Kanniyakumari2012,22,291
+India,Tamil Nadu,Kanniyakumari,2018,Kanniyakumari2018,7.395,291
+India,Kerala,Kannur,2013,Kannur2013,78.71,292
+India,Kerala,Kannur,2018,Kannur2018,16.597,292
+India,Uttar Pradesh,Kanpur Dehat,2011,Kanpur Dehat2011,25.8,293
+India,Uttar Pradesh,Kanpur Dehat,2012,Kanpur Dehat2012,90.025,293
+India,Uttar Pradesh,Kanpur Nagar,2012,Kanpur Nagar2012,90.87,294
+India,Punjab,Kapurthala,2012,Kapurthala2012,40.52,295
+India,Punjab,Kapurthala,2013,Kapurthala2013,7.6,295
+India,Punjab,Kapurthala,2014,Kapurthala2014,6.75,295
+India,Rajasthan,Karauli,2011,Karauli2011,5.4,296
+India,Rajasthan,Karauli,2012,Karauli2012,174.005,296
+India,Rajasthan,Karauli,2017,Karauli2017,.,296
+India,Assam,Karbi Anglong,2012,Karbi Anglong2012,3.75,297
+India,Assam,Karbi Anglong,2013,Karbi Anglong2013,17.236,297
+India,Assam,Karbi Anglong,2017,Karbi Anglong2017,146.234,297
+India,Assam,Karbi Anglong,2018,Karbi Anglong2018,226.955,297
+India,Ladakh,Kargil,2012,Kargil2012,27.63,298
+India,Ladakh,Kargil,2016,Kargil2016,67.69,298
+India,Ladakh,Kargil,2018,Kargil2018,149.44,298
+India,Assam,Karimganj,2012,Karimganj2012,18,299
+India,Assam,Karimganj,2013,Karimganj2013,11.624,299
+India,Assam,Karimganj,2016,Karimganj2016,13.799,299
+India,Assam,Karimganj,2017,Karimganj2017,384.605,299
+India,Assam,Karimganj,2018,Karimganj2018,61.027,299
+India,Telangana,Karimnagar,2016,Karimnagar2016,5.92,300
+India,Tamil Nadu,Karur,2012,Karur2012,44.55,301
+India,Tamil Nadu,Karur,2014,Karur2014,84.54,301
+India,Tamil Nadu,Karur,2016,Karur2016,48.955,301
+India,Tamil Nadu,Karur,2018,Karur2018,22.695,301
+India,Kerala,Kasaragod,2013,Kasaragod2013,78.71,302
+India,Kerala,Kasaragod,2018,Kasaragod2018,5.15,302
+India,Uttar Pradesh,Kasganj,2011,Kasganj2011,10.37,303
+India,Uttar Pradesh,Kasganj,2012,Kasganj2012,61.98,303
+India,Uttar Pradesh,Kasganj,2018,Kasganj2018,6.91,303
+India,Jammu And Kashmir,Kathua,2011,Kathua2011,49.385,304
+India,Jammu And Kashmir,Kathua,2012,Kathua2012,47.62,304
+India,Jammu And Kashmir,Kathua,2016,Kathua2016,537.888,304
+India,Jammu And Kashmir,Kathua,2017,Kathua2017,77,304
+India,Jammu And Kashmir,Kathua,2018,Kathua2018,569.09,304
+India,Bihar,Katihar,2012,Katihar2012,38.397,305
+India,Bihar,Katihar,2013,Katihar2013,249.607,305
+India,Bihar,Katihar,2016,Katihar2016,227.796,305
+India,Bihar,Katihar,2017,Katihar2017,18.66,305
+India,Bihar,Katihar,2018,Katihar2018,.,305
+India,Bihar,Katihar,2020,Katihar2020,.,305
+India,Madhya Pradesh,Katni,2011,Katni2011,50.83,306
+India,Madhya Pradesh,Katni,2012,Katni2012,99.871,306
+India,Madhya Pradesh,Katni,2013,Katni2013,44.75,306
+India,Madhya Pradesh,Katni,2015,Katni2015,107.485,306
+India,Madhya Pradesh,Katni,2016,Katni2016,40.14,306
+India,Madhya Pradesh,Katni,2017,Katni2017,13.95,306
+India,Madhya Pradesh,Katni,2018,Katni2018,.,306
+India,Uttar Pradesh,Kaushambi,2012,Kaushambi2012,47.25,307
+India,Odisha,Kendrapara,2011,Kendrapara2011,19.05,308
+India,Odisha,Kendrapara,2012,Kendrapara2012,233.95,308
+India,Odisha,Kendrapara,2013,Kendrapara2013,129.672,308
+India,Odisha,Kendrapara,2016,Kendrapara2016,172.06,308
+India,Odisha,Kendrapara,2017,Kendrapara2017,206.114,308
+India,Odisha,Kendrapara,2018,Kendrapara2018,1.38,308
+India,Odisha,Kendujhar,2011,Kendujhar2011,316.04,309
+India,Odisha,Kendujhar,2012,Kendujhar2012,167.38,309
+India,Odisha,Kendujhar,2013,Kendujhar2013,226.912,309
+India,Odisha,Kendujhar,2016,Kendujhar2016,247.17,309
+India,Odisha,Kendujhar,2017,Kendujhar2017,197.2,309
+India,Odisha,Kendujhar,2018,Kendujhar2018,12.7,309
+India,Bihar,Khagaria,2012,Khagaria2012,42.036,310
+India,Bihar,Khagaria,2013,Khagaria2013,84.958,310
+India,Bihar,Khagaria,2016,Khagaria2016,50.701,310
+India,Bihar,Khagaria,2017,Khagaria2017,39.431,310
+India,Bihar,Khagaria,2018,Khagaria2018,.,310
+India,Telangana,Khammam,2016,Khammam2016,.,311
+India,Telangana,Khammam,2017,Khammam2017,3.166,311
+India,Madhya Pradesh,Khargone,2012,Khargone2012,181.01,312
+India,Madhya Pradesh,Khargone,2013,Khargone2013,51.69,312
+India,Madhya Pradesh,Khargone,2015,Khargone2015,18.075,312
+India,Madhya Pradesh,Khargone,2016,Khargone2016,6.55,312
+India,Madhya Pradesh,Khargone,2017,Khargone2017,16.33,312
+India,Madhya Pradesh,Khargone,2018,Khargone2018,.,312
+India,Gujarat,Kheda,2013,Kheda2013,85.49,313
+India,Uttar Pradesh,Kheri,2011,Kheri2011,59.305,314
+India,Uttar Pradesh,Kheri,2012,Kheri2012,213.9,314
+India,Uttar Pradesh,Kheri,2018,Kheri2018,15.3,314
+India,Odisha,Khordha,2011,Khordha2011,76.36,315
+India,Odisha,Khordha,2012,Khordha2012,52.895,315
+India,Odisha,Khordha,2013,Khordha2013,79.565,315
+India,Odisha,Khordha,2016,Khordha2016,115.27,315
+India,Odisha,Khordha,2017,Khordha2017,98.798,315
+India,Odisha,Khordha,2018,Khordha2018,36.91,315
+India,Tripura,Khowai,2011,Khowai2011,29.025,316
+India,Tripura,Khowai,2013,Khowai2013,132.548,316
+India,Tripura,Khowai,2016,Khowai2016,28.09,316
+India,Jharkhand,Khunti,2012,Khunti2012,251.266,317
+India,Jharkhand,Khunti,2013,Khunti2013,.,317
+India,Jharkhand,Khunti,2016,Khunti2016,144.753,317
+India,Jharkhand,Khunti,2017,Khunti2017,96.306,317
+India,Jharkhand,Khunti,2018,Khunti2018,38.68,317
+India,Himachal Pradesh,Kinnaur,2016,Kinnaur2016,74.405,318
+India,Himachal Pradesh,Kinnaur,2017,Kinnaur2017,45.11,318
+India,Himachal Pradesh,Kinnaur,2018,Kinnaur2018,26.63,318
+India,Nagaland,Kiphire,2011,Kiphire2011,75.5,319
+India,Nagaland,Kiphire,2017,Kiphire2017,.,319
+India,Nagaland,Kiphire,2018,Kiphire2018,10,319
+India,Bihar,Kishanganj,2012,Kishanganj2012,109.242,320
+India,Bihar,Kishanganj,2013,Kishanganj2013,258.804,320
+India,Bihar,Kishanganj,2016,Kishanganj2016,133.957,320
+India,Bihar,Kishanganj,2017,Kishanganj2017,24.987,320
+India,Bihar,Kishanganj,2018,Kishanganj2018,.,320
+India,Jammu And Kashmir,Kishtwar,2011,Kishtwar2011,72.05,321
+India,Jammu And Kashmir,Kishtwar,2012,Kishtwar2012,121.5,321
+India,Jammu And Kashmir,Kishtwar,2016,Kishtwar2016,243.04,321
+India,Jammu And Kashmir,Kishtwar,2017,Kishtwar2017,191.05,321
+India,Jammu And Kashmir,Kishtwar,2018,Kishtwar2018,313.98,321
+India,Karnataka,Kodagu,2013,Kodagu2013,.,322
+India,Jharkhand,Koderma,2012,Koderma2012,62.71,323
+India,Jharkhand,Koderma,2013,Koderma2013,37.7,323
+India,Jharkhand,Koderma,2016,Koderma2016,55.352,323
+India,Jharkhand,Koderma,2017,Koderma2017,29.679,323
+India,Jharkhand,Koderma,2018,Koderma2018,9.65,323
+India,Nagaland,Kohima,2017,Kohima2017,.,324
+India,Nagaland,Kohima,2018,Kohima2018,4.5,324
+India,Assam,Kokrajhar,2012,Kokrajhar2012,39.14154,325
+India,Assam,Kokrajhar,2013,Kokrajhar2013,62.47426,325
+India,Assam,Kokrajhar,2016,Kokrajhar2016,36.82,325
+India,Assam,Kokrajhar,2017,Kokrajhar2017,68.65768,325
+India,Assam,Kokrajhar,2018,Kokrajhar2018,7.603177,325
+India,Mizoram,Kolasib,2013,Kolasib2013,6.9,326
+India,Mizoram,Kolasib,2017,Kolasib2017,17.56,326
+India,Mizoram,Kolasib,2018,Kolasib2018,12.57,326
+India,Maharashtra,Kolhapur,2012,Kolhapur2012,4.3,327
+India,Kerala,Kollam,2013,Kollam2013,50.277,328
+India,Kerala,Kollam,2018,Kollam2018,5.652,328
+India,Chhattisgarh,Kondagaon,2012,Kondagaon2012,119.34,329
+India,Chhattisgarh,Kondagaon,2013,Kondagaon2013,.,329
+India,Chhattisgarh,Kondagaon,2016,Kondagaon2016,227.48,329
+India,Chhattisgarh,Kondagaon,2018,Kondagaon2018,25.28,329
+India,Karnataka,Koppal,2013,Koppal2013,7.1,330
+India,Odisha,Koraput,2011,Koraput2011,246.78,331
+India,Odisha,Koraput,2012,Koraput2012,107.83,331
+India,Odisha,Koraput,2013,Koraput2013,261.205,331
+India,Odisha,Koraput,2016,Koraput2016,1282.283,331
+India,Odisha,Koraput,2017,Koraput2017,372.81,331
+India,Odisha,Koraput,2018,Koraput2018,148.51,331
+India,Chhattisgarh,Korba,2011,Korba2011,148.12,332
+India,Chhattisgarh,Korba,2012,Korba2012,214.53,332
+India,Chhattisgarh,Korba,2013,Korba2013,123.05,332
+India,Chhattisgarh,Korba,2016,Korba2016,5.85,332
+India,Chhattisgarh,Korea,2011,Korea2011,90.23,333
+India,Chhattisgarh,Korea,2012,Korea2012,150.71,333
+India,Chhattisgarh,Korea,2013,Korea2013,.,333
+India,Chhattisgarh,Korea,2016,Korea2016,11.9,333
+India,Chhattisgarh,Korea,2018,Korea2018,.,333
+India,Rajasthan,Kota,2012,Kota2012,14,334
+India,Kerala,Kottayam,2013,Kottayam2013,47.206,335
+India,Kerala,Kottayam,2018,Kottayam2018,12.175,335
+India,Kerala,Kozhikode,2013,Kozhikode2013,45.547,336
+India,Kerala,Kozhikode,2018,Kozhikode2018,17.67,336
+India,Arunachal Pradesh,Kra Daadi,2013,Kra Daadi2013,137.27,337
+India,Arunachal Pradesh,Kra Daadi,2016,Kra Daadi2016,121.1,337
+India,Arunachal Pradesh,Kra Daadi,2017,Kra Daadi2017,114.22,337
+India,Arunachal Pradesh,Kra Daadi,2018,Kra Daadi2018,655.022,337
+India,Andhra Pradesh,Krishna,2017,Krishna2017,.,338
+India,Tamil Nadu,Krishnagiri,2012,Krishnagiri2012,49.796,339
+India,Tamil Nadu,Krishnagiri,2016,Krishnagiri2016,19.395,339
+India,Tamil Nadu,Krishnagiri,2018,Krishnagiri2018,55.745,339
+India,Jammu And Kashmir,Kulgam,2011,Kulgam2011,33.45,340
+India,Jammu And Kashmir,Kulgam,2016,Kulgam2016,54.76,340
+India,Jammu And Kashmir,Kulgam,2017,Kulgam2017,3.7,340
+India,Jammu And Kashmir,Kulgam,2018,Kulgam2018,109.77,340
+India,Himachal Pradesh,Kullu,2011,Kullu2011,174.402,341
+India,Himachal Pradesh,Kullu,2013,Kullu2013,47.8,341
+India,Himachal Pradesh,Kullu,2014,Kullu2014,49.475,341
+India,Himachal Pradesh,Kullu,2016,Kullu2016,388.846,341
+India,Himachal Pradesh,Kullu,2017,Kullu2017,220.11,341
+India,Himachal Pradesh,Kullu,2018,Kullu2018,79.825,341
+India,Telangana,Kumuram Bheem Asifabad,2012,Kumuram Bheem Asifabad2012,137.13,342
+India,Telangana,Kumuram Bheem Asifabad,2016,Kumuram Bheem Asifabad2016,2.8,342
+India,Telangana,Kumuram Bheem Asifabad,2017,Kumuram Bheem Asifabad2017,129.55,342
+India,Jammu And Kashmir,Kupwara,2011,Kupwara2011,15.1,343
+India,Jammu And Kashmir,Kupwara,2012,Kupwara2012,93.87,343
+India,Jammu And Kashmir,Kupwara,2016,Kupwara2016,105.3,343
+India,Jammu And Kashmir,Kupwara,2017,Kupwara2017,10.1,343
+India,Jammu And Kashmir,Kupwara,2018,Kupwara2018,157.55,343
+India,Andhra Pradesh,Kurnool,2017,Kurnool2017,.,344
+India,Arunachal Pradesh,Kurung Kumey,2013,Kurung Kumey2013,24.6,345
+India,Arunachal Pradesh,Kurung Kumey,2016,Kurung Kumey2016,213.73,345
+India,Arunachal Pradesh,Kurung Kumey,2017,Kurung Kumey2017,1.73,345
+India,Arunachal Pradesh,Kurung Kumey,2018,Kurung Kumey2018,573.78,345
+India,Uttar Pradesh,Kushi Nagar,2012,Kushi Nagar2012,129.62,346
+India,Uttar Pradesh,Kushi Nagar,2018,Kushi Nagar2018,11.35,346
+India,Himachal Pradesh,Lahul And Spiti,2013,Lahul And Spiti2013,55.875,347
+India,Himachal Pradesh,Lahul And Spiti,2017,Lahul And Spiti2017,9.03,347
+India,Assam,Lakhimpur,2012,Lakhimpur2012,16.12,348
+India,Assam,Lakhimpur,2013,Lakhimpur2013,70.124,348
+India,Assam,Lakhimpur,2017,Lakhimpur2017,358.653,348
+India,Assam,Lakhimpur,2018,Lakhimpur2018,40.326,348
+India,Bihar,Lakhisarai,2012,Lakhisarai2012,5.189,349
+India,Bihar,Lakhisarai,2013,Lakhisarai2013,19.799,349
+India,Bihar,Lakhisarai,2016,Lakhisarai2016,20.522,349
+India,Bihar,Lakhisarai,2017,Lakhisarai2017,1.692,349
+India,Bihar,Lakhisarai,2018,Lakhisarai2018,.,349
+India,Uttar Pradesh,Lalitpur,2012,Lalitpur2012,60.3,350
+India,Uttar Pradesh,Lalitpur,2018,Lalitpur2018,16.4,350
+India,Jharkhand,Latehar,2011,Latehar2011,89.2,351
+India,Jharkhand,Latehar,2012,Latehar2012,24.15,351
+India,Jharkhand,Latehar,2013,Latehar2013,196.825,351
+India,Jharkhand,Latehar,2016,Latehar2016,77.8,351
+India,Jharkhand,Latehar,2017,Latehar2017,153.47,351
+India,Maharashtra,Latur,2012,Latur2012,.,352
+India,Mizoram,Lawngtlai,2013,Lawngtlai2013,40.31,353
+India,Mizoram,Lawngtlai,2016,Lawngtlai2016,80.19,353
+India,Mizoram,Lawngtlai,2017,Lawngtlai2017,12.1,353
+India,Mizoram,Lawngtlai,2018,Lawngtlai2018,205.03,353
+India,Ladakh,Leh Ladakh,2012,Leh Ladakh2012,19.11,354
+India,Ladakh,Leh Ladakh,2016,Leh Ladakh2016,19.785,354
+India,Ladakh,Leh Ladakh,2018,Leh Ladakh2018,139.645,354
+India,Arunachal Pradesh,Leparada,2012,Leparada2012,19.65,355
+India,Arunachal Pradesh,Leparada,2016,Leparada2016,2.01,355
+India,Arunachal Pradesh,Leparada,2017,Leparada2017,30.07,355
+India,Arunachal Pradesh,Leparada,2018,Leparada2018,32.07,355
+India,Jharkhand,Lohardaga,2011,Lohardaga2011,159.565,356
+India,Jharkhand,Lohardaga,2012,Lohardaga2012,8.65,356
+India,Jharkhand,Lohardaga,2013,Lohardaga2013,28.89,356
+India,Jharkhand,Lohardaga,2016,Lohardaga2016,75.9,356
+India,Jharkhand,Lohardaga,2017,Lohardaga2017,56.68,356
+India,Jharkhand,Lohardaga,2018,Lohardaga2018,11.49,356
+India,Arunachal Pradesh,Longding,2012,Longding2012,101.37,357
+India,Arunachal Pradesh,Longding,2013,Longding2013,27.9,357
+India,Arunachal Pradesh,Longding,2014,Longding2014,33,357
+India,Arunachal Pradesh,Longding,2016,Longding2016,119.285,357
+India,Arunachal Pradesh,Longding,2018,Longding2018,66.2,357
+India,Nagaland,Longleng,2011,Longleng2011,20,358
+India,Nagaland,Longleng,2018,Longleng2018,.,358
+India,Arunachal Pradesh,Lower Dibang Valley,2012,Lower Dibang Valley2012,29.41,359
+India,Arunachal Pradesh,Lower Dibang Valley,2013,Lower Dibang Valley2013,2,359
+India,Arunachal Pradesh,Lower Dibang Valley,2016,Lower Dibang Valley2016,.,359
+India,Arunachal Pradesh,Lower Dibang Valley,2018,Lower Dibang Valley2018,50.37,359
+India,Arunachal Pradesh,Lower Siang,2012,Lower Siang2012,16.26,360
+India,Arunachal Pradesh,Lower Siang,2016,Lower Siang2016,30.07,360
+India,Arunachal Pradesh,Lower Siang,2018,Lower Siang2018,113.95,360
+India,Arunachal Pradesh,Lower Subansiri,2012,Lower Subansiri2012,.,361
+India,Arunachal Pradesh,Lower Subansiri,2013,Lower Subansiri2013,.,361
+India,Arunachal Pradesh,Lower Subansiri,2014,Lower Subansiri2014,.,361
+India,Arunachal Pradesh,Lower Subansiri,2016,Lower Subansiri2016,.,361
+India,Arunachal Pradesh,Lower Subansiri,2018,Lower Subansiri2018,.,361
+India,Uttar Pradesh,Lucknow,2011,Lucknow2011,14.26,362
+India,Uttar Pradesh,Lucknow,2012,Lucknow2012,76.67,362
+India,Uttar Pradesh,Lucknow,2018,Lucknow2018,13.85,362
+India,Punjab,Ludhiana,2012,Ludhiana2012,160.48,363
+India,Punjab,Ludhiana,2013,Ludhiana2013,38.01,363
+India,Punjab,Ludhiana,2014,Ludhiana2014,24.56,363
+India,Mizoram,Lunglei,2013,Lunglei2013,51.49,364
+India,Mizoram,Lunglei,2016,Lunglei2016,81.724,364
+India,Mizoram,Lunglei,2018,Lunglei2018,153.23,364
+India,Bihar,Madhepura,2012,Madhepura2012,172.407,365
+India,Bihar,Madhepura,2013,Madhepura2013,168.74,365
+India,Bihar,Madhepura,2016,Madhepura2016,78.35,365
+India,Bihar,Madhepura,2017,Madhepura2017,65.533,365
+India,Bihar,Madhepura,2020,Madhepura2020,.,365
+India,Bihar,Madhubani,2011,Madhubani2011,.,366
+India,Bihar,Madhubani,2012,Madhubani2012,168.579,366
+India,Bihar,Madhubani,2013,Madhubani2013,755.88,366
+India,Bihar,Madhubani,2016,Madhubani2016,79.776,366
+India,Bihar,Madhubani,2017,Madhubani2017,67.001,366
+India,Bihar,Madhubani,2018,Madhubani2018,.,366
+India,Bihar,Madhubani,2020,Madhubani2020,.,366
+India,Tamil Nadu,Madurai,2012,Madurai2012,87.1,367
+India,Tamil Nadu,Madurai,2016,Madurai2016,66.453,367
+India,Tamil Nadu,Madurai,2018,Madurai2018,14.965,367
+India,Telangana,Mahabubabad,2012,Mahabubabad2012,29.56,368
+India,Telangana,Mahabubabad,2016,Mahabubabad2016,35.99,368
+India,Telangana,Mahabubabad,2017,Mahabubabad2017,141.95,368
+India,Uttar Pradesh,Maharajganj,2011,Maharajganj2011,16.76,369
+India,Uttar Pradesh,Maharajganj,2012,Maharajganj2012,121.425,369
+India,Uttar Pradesh,Maharajganj,2018,Maharajganj2018,12.4,369
+India,Chhattisgarh,Mahasamund,2011,Mahasamund2011,82.55,370
+India,Chhattisgarh,Mahasamund,2012,Mahasamund2012,47.1,370
+India,Chhattisgarh,Mahasamund,2013,Mahasamund2013,154.77,370
+India,Chhattisgarh,Mahasamund,2016,Mahasamund2016,33.075,370
+India,Chhattisgarh,Mahasamund,2018,Mahasamund2018,.,370
+India,Gujarat,Mahesana,2013,Mahesana2013,18.8,371
+India,Gujarat,Mahisagar,2012,Mahisagar2012,185.78,372
+India,Gujarat,Mahisagar,2013,Mahisagar2013,91.75,372
+India,Uttar Pradesh,Mahoba,2012,Mahoba2012,37.3,373
+India,Uttar Pradesh,Mainpuri,2012,Mainpuri2012,94.73,374
+India,Uttar Pradesh,Mainpuri,2018,Mainpuri2018,5,374
+India,Assam,Majuli,2012,Majuli2012,.,375
+India,Assam,Majuli,2013,Majuli2013,22.182,375
+India,Assam,Majuli,2016,Majuli2016,25.86,375
+India,Assam,Majuli,2017,Majuli2017,114.565,375
+India,Assam,Majuli,2018,Majuli2018,26.29,375
+India,Kerala,Malappuram,2013,Malappuram2013,72.98,376
+India,Kerala,Malappuram,2018,Malappuram2018,6.864,376
+India,West Bengal,Maldah,2011,Maldah2011,71.102,377
+India,West Bengal,Maldah,2012,Maldah2012,281.005,377
+India,West Bengal,Maldah,2013,Maldah2013,22.37,377
+India,West Bengal,Maldah,2016,Maldah2016,55.891,377
+India,West Bengal,Maldah,2017,Maldah2017,440.048,377
+India,West Bengal,Maldah,2018,Maldah2018,.,377
+India,West Bengal,Maldah,2019,Maldah2019,.,377
+India,Punjab,Malerkotla,2012,Malerkotla2012,4.830571,378
+India,Odisha,Malkangiri,2011,Malkangiri2011,219.34,379
+India,Odisha,Malkangiri,2013,Malkangiri2013,.,379
+India,Odisha,Malkangiri,2016,Malkangiri2016,163.62,379
+India,Odisha,Malkangiri,2017,Malkangiri2017,15.08,379
+India,Odisha,Malkangiri,2018,Malkangiri2018,.,379
+India,Mizoram,Mamit,2013,Mamit2013,22.63,380
+India,Mizoram,Mamit,2016,Mamit2016,.,380
+India,Mizoram,Mamit,2017,Mamit2017,29.56,380
+India,Mizoram,Mamit,2018,Mamit2018,46.62,380
+India,Telangana,Mancherial,2012,Mancherial2012,90.425,381
+India,Telangana,Mancherial,2016,Mancherial2016,.,381
+India,Telangana,Mancherial,2017,Mancherial2017,47.2,381
+India,Himachal Pradesh,Mandi,2011,Mandi2011,58,382
+India,Himachal Pradesh,Mandi,2013,Mandi2013,79.315,382
+India,Himachal Pradesh,Mandi,2014,Mandi2014,34.29,382
+India,Himachal Pradesh,Mandi,2016,Mandi2016,529.17,382
+India,Himachal Pradesh,Mandi,2017,Mandi2017,564.519,382
+India,Himachal Pradesh,Mandi,2018,Mandi2018,483.24,382
+India,Madhya Pradesh,Mandla,2011,Mandla2011,254.57,383
+India,Madhya Pradesh,Mandla,2012,Mandla2012,111.465,383
+India,Madhya Pradesh,Mandla,2013,Mandla2013,7.5,383
+India,Madhya Pradesh,Mandla,2015,Mandla2015,2.32,383
+India,Madhya Pradesh,Mandla,2016,Mandla2016,149.06,383
+India,Madhya Pradesh,Mandla,2017,Mandla2017,91.74,383
+India,Madhya Pradesh,Mandla,2018,Mandla2018,.,383
+India,Madhya Pradesh,Mandsaur,2011,Mandsaur2011,51.6,384
+India,Madhya Pradesh,Mandsaur,2012,Mandsaur2012,322.515,384
+India,Madhya Pradesh,Mandsaur,2015,Mandsaur2015,95.37,384
+India,Madhya Pradesh,Mandsaur,2016,Mandsaur2016,9.6,384
+India,Madhya Pradesh,Mandsaur,2017,Mandsaur2017,15.6,384
+India,Madhya Pradesh,Mandsaur,2018,Mandsaur2018,.,384
+India,Karnataka,Mandya,2013,Mandya2013,.,385
+India,Punjab,Mansa,2012,Mansa2012,142.58,386
+India,Punjab,Mansa,2013,Mansa2013,3.31,386
+India,Punjab,Mansa,2014,Mansa2014,6,386
+India,Assam,Marigaon,2012,Marigaon2012,21.471,387
+India,Assam,Marigaon,2013,Marigaon2013,27.62,387
+India,Assam,Marigaon,2016,Marigaon2016,22.17,387
+India,Assam,Marigaon,2017,Marigaon2017,120.896,387
+India,Assam,Marigaon,2018,Marigaon2018,24.82,387
+India,Uttar Pradesh,Mathura,2012,Mathura2012,49.336,388
+India,Uttar Pradesh,Mathura,2018,Mathura2018,17.25,388
+India,Uttar Pradesh,Mau,2011,Mau2011,23.55,389
+India,Uttar Pradesh,Mau,2012,Mau2012,71.7,389
+India,Uttar Pradesh,Mau,2018,Mau2018,9.5,389
+India,Tamil Nadu,Mayiladuthurai,2012,Mayiladuthurai2012,56.137,390
+India,Tamil Nadu,Mayiladuthurai,2014,Mayiladuthurai2014,38.61,390
+India,Tamil Nadu,Mayiladuthurai,2016,Mayiladuthurai2016,109.397,390
+India,Tamil Nadu,Mayiladuthurai,2018,Mayiladuthurai2018,46.121,390
+India,Odisha,Mayurbhanj,2011,Mayurbhanj2011,410.75,391
+India,Odisha,Mayurbhanj,2012,Mayurbhanj2012,296.78,391
+India,Odisha,Mayurbhanj,2013,Mayurbhanj2013,204.971,391
+India,Odisha,Mayurbhanj,2016,Mayurbhanj2016,684.439,391
+India,Odisha,Mayurbhanj,2017,Mayurbhanj2017,802.54,391
+India,Odisha,Mayurbhanj,2018,Mayurbhanj2018,117.475,391
+India,Telangana,Medak,2016,Medak2016,.,392
+India,West Bengal,Medinipur East,2011,Medinipur East2011,99.95,393
+India,West Bengal,Medinipur East,2012,Medinipur East2012,174.12,393
+India,West Bengal,Medinipur East,2013,Medinipur East2013,.,393
+India,West Bengal,Medinipur East,2014,Medinipur East2014,70.75,393
+India,West Bengal,Medinipur East,2016,Medinipur East2016,69.7,393
+India,West Bengal,Medinipur East,2017,Medinipur East2017,101.67,393
+India,West Bengal,Medinipur East,2018,Medinipur East2018,.,393
+India,West Bengal,Medinipur West,2011,Medinipur West2011,103.2,394
+India,West Bengal,Medinipur West,2012,Medinipur West2012,910.413,394
+India,West Bengal,Medinipur West,2013,Medinipur West2013,622.645,394
+India,West Bengal,Medinipur West,2016,Medinipur West2016,259.034,394
+India,West Bengal,Medinipur West,2017,Medinipur West2017,913.11,394
+India,West Bengal,Medinipur West,2018,Medinipur West2018,.,394
+India,Uttar Pradesh,Meerut,2012,Meerut2012,101.679,395
+India,Uttar Pradesh,Meerut,2018,Meerut2018,10.01,395
+India,Uttar Pradesh,Mirzapur,2011,Mirzapur2011,20.95,396
+India,Uttar Pradesh,Mirzapur,2012,Mirzapur2012,186.5,396
+India,Punjab,Moga,2012,Moga2012,155.56,397
+India,Punjab,Moga,2014,Moga2014,22.09,397
+India,Nagaland,Mokokchung,2018,Mokokchung2018,.,398
+India,Nagaland,Mon,2011,Mon2011,14.2,399
+India,Nagaland,Mon,2017,Mon2017,6,399
+India,Uttar Pradesh,Moradabad,2012,Moradabad2012,48.77,400
+India,Uttar Pradesh,Moradabad,2018,Moradabad2018,11.345,400
+India,Gujarat,Morbi,2012,Morbi2012,1,401
+India,Gujarat,Morbi,2013,Morbi2013,17.25,401
+India,Madhya Pradesh,Morena,2012,Morena2012,22.35,402
+India,Madhya Pradesh,Morena,2013,Morena2013,11.655,402
+India,Madhya Pradesh,Morena,2015,Morena2015,32.814,402
+India,Madhya Pradesh,Morena,2017,Morena2017,10.875,402
+India,Telangana,Mulugu,2012,Mulugu2012,9.57,403
+India,Telangana,Mulugu,2016,Mulugu2016,2.7,403
+India,Telangana,Mulugu,2017,Mulugu2017,43.005,403
+India,Chhattisgarh,Mungeli,2011,Mungeli2011,53.49,404
+India,Chhattisgarh,Mungeli,2012,Mungeli2012,104.932,404
+India,Chhattisgarh,Mungeli,2013,Mungeli2013,60.53,404
+India,Chhattisgarh,Mungeli,2016,Mungeli2016,2.1,404
+India,Chhattisgarh,Mungeli,2018,Mungeli2018,31,404
+India,Bihar,Munger,2012,Munger2012,99.433,405
+India,Bihar,Munger,2013,Munger2013,110.621,405
+India,Bihar,Munger,2016,Munger2016,10.113,405
+India,Bihar,Munger,2017,Munger2017,21.274,405
+India,West Bengal,Murshidabad,2011,Murshidabad2011,110.258,406
+India,West Bengal,Murshidabad,2012,Murshidabad2012,394.381,406
+India,West Bengal,Murshidabad,2016,Murshidabad2016,209.29,406
+India,West Bengal,Murshidabad,2017,Murshidabad2017,118.266,406
+India,West Bengal,Murshidabad,2018,Murshidabad2018,.,406
+India,Uttar Pradesh,Muzaffarnagar,2012,Muzaffarnagar2012,95.29,407
+India,Bihar,Muzaffarpur,2011,Muzaffarpur2011,.,408
+India,Bihar,Muzaffarpur,2012,Muzaffarpur2012,29.319,408
+India,Bihar,Muzaffarpur,2013,Muzaffarpur2013,343.502,408
+India,Bihar,Muzaffarpur,2016,Muzaffarpur2016,23.499,408
+India,Bihar,Muzaffarpur,2017,Muzaffarpur2017,36.346,408
+India,Bihar,Muzaffarpur,2018,Muzaffarpur2018,.,408
+India,Karnataka,Mysuru,2012,Mysuru2012,8.11,409
+India,Karnataka,Mysuru,2013,Mysuru2013,.,409
+India,Odisha,Nabarangpur,2011,Nabarangpur2011,67.65,410
+India,Odisha,Nabarangpur,2012,Nabarangpur2012,370.63,410
+India,Odisha,Nabarangpur,2013,Nabarangpur2013,88.93,410
+India,Odisha,Nabarangpur,2016,Nabarangpur2016,84.61,410
+India,Odisha,Nabarangpur,2017,Nabarangpur2017,360.35,410
+India,Odisha,Nabarangpur,2018,Nabarangpur2018,96.798,410
+India,West Bengal,Nadia,2011,Nadia2011,25.17,411
+India,West Bengal,Nadia,2012,Nadia2012,174.725,411
+India,West Bengal,Nadia,2014,Nadia2014,218.097,411
+India,West Bengal,Nadia,2015,Nadia2015,.,411
+India,West Bengal,Nadia,2016,Nadia2016,250.521,411
+India,West Bengal,Nadia,2017,Nadia2017,120.799,411
+India,West Bengal,Nadia,2018,Nadia2018,.,411
+India,Assam,Nagaon,2012,Nagaon2012,62.559,412
+India,Assam,Nagaon,2013,Nagaon2013,54.53,412
+India,Assam,Nagaon,2016,Nagaon2016,56.08,412
+India,Assam,Nagaon,2017,Nagaon2017,158.03,412
+India,Assam,Nagaon,2018,Nagaon2018,111.189,412
+India,Tamil Nadu,Nagapattinam,2012,Nagapattinam2012,76.666,413
+India,Tamil Nadu,Nagapattinam,2014,Nagapattinam2014,38.62,413
+India,Tamil Nadu,Nagapattinam,2016,Nagapattinam2016,90.747,413
+India,Tamil Nadu,Nagapattinam,2018,Nagapattinam2018,80.836,413
+India,Rajasthan,Nagaur,2011,Nagaur2011,266.02,414
+India,Rajasthan,Nagaur,2012,Nagaur2012,36.75,414
+India,Rajasthan,Nagaur,2013,Nagaur2013,338.4,414
+India,Rajasthan,Nagaur,2016,Nagaur2016,338.825,414
+India,Maharashtra,Nagpur,2012,Nagpur2012,8.8,415
+India,Uttarakhand,Nainital,2012,Nainital2012,87.43,416
+India,Uttarakhand,Nainital,2013,Nainital2013,68.314,416
+India,Uttarakhand,Nainital,2016,Nainital2016,51.05,416
+India,Uttarakhand,Nainital,2017,Nainital2017,166.517,416
+India,Uttarakhand,Nainital,2018,Nainital2018,286.932,416
+India,Uttarakhand,Nainital,2021,Nainital2021,46.832,416
+India,Bihar,Nalanda,2012,Nalanda2012,72.483,417
+India,Bihar,Nalanda,2013,Nalanda2013,269.263,417
+India,Bihar,Nalanda,2016,Nalanda2016,55.812,417
+India,Bihar,Nalanda,2017,Nalanda2017,15.058,417
+India,Bihar,Nalanda,2018,Nalanda2018,.,417
+India,Bihar,Nalanda,2020,Nalanda2020,.,417
+India,Assam,Nalbari,2012,Nalbari2012,19.14,418
+India,Assam,Nalbari,2013,Nalbari2013,9.809999,418
+India,Assam,Nalbari,2017,Nalbari2017,62.191,418
+India,Assam,Nalbari,2018,Nalbari2018,27.745,418
+India,Telangana,Nalgonda,2016,Nalgonda2016,.,419
+India,Tamil Nadu,Namakkal,2012,Namakkal2012,31.31,420
+India,Tamil Nadu,Namakkal,2014,Namakkal2014,31.17,420
+India,Tamil Nadu,Namakkal,2016,Namakkal2016,11.685,420
+India,Tamil Nadu,Namakkal,2018,Namakkal2018,23.895,420
+India,Arunachal Pradesh,Namsai,2016,Namsai2016,26.91,421
+India,Arunachal Pradesh,Namsai,2017,Namsai2017,7.11,421
+India,Arunachal Pradesh,Namsai,2018,Namsai2018,3.4,421
+India,Maharashtra,Nanded,2012,Nanded2012,.,422
+India,Maharashtra,Nanded,2013,Nanded2013,48.2,422
+India,Maharashtra,Nandurbar,2012,Nandurbar2012,196.98,423
+India,Maharashtra,Nandurbar,2013,Nandurbar2013,130.89,423
+India,Maharashtra,Nandurbar,2017,Nandurbar2017,74.075,423
+India,Telangana,Narayanpet,2016,Narayanpet2016,.,424
+India,Chhattisgarh,Narayanpur,2012,Narayanpur2012,32.98,425
+India,Chhattisgarh,Narayanpur,2016,Narayanpur2016,71.655,425
+India,Chhattisgarh,Narayanpur,2018,Narayanpur2018,191.55,425
+India,Gujarat,Narmada,2011,Narmada2011,55.4,426
+India,Gujarat,Narmada,2013,Narmada2013,76.5,426
+India,Gujarat,Narmada,2018,Narmada2018,.,426
+India,Madhya Pradesh,Narsinghpur,2012,Narsinghpur2012,259.44,427
+India,Madhya Pradesh,Narsinghpur,2013,Narsinghpur2013,111.26,427
+India,Madhya Pradesh,Narsinghpur,2015,Narsinghpur2015,81.08,427
+India,Madhya Pradesh,Narsinghpur,2016,Narsinghpur2016,45.36,427
+India,Madhya Pradesh,Narsinghpur,2017,Narsinghpur2017,7.85,427
+India,Madhya Pradesh,Narsinghpur,2018,Narsinghpur2018,13.1,427
+India,Maharashtra,Nashik,2012,Nashik2012,44.635,428
+India,Maharashtra,Nashik,2013,Nashik2013,45.272,428
+India,Maharashtra,Nashik,2017,Nashik2017,20.08,428
+India,Gujarat,Navsari,2013,Navsari2013,161.77,429
+India,Bihar,Nawada,2011,Nawada2011,137.218,430
+India,Bihar,Nawada,2013,Nawada2013,454.713,430
+India,Bihar,Nawada,2016,Nawada2016,188.476,430
+India,Bihar,Nawada,2017,Nawada2017,90.778,430
+India,Bihar,Nawada,2018,Nawada2018,11.673,430
+India,Bihar,Nawada,2020,Nawada2020,.,430
+India,Odisha,Nayagarh,2011,Nayagarh2011,56.6,431
+India,Odisha,Nayagarh,2012,Nayagarh2012,378.555,431
+India,Odisha,Nayagarh,2013,Nayagarh2013,.,431
+India,Odisha,Nayagarh,2016,Nayagarh2016,318,431
+India,Odisha,Nayagarh,2017,Nayagarh2017,104.96,431
+India,Odisha,Nayagarh,2018,Nayagarh2018,4,431
+India,Madhya Pradesh,Neemuch,2011,Neemuch2011,49.9,432
+India,Madhya Pradesh,Neemuch,2012,Neemuch2012,213.715,432
+India,Madhya Pradesh,Neemuch,2015,Neemuch2015,4,432
+India,Andaman And Nicobar Islands,Nicobars,2018,Nicobars2018,.,433
+India,Telangana,Nirmal,2012,Nirmal2012,67.275,434
+India,Telangana,Nirmal,2016,Nirmal2016,1.675,434
+India,Telangana,Nirmal,2017,Nirmal2017,17.82,434
+India,Madhya Pradesh,Niwari,2011,Niwari2011,17.25,435
+India,Madhya Pradesh,Niwari,2012,Niwari2012,77.6,435
+India,Madhya Pradesh,Niwari,2015,Niwari2015,37.35,435
+India,Madhya Pradesh,Niwari,2016,Niwari2016,.,435
+India,Madhya Pradesh,Niwari,2017,Niwari2017,18.325,435
+India,Madhya Pradesh,Niwari,2018,Niwari2018,.,435
+India,Telangana,Nizamabad,2016,Nizamabad2016,.,436
+India,Manipur,Noney,2013,Noney2013,.,437
+India,Manipur,Noney,2014,Noney2014,.,437
+India,Manipur,Noney,2017,Noney2017,.,437
+India,Manipur,Noney,2018,Noney2018,.,437
+India,Manipur,Noney,2020,Noney2020,.,437
+India,Andaman And Nicobar Islands,North And Middle Andaman,2017,North And Middle Andaman2017,32.304,438
+India,Andaman And Nicobar Islands,North And Middle Andaman,2018,North And Middle Andaman2018,15.996,438
+India,Sikkim,North District,2011,North District2011,9.155,439
+India,Sikkim,North District,2013,North District2013,7.8,439
+India,Sikkim,North District,2014,North District2014,25.73,439
+India,Sikkim,North District,2016,North District2016,119.059,439
+India,Sikkim,North District,2017,North District2017,99.35,439
+India,Sikkim,North District,2020,North District2020,.,439
+India,Sikkim,North District,2021,North District2021,.,439
+India,Meghalaya,North Garo Hills,2011,North Garo Hills2011,.,440
+India,Meghalaya,North Garo Hills,2013,North Garo Hills2013,48.963,440
+India,Meghalaya,North Garo Hills,2017,North Garo Hills2017,.,440
+India,Meghalaya,North Garo Hills,2018,North Garo Hills2018,21.162,440
+India,Tripura,North Tripura,2011,North Tripura2011,52.656,441
+India,Tripura,North Tripura,2013,North Tripura2013,100.629,441
+India,Tripura,North Tripura,2016,North Tripura2016,27.931,441
+India,Tripura,North Tripura,2017,North Tripura2017,10.096,441
+India,Tripura,North Tripura,2018,North Tripura2018,6.192,441
+India,Odisha,Nuapada,2011,Nuapada2011,309.65,442
+India,Odisha,Nuapada,2012,Nuapada2012,136.34,442
+India,Odisha,Nuapada,2013,Nuapada2013,143.3,442
+India,Odisha,Nuapada,2016,Nuapada2016,162.72,442
+India,Odisha,Nuapada,2017,Nuapada2017,69.14,442
+India,Odisha,Nuapada,2018,Nuapada2018,3.4,442
+India,Maharashtra,Osmanabad,2012,Osmanabad2012,.,443
+India,Arunachal Pradesh,Pakke Kessang,2012,Pakke Kessang2012,3.8,444
+India,Arunachal Pradesh,Pakke Kessang,2016,Pakke Kessang2016,67.97,444
+India,Arunachal Pradesh,Pakke Kessang,2017,Pakke Kessang2017,3.9,444
+India,Arunachal Pradesh,Pakke Kessang,2018,Pakke Kessang2018,67.97,444
+India,Jharkhand,Pakur,2012,Pakur2012,170.35,445
+India,Jharkhand,Pakur,2013,Pakur2013,45.78,445
+India,Jharkhand,Pakur,2016,Pakur2016,93.91,445
+India,Kerala,Palakkad,2013,Palakkad2013,133.995,446
+India,Kerala,Palakkad,2018,Palakkad2018,13.009,446
+India,Jharkhand,Palamu,2012,Palamu2012,7.9,447
+India,Jharkhand,Palamu,2013,Palamu2013,358.25,447
+India,Jharkhand,Palamu,2016,Palamu2016,140.42,447
+India,Jharkhand,Palamu,2017,Palamu2017,164.147,447
+India,Jharkhand,Palamu,2018,Palamu2018,84.435,447
+India,Maharashtra,Palghar,2012,Palghar2012,30.24,448
+India,Maharashtra,Palghar,2013,Palghar2013,14.63,448
+India,Rajasthan,Pali,2011,Pali2011,79.05,449
+India,Rajasthan,Pali,2012,Pali2012,29.625,449
+India,Rajasthan,Pali,2013,Pali2013,74.83,449
+India,Rajasthan,Pali,2016,Pali2016,87.545,449
+India,Gujarat,Panch Mahals,2011,Panch Mahals2011,7.71,450
+India,Gujarat,Panch Mahals,2012,Panch Mahals2012,131.5,450
+India,Gujarat,Panch Mahals,2013,Panch Mahals2013,75.595,450
+India,Madhya Pradesh,Panna,2012,Panna2012,109.44,451
+India,Madhya Pradesh,Panna,2013,Panna2013,29.86,451
+India,Madhya Pradesh,Panna,2015,Panna2015,156.45,451
+India,Madhya Pradesh,Panna,2016,Panna2016,117.1,451
+India,Madhya Pradesh,Panna,2017,Panna2017,16.85,451
+India,Madhya Pradesh,Panna,2018,Panna2018,.,451
+India,Arunachal Pradesh,Papum Pare,2012,Papum Pare2012,19.64,452
+India,Arunachal Pradesh,Papum Pare,2013,Papum Pare2013,80.42,452
+India,Arunachal Pradesh,Papum Pare,2016,Papum Pare2016,52,452
+India,Arunachal Pradesh,Papum Pare,2017,Papum Pare2017,56.71,452
+India,Arunachal Pradesh,Papum Pare,2018,Papum Pare2018,285.25,452
+India,Maharashtra,Parbhani,2012,Parbhani2012,4.12,453
+India,Maharashtra,Parbhani,2017,Parbhani2017,0.85,453
+India,West Bengal,Paschim Bardhaman,2011,Paschim Bardhaman2011,24.85,454
+India,West Bengal,Paschim Bardhaman,2012,Paschim Bardhaman2012,7.12,454
+India,West Bengal,Paschim Bardhaman,2014,Paschim Bardhaman2014,31.995,454
+India,West Bengal,Paschim Bardhaman,2016,Paschim Bardhaman2016,31.2,454
+India,West Bengal,Paschim Bardhaman,2017,Paschim Bardhaman2017,41.992,454
+India,West Bengal,Paschim Bardhaman,2018,Paschim Bardhaman2018,.,454
+India,Bihar,Pashchim Champaran,2012,Pashchim Champaran2012,218.983,455
+India,Bihar,Pashchim Champaran,2013,Pashchim Champaran2013,420.91,455
+India,Bihar,Pashchim Champaran,2016,Pashchim Champaran2016,100.632,455
+India,Bihar,Pashchim Champaran,2017,Pashchim Champaran2017,74.763,455
+India,Bihar,Pashchim Champaran,2018,Pashchim Champaran2018,15.284,455
+India,Gujarat,Patan,2013,Patan2013,61.62,456
+India,Kerala,Pathanamthitta,2013,Pathanamthitta2013,62.146,457
+India,Punjab,Pathankot,2011,Pathankot2011,63.93,458
+India,Punjab,Pathankot,2012,Pathankot2012,1.9,458
+India,Punjab,Pathankot,2013,Pathankot2013,20.5,458
+India,Punjab,Pathankot,2014,Pathankot2014,6.185,458
+India,Punjab,Patiala,2012,Patiala2012,89.77,459
+India,Punjab,Patiala,2013,Patiala2013,5.5,459
+India,Punjab,Patiala,2014,Patiala2014,38.32,459
+India,Bihar,Patna,2011,Patna2011,.,460
+India,Bihar,Patna,2012,Patna2012,95.72701,460
+India,Bihar,Patna,2013,Patna2013,162.825,460
+India,Bihar,Patna,2016,Patna2016,21.078,460
+India,Bihar,Patna,2017,Patna2017,3.875,460
+India,Bihar,Patna,2018,Patna2018,.,460
+India,Uttarakhand,Pauri Garhwal,2011,Pauri Garhwal2011,5.25,461
+India,Uttarakhand,Pauri Garhwal,2012,Pauri Garhwal2012,126.71,461
+India,Uttarakhand,Pauri Garhwal,2013,Pauri Garhwal2013,381.441,461
+India,Uttarakhand,Pauri Garhwal,2016,Pauri Garhwal2016,95.15,461
+India,Uttarakhand,Pauri Garhwal,2017,Pauri Garhwal2017,278.375,461
+India,Uttarakhand,Pauri Garhwal,2018,Pauri Garhwal2018,526.603,461
+India,Uttarakhand,Pauri Garhwal,2021,Pauri Garhwal2021,19,461
+India,Telangana,Peddapalli,2017,Peddapalli2017,6.098,462
+India,Tamil Nadu,Perambalur,2012,Perambalur2012,67.915,463
+India,Tamil Nadu,Perambalur,2014,Perambalur2014,46.72,463
+India,Tamil Nadu,Perambalur,2016,Perambalur2016,42.97,463
+India,Tamil Nadu,Perambalur,2018,Perambalur2018,10.36,463
+India,Nagaland,Peren,2011,Peren2011,57,464
+India,Nagaland,Peren,2017,Peren2017,21,464
+India,Nagaland,Peren,2018,Peren2018,7.5,464
+India,Nagaland,Phek,2011,Phek2011,.,465
+India,Nagaland,Phek,2017,Phek2017,.,465
+India,Nagaland,Phek,2018,Phek2018,.,465
+India,Uttar Pradesh,Pilibhit,2011,Pilibhit2011,1.8,466
+India,Uttar Pradesh,Pilibhit,2012,Pilibhit2012,62.15,466
+India,Uttar Pradesh,Pilibhit,2018,Pilibhit2018,5.4,466
+India,Uttarakhand,Pithoragarh,2012,Pithoragarh2012,139.47,467
+India,Uttarakhand,Pithoragarh,2013,Pithoragarh2013,149.652,467
+India,Uttarakhand,Pithoragarh,2016,Pithoragarh2016,339.339,467
+India,Uttarakhand,Pithoragarh,2017,Pithoragarh2017,108.725,467
+India,Uttarakhand,Pithoragarh,2018,Pithoragarh2018,798.118,467
+India,Uttarakhand,Pithoragarh,2021,Pithoragarh2021,86.159,467
+India,Jammu And Kashmir,Poonch,2011,Poonch2011,105,468
+India,Jammu And Kashmir,Poonch,2012,Poonch2012,26.5,468
+India,Jammu And Kashmir,Poonch,2016,Poonch2016,125,468
+India,Jammu And Kashmir,Poonch,2017,Poonch2017,47.5,468
+India,Jammu And Kashmir,Poonch,2018,Poonch2018,57.9,468
+India,Gujarat,Porbandar,2013,Porbandar2013,4,469
+India,Andhra Pradesh,Prakasam,2017,Prakasam2017,.,470
+India,Uttar Pradesh,Pratapgarh,2011,Pratapgarh2011,110.63,471
+India,Uttar Pradesh,Pratapgarh,2012,Pratapgarh2012,106.855,471
+India,Rajasthan,Pratapgarh,2013,Pratapgarh2013,55.51,471
+India,Rajasthan,Pratapgarh,2016,Pratapgarh2016,97.575,471
+India,Uttar Pradesh,Pratapgarh,2018,Pratapgarh2018,8,471
+India,Uttar Pradesh,Prayagraj,2011,Prayagraj2011,2.075,472
+India,Uttar Pradesh,Prayagraj,2012,Prayagraj2012,76.05,472
+India,Tamil Nadu,Pudukkottai,2012,Pudukkottai2012,174.54,473
+India,Tamil Nadu,Pudukkottai,2016,Pudukkottai2016,102.636,473
+India,Tamil Nadu,Pudukkottai,2018,Pudukkottai2018,74.308,473
+India,Jammu And Kashmir,Pulwama,2011,Pulwama2011,22.2,474
+India,Jammu And Kashmir,Pulwama,2012,Pulwama2012,7.5,474
+India,Jammu And Kashmir,Pulwama,2016,Pulwama2016,43.1,474
+India,Jammu And Kashmir,Pulwama,2018,Pulwama2018,94.25,474
+India,Maharashtra,Pune,2011,Pune2011,6.3,475
+India,Maharashtra,Pune,2012,Pune2012,.,475
+India,Maharashtra,Pune,2013,Pune2013,88.93,475
+India,Maharashtra,Pune,2017,Pune2017,3,475
+India,West Bengal,Purba Bardhaman,2011,Purba Bardhaman2011,67.775,476
+India,West Bengal,Purba Bardhaman,2012,Purba Bardhaman2012,33.605,476
+India,West Bengal,Purba Bardhaman,2013,Purba Bardhaman2013,11.05,476
+India,West Bengal,Purba Bardhaman,2014,Purba Bardhaman2014,54.425,476
+India,West Bengal,Purba Bardhaman,2016,Purba Bardhaman2016,196.475,476
+India,West Bengal,Purba Bardhaman,2017,Purba Bardhaman2017,156.554,476
+India,West Bengal,Purba Bardhaman,2018,Purba Bardhaman2018,.,476
+India,Bihar,Purbi Champaran,2011,Purbi Champaran2011,.,477
+India,Bihar,Purbi Champaran,2012,Purbi Champaran2012,274.513,477
+India,Bihar,Purbi Champaran,2013,Purbi Champaran2013,227.094,477
+India,Bihar,Purbi Champaran,2016,Purbi Champaran2016,207.611,477
+India,Bihar,Purbi Champaran,2017,Purbi Champaran2017,14.518,477
+India,Bihar,Purbi Champaran,2018,Purbi Champaran2018,.,477
+India,Odisha,Puri,2011,Puri2011,96.47,478
+India,Odisha,Puri,2012,Puri2012,164.81,478
+India,Odisha,Puri,2013,Puri2013,320.755,478
+India,Odisha,Puri,2016,Puri2016,100.97,478
+India,Odisha,Puri,2017,Puri2017,46.23,478
+India,Bihar,Purnia,2011,Purnia2011,.,479
+India,Bihar,Purnia,2012,Purnia2012,173.033,479
+India,Bihar,Purnia,2013,Purnia2013,273.741,479
+India,Bihar,Purnia,2016,Purnia2016,260.918,479
+India,Bihar,Purnia,2017,Purnia2017,30.52,479
+India,Bihar,Purnia,2018,Purnia2018,.,479
+India,Bihar,Purnia,2020,Purnia2020,.,479
+India,West Bengal,Purulia,2012,Purulia2012,515.962,480
+India,West Bengal,Purulia,2013,Purulia2013,85.433,480
+India,West Bengal,Purulia,2016,Purulia2016,354.776,480
+India,West Bengal,Purulia,2017,Purulia2017,340.264,480
+India,Uttar Pradesh,Rae Bareli,2011,Rae Bareli2011,29.185,481
+India,Uttar Pradesh,Rae Bareli,2012,Rae Bareli2012,205.085,481
+India,Karnataka,Raichur,2013,Raichur2013,8.75,482
+India,Maharashtra,Raigad,2012,Raigad2012,3.6,483
+India,Maharashtra,Raigad,2017,Raigad2017,4.65,483
+India,Chhattisgarh,Raigarh,2011,Raigarh2011,163.25,484
+India,Chhattisgarh,Raigarh,2012,Raigarh2012,168.89,484
+India,Chhattisgarh,Raigarh,2013,Raigarh2013,253.145,484
+India,Chhattisgarh,Raigarh,2016,Raigarh2016,53.1,484
+India,Chhattisgarh,Raipur,2011,Raipur2011,19.17,485
+India,Chhattisgarh,Raipur,2012,Raipur2012,2.85,485
+India,Chhattisgarh,Raipur,2013,Raipur2013,15.445,485
+India,Chhattisgarh,Raipur,2018,Raipur2018,.,485
+India,Madhya Pradesh,Raisen,2012,Raisen2012,375.35,486
+India,Madhya Pradesh,Raisen,2013,Raisen2013,32.195,486
+India,Madhya Pradesh,Raisen,2015,Raisen2015,153.59,486
+India,Madhya Pradesh,Raisen,2016,Raisen2016,72.01,486
+India,Madhya Pradesh,Raisen,2017,Raisen2017,1.3,486
+India,Madhya Pradesh,Raisen,2018,Raisen2018,.,486
+India,Telangana,Rajanna Sircilla,2016,Rajanna Sircilla2016,.,487
+India,Madhya Pradesh,Rajgarh,2012,Rajgarh2012,106.55,488
+India,Madhya Pradesh,Rajgarh,2013,Rajgarh2013,83.275,488
+India,Madhya Pradesh,Rajgarh,2015,Rajgarh2015,224.805,488
+India,Madhya Pradesh,Rajgarh,2016,Rajgarh2016,14.3,488
+India,Madhya Pradesh,Rajgarh,2017,Rajgarh2017,17.97,488
+India,Madhya Pradesh,Rajgarh,2018,Rajgarh2018,.,488
+India,Gujarat,Rajkot,2013,Rajkot2013,37.31,489
+India,Chhattisgarh,Rajnandgaon,2012,Rajnandgaon2012,273.587,490
+India,Chhattisgarh,Rajnandgaon,2013,Rajnandgaon2013,.,490
+India,Chhattisgarh,Rajnandgaon,2016,Rajnandgaon2016,16.96,490
+India,Chhattisgarh,Rajnandgaon,2018,Rajnandgaon2018,434.842,490
+India,Jammu And Kashmir,Rajouri,2011,Rajouri2011,315.12,491
+India,Jammu And Kashmir,Rajouri,2012,Rajouri2012,38.5,491
+India,Jammu And Kashmir,Rajouri,2016,Rajouri2016,438.655,491
+India,Jammu And Kashmir,Rajouri,2017,Rajouri2017,108.3,491
+India,Jammu And Kashmir,Rajouri,2018,Rajouri2018,330.38,491
+India,Rajasthan,Rajsamand,2011,Rajsamand2011,7.225,492
+India,Rajasthan,Rajsamand,2012,Rajsamand2012,193.76,492
+India,Rajasthan,Rajsamand,2013,Rajsamand2013,23.75,492
+India,Rajasthan,Rajsamand,2016,Rajsamand2016,15.535,492
+India,Tamil Nadu,Ramanathapuram,2012,Ramanathapuram2012,264.705,493
+India,Tamil Nadu,Ramanathapuram,2014,Ramanathapuram2014,29.35,493
+India,Tamil Nadu,Ramanathapuram,2016,Ramanathapuram2016,92.995,493
+India,Tamil Nadu,Ramanathapuram,2018,Ramanathapuram2018,23.078,493
+India,Jammu And Kashmir,Ramban,2011,Ramban2011,97.911,494
+India,Jammu And Kashmir,Ramban,2012,Ramban2012,50,494
+India,Jammu And Kashmir,Ramban,2016,Ramban2016,93.05,494
+India,Jammu And Kashmir,Ramban,2017,Ramban2017,178.865,494
+India,Jammu And Kashmir,Ramban,2018,Ramban2018,34.65,494
+India,Jharkhand,Ramgarh,2011,Ramgarh2011,68.62,495
+India,Jharkhand,Ramgarh,2012,Ramgarh2012,.,495
+India,Jharkhand,Ramgarh,2016,Ramgarh2016,56.684,495
+India,Jharkhand,Ramgarh,2017,Ramgarh2017,9.273001,495
+India,Uttar Pradesh,Rampur,2012,Rampur2012,60.965,496
+India,Uttar Pradesh,Rampur,2018,Rampur2018,10,496
+India,Jharkhand,Ranchi,2011,Ranchi2011,.,497
+India,Jharkhand,Ranchi,2012,Ranchi2012,282.911,497
+India,Jharkhand,Ranchi,2013,Ranchi2013,58.579,497
+India,Jharkhand,Ranchi,2016,Ranchi2016,286.185,497
+India,Jharkhand,Ranchi,2017,Ranchi2017,83.155,497
+India,Jharkhand,Ranchi,2018,Ranchi2018,31.17,497
+India,Telangana,Ranga Reddy,2016,Ranga Reddy2016,.,498
+India,Tamil Nadu,Ranipet,2012,Ranipet2012,37.53862,499
+India,Tamil Nadu,Ranipet,2014,Ranipet2014,5.08,499
+India,Tamil Nadu,Ranipet,2016,Ranipet2016,18.332,499
+India,Tamil Nadu,Ranipet,2018,Ranipet2018,3.1,499
+India,Madhya Pradesh,Ratlam,2011,Ratlam2011,59.68,500
+India,Madhya Pradesh,Ratlam,2012,Ratlam2012,279.975,500
+India,Madhya Pradesh,Ratlam,2013,Ratlam2013,54.51,500
+India,Madhya Pradesh,Ratlam,2015,Ratlam2015,11.95,500
+India,Madhya Pradesh,Ratlam,2016,Ratlam2016,3.675,500
+India,Madhya Pradesh,Ratlam,2017,Ratlam2017,3.73,500
+India,Madhya Pradesh,Ratlam,2018,Ratlam2018,.,500
+India,Odisha,Rayagada,2011,Rayagada2011,830.04,501
+India,Odisha,Rayagada,2012,Rayagada2012,33.74,501
+India,Odisha,Rayagada,2013,Rayagada2013,.,501
+India,Odisha,Rayagada,2016,Rayagada2016,680.17,501
+India,Odisha,Rayagada,2017,Rayagada2017,182.6,501
+India,Odisha,Rayagada,2018,Rayagada2018,47.06,501
+India,Jammu And Kashmir,Reasi,2011,Reasi2011,155.165,502
+India,Jammu And Kashmir,Reasi,2012,Reasi2012,74,502
+India,Jammu And Kashmir,Reasi,2016,Reasi2016,211.74,502
+India,Jammu And Kashmir,Reasi,2017,Reasi2017,222.85,502
+India,Jammu And Kashmir,Reasi,2018,Reasi2018,506.66,502
+India,Madhya Pradesh,Rewa,2012,Rewa2012,286.72,503
+India,Madhya Pradesh,Rewa,2013,Rewa2013,50.25,503
+India,Madhya Pradesh,Rewa,2015,Rewa2015,33.4,503
+India,Madhya Pradesh,Rewa,2016,Rewa2016,92.07,503
+India,Madhya Pradesh,Rewa,2017,Rewa2017,41.38,503
+India,Madhya Pradesh,Rewa,2018,Rewa2018,.,503
+India,Meghalaya,Ri Bhoi,2011,Ri Bhoi2011,14.62,504
+India,Meghalaya,Ri Bhoi,2013,Ri Bhoi2013,44.959,504
+India,Meghalaya,Ri Bhoi,2017,Ri Bhoi2017,5,504
+India,Meghalaya,Ri Bhoi,2018,Ri Bhoi2018,97.48399,504
+India,Bihar,Rohtas,2011,Rohtas2011,321.987,505
+India,Bihar,Rohtas,2013,Rohtas2013,498.802,505
+India,Bihar,Rohtas,2016,Rohtas2016,34.53,505
+India,Bihar,Rohtas,2017,Rohtas2017,6.315,505
+India,Bihar,Rohtas,2018,Rohtas2018,.,505
+India,Bihar,Rohtas,2020,Rohtas2020,.,505
+India,Uttarakhand,Rudra Prayag,2011,Rudra Prayag2011,3.972,506
+India,Uttarakhand,Rudra Prayag,2012,Rudra Prayag2012,63.1,506
+India,Uttarakhand,Rudra Prayag,2013,Rudra Prayag2013,217.092,506
+India,Uttarakhand,Rudra Prayag,2016,Rudra Prayag2016,118.195,506
+India,Uttarakhand,Rudra Prayag,2017,Rudra Prayag2017,29.5,506
+India,Uttarakhand,Rudra Prayag,2018,Rudra Prayag2018,393.07,506
+India,Uttarakhand,Rudra Prayag,2021,Rudra Prayag2021,110.8,506
+India,Punjab,Rupnagar,2012,Rupnagar2012,17.87,507
+India,Punjab,Rupnagar,2013,Rupnagar2013,19.85,507
+India,Punjab,Rupnagar,2014,Rupnagar2014,2.9,507
+India,Punjab,S.A.S Nagar,2012,S.A.S Nagar2012,3.3,508
+India,Punjab,S.A.S Nagar,2014,S.A.S Nagar2014,1.3,508
+India,Gujarat,Sabar Kantha,2011,Sabar Kantha2011,9.08,509
+India,Gujarat,Sabar Kantha,2012,Sabar Kantha2012,28.18,509
+India,Gujarat,Sabar Kantha,2013,Sabar Kantha2013,91.43,509
+India,Gujarat,Sabar Kantha,2018,Sabar Kantha2018,.,509
+India,Madhya Pradesh,Sagar,2011,Sagar2011,14.5,510
+India,Madhya Pradesh,Sagar,2012,Sagar2012,191.58,510
+India,Madhya Pradesh,Sagar,2013,Sagar2013,78.52299,510
+India,Madhya Pradesh,Sagar,2015,Sagar2015,10.83,510
+India,Madhya Pradesh,Sagar,2016,Sagar2016,284.635,510
+India,Madhya Pradesh,Sagar,2017,Sagar2017,8.8,510
+India,Madhya Pradesh,Sagar,2018,Sagar2018,.,510
+India,Uttar Pradesh,Saharanpur,2012,Saharanpur2012,98.05,511
+India,Bihar,Saharsa,2012,Saharsa2012,13.16,512
+India,Bihar,Saharsa,2013,Saharsa2013,148.957,512
+India,Bihar,Saharsa,2016,Saharsa2016,111.999,512
+India,Bihar,Saharsa,2017,Saharsa2017,.,512
+India,Bihar,Saharsa,2018,Saharsa2018,.,512
+India,Bihar,Saharsa,2020,Saharsa2020,.,512
+India,Jharkhand,Sahebganj,2012,Sahebganj2012,46.05,513
+India,Jharkhand,Sahebganj,2016,Sahebganj2016,170.59,513
+India,Mizoram,Saiha,2013,Saiha2013,.,514
+India,Mizoram,Saiha,2016,Saiha2016,.,514
+India,Mizoram,Saiha,2017,Saiha2017,.,514
+India,Mizoram,Saiha,2018,Saiha2018,.,514
+India,Mizoram,Saitual,2013,Saitual2013,65.22,515
+India,Mizoram,Saitual,2016,Saitual2016,21.75,515
+India,Mizoram,Saitual,2017,Saitual2017,7.18,515
+India,Tamil Nadu,Salem,2012,Salem2012,69.455,516
+India,Tamil Nadu,Salem,2014,Salem2014,34.445,516
+India,Tamil Nadu,Salem,2016,Salem2016,59.963,516
+India,Tamil Nadu,Salem,2018,Salem2018,9.2,516
+India,Bihar,Samastipur,2012,Samastipur2012,47.547,517
+India,Bihar,Samastipur,2013,Samastipur2013,435.067,517
+India,Bihar,Samastipur,2016,Samastipur2016,105.968,517
+India,Bihar,Samastipur,2017,Samastipur2017,48.59,517
+India,Jammu And Kashmir,Samba,2011,Samba2011,33.18,518
+India,Jammu And Kashmir,Samba,2012,Samba2012,4.75,518
+India,Jammu And Kashmir,Samba,2016,Samba2016,57.524,518
+India,Jammu And Kashmir,Samba,2017,Samba2017,3.625,518
+India,Jammu And Kashmir,Samba,2018,Samba2018,75.6,518
+India,Odisha,Sambalpur,2011,Sambalpur2011,233.63,519
+India,Odisha,Sambalpur,2012,Sambalpur2012,67.86,519
+India,Odisha,Sambalpur,2013,Sambalpur2013,181.515,519
+India,Odisha,Sambalpur,2016,Sambalpur2016,189.705,519
+India,Odisha,Sambalpur,2017,Sambalpur2017,196.42,519
+India,Odisha,Sambalpur,2018,Sambalpur2018,62.42,519
+India,Uttar Pradesh,Sambhal,2012,Sambhal2012,46.3,520
+India,Uttar Pradesh,Sambhal,2018,Sambhal2018,9.175,520
+India,Telangana,Sangareddy,2016,Sangareddy2016,.,521
+India,Maharashtra,Sangli,2012,Sangli2012,.,522
+India,Punjab,Sangrur,2012,Sangrur2012,34.96943,523
+India,Punjab,Sangrur,2013,Sangrur2013,73.86,523
+India,Punjab,Sangrur,2014,Sangrur2014,4,523
+India,Uttar Pradesh,Sant Kabeer Nagar,2012,Sant Kabeer Nagar2012,76.2,524
+India,Uttar Pradesh,Sant Kabeer Nagar,2018,Sant Kabeer Nagar2018,12,524
+India,Jharkhand,Saraikela Kharsawan,2012,Saraikela Kharsawan2012,214.073,525
+India,Jharkhand,Saraikela Kharsawan,2013,Saraikela Kharsawan2013,71.245,525
+India,Jharkhand,Saraikela Kharsawan,2016,Saraikela Kharsawan2016,113.25,525
+India,Jharkhand,Saraikela Kharsawan,2017,Saraikela Kharsawan2017,25.651,525
+India,Jharkhand,Saraikela Kharsawan,2018,Saraikela Kharsawan2018,20.908,525
+India,Bihar,Saran,2012,Saran2012,68.958,526
+India,Bihar,Saran,2013,Saran2013,172.201,526
+India,Bihar,Saran,2016,Saran2016,34.274,526
+India,Bihar,Saran,2017,Saran2017,5.72,526
+India,Bihar,Saran,2018,Saran2018,.,526
+India,Maharashtra,Satara,2012,Satara2012,.,527
+India,Madhya Pradesh,Satna,2011,Satna2011,51.48,528
+India,Madhya Pradesh,Satna,2012,Satna2012,187.29,528
+India,Madhya Pradesh,Satna,2013,Satna2013,15.4,528
+India,Madhya Pradesh,Satna,2015,Satna2015,121.495,528
+India,Madhya Pradesh,Satna,2016,Satna2016,35.225,528
+India,Madhya Pradesh,Satna,2017,Satna2017,5.33,528
+India,Madhya Pradesh,Satna,2018,Satna2018,.,528
+India,Rajasthan,Sawai Madhopur,2011,Sawai Madhopur2011,1.8,529
+India,Rajasthan,Sawai Madhopur,2012,Sawai Madhopur2012,83.65,529
+India,Madhya Pradesh,Sehore,2011,Sehore2011,94.45,530
+India,Madhya Pradesh,Sehore,2012,Sehore2012,51.85,530
+India,Madhya Pradesh,Sehore,2015,Sehore2015,142.92,530
+India,Madhya Pradesh,Sehore,2016,Sehore2016,.,530
+India,Madhya Pradesh,Sehore,2018,Sehore2018,.,530
+India,Manipur,Senapati,2012,Senapati2012,.,531
+India,Manipur,Senapati,2013,Senapati2013,24.02,531
+India,Manipur,Senapati,2014,Senapati2014,26.3,531
+India,Manipur,Senapati,2017,Senapati2017,14.5,531
+India,Manipur,Senapati,2018,Senapati2018,10.5,531
+India,Manipur,Senapati,2020,Senapati2020,.,531
+India,Madhya Pradesh,Seoni,2011,Seoni2011,297.8,532
+India,Madhya Pradesh,Seoni,2012,Seoni2012,384.56,532
+India,Madhya Pradesh,Seoni,2013,Seoni2013,74.88,532
+India,Madhya Pradesh,Seoni,2015,Seoni2015,141.32,532
+India,Madhya Pradesh,Seoni,2016,Seoni2016,118.44,532
+India,Madhya Pradesh,Seoni,2017,Seoni2017,28.325,532
+India,Madhya Pradesh,Seoni,2018,Seoni2018,.,532
+India,Tripura,Sepahijala,2011,Sepahijala2011,59.917,533
+India,Tripura,Sepahijala,2013,Sepahijala2013,172.29,533
+India,Tripura,Sepahijala,2017,Sepahijala2017,3.942,533
+India,Mizoram,Serchhip,2013,Serchhip2013,128.23,534
+India,Mizoram,Serchhip,2016,Serchhip2016,24.26,534
+India,Mizoram,Serchhip,2017,Serchhip2017,29.94,534
+India,Mizoram,Serchhip,2018,Serchhip2018,9.85,534
+India,Madhya Pradesh,Shahdol,2011,Shahdol2011,181.17,535
+India,Madhya Pradesh,Shahdol,2013,Shahdol2013,12.3,535
+India,Madhya Pradesh,Shahdol,2015,Shahdol2015,34.9,535
+India,Madhya Pradesh,Shahdol,2016,Shahdol2016,54.38,535
+India,Madhya Pradesh,Shahdol,2017,Shahdol2017,99.64,535
+India,Madhya Pradesh,Shahdol,2018,Shahdol2018,.,535
+India,Punjab,Shahid Bhagat Singh Nagar,2012,Shahid Bhagat Singh Nagar2012,12.16,536
+India,Punjab,Shahid Bhagat Singh Nagar,2013,Shahid Bhagat Singh Nagar2013,2.1,536
+India,Punjab,Shahid Bhagat Singh Nagar,2014,Shahid Bhagat Singh Nagar2014,4.55,536
+India,Uttar Pradesh,Shahjahanpur,2011,Shahjahanpur2011,29.45,537
+India,Uttar Pradesh,Shahjahanpur,2012,Shahjahanpur2012,231.945,537
+India,Uttar Pradesh,Shahjahanpur,2018,Shahjahanpur2018,11.2,537
+India,Madhya Pradesh,Shajapur,2011,Shajapur2011,23.226,538
+India,Madhya Pradesh,Shajapur,2012,Shajapur2012,132.13,538
+India,Madhya Pradesh,Shajapur,2013,Shajapur2013,36.43,538
+India,Madhya Pradesh,Shajapur,2015,Shajapur2015,132.28,538
+India,Madhya Pradesh,Shajapur,2016,Shajapur2016,59.405,538
+India,Madhya Pradesh,Shajapur,2017,Shajapur2017,1.05,538
+India,Madhya Pradesh,Shajapur,2018,Shajapur2018,.,538
+India,Uttar Pradesh,Shamli,2012,Shamli2012,31.12,539
+India,Bihar,Sheikhpura,2012,Sheikhpura2012,83.895,540
+India,Bihar,Sheikhpura,2013,Sheikhpura2013,57.049,540
+India,Bihar,Sheikhpura,2016,Sheikhpura2016,25.653,540
+India,Bihar,Sheikhpura,2017,Sheikhpura2017,0.65,540
+India,Bihar,Sheohar,2012,Sheohar2012,13.33,541
+India,Bihar,Sheohar,2013,Sheohar2013,13.873,541
+India,Bihar,Sheohar,2016,Sheohar2016,29.19,541
+India,Bihar,Sheohar,2020,Sheohar2020,.,541
+India,Madhya Pradesh,Sheopur,2012,Sheopur2012,66.7,542
+India,Madhya Pradesh,Sheopur,2013,Sheopur2013,10.95,542
+India,Madhya Pradesh,Sheopur,2015,Sheopur2015,49.35,542
+India,Madhya Pradesh,Sheopur,2016,Sheopur2016,55.78,542
+India,Madhya Pradesh,Sheopur,2017,Sheopur2017,33.15,542
+India,Madhya Pradesh,Sheopur,2018,Sheopur2018,.,542
+India,Arunachal Pradesh,Shi Yomi,2013,Shi Yomi2013,22.8,543
+India,Arunachal Pradesh,Shi Yomi,2014,Shi Yomi2014,12.8,543
+India,Arunachal Pradesh,Shi Yomi,2018,Shi Yomi2018,135.83,543
+India,Himachal Pradesh,Shimla,2011,Shimla2011,145.74,544
+India,Himachal Pradesh,Shimla,2013,Shimla2013,225.37,544
+India,Himachal Pradesh,Shimla,2014,Shimla2014,136.67,544
+India,Himachal Pradesh,Shimla,2016,Shimla2016,725.771,544
+India,Himachal Pradesh,Shimla,2017,Shimla2017,306.592,544
+India,Himachal Pradesh,Shimla,2018,Shimla2018,156.81,544
+India,Karnataka,Shivamogga,2012,Shivamogga2012,11.48,545
+India,Madhya Pradesh,Shivpuri,2012,Shivpuri2012,106.5,546
+India,Madhya Pradesh,Shivpuri,2013,Shivpuri2013,74.7,546
+India,Madhya Pradesh,Shivpuri,2015,Shivpuri2015,232.618,546
+India,Madhya Pradesh,Shivpuri,2016,Shivpuri2016,3.5,546
+India,Madhya Pradesh,Shivpuri,2017,Shivpuri2017,21.5,546
+India,Madhya Pradesh,Shivpuri,2018,Shivpuri2018,.,546
+India,Jammu And Kashmir,Shopian,2011,Shopian2011,4.3,547
+India,Jammu And Kashmir,Shopian,2016,Shopian2016,36.95,547
+India,Jammu And Kashmir,Shopian,2017,Shopian2017,2.2,547
+India,Jammu And Kashmir,Shopian,2018,Shopian2018,81.96,547
+India,Uttar Pradesh,Shravasti,2012,Shravasti2012,60.8,548
+India,Uttar Pradesh,Shravasti,2018,Shravasti2018,12.1,548
+India,Arunachal Pradesh,Siang,2012,Siang2012,49.85,549
+India,Arunachal Pradesh,Siang,2013,Siang2013,5.94,549
+India,Arunachal Pradesh,Siang,2016,Siang2016,13.2,549
+India,Arunachal Pradesh,Siang,2017,Siang2017,3.92,549
+India,Arunachal Pradesh,Siang,2018,Siang2018,34.58,549
+India,Uttar Pradesh,Siddharth Nagar,2011,Siddharth Nagar2011,40.625,550
+India,Uttar Pradesh,Siddharth Nagar,2012,Siddharth Nagar2012,112.5,550
+India,Uttar Pradesh,Siddharth Nagar,2018,Siddharth Nagar2018,13,550
+India,Telangana,Siddipet,2012,Siddipet2012,15.94,551
+India,Telangana,Siddipet,2016,Siddipet2016,2.35,551
+India,Madhya Pradesh,Sidhi,2011,Sidhi2011,227.17,552
+India,Madhya Pradesh,Sidhi,2012,Sidhi2012,72.475,552
+India,Madhya Pradesh,Sidhi,2015,Sidhi2015,.,552
+India,Madhya Pradesh,Sidhi,2016,Sidhi2016,58.965,552
+India,Madhya Pradesh,Sidhi,2017,Sidhi2017,66.45,552
+India,Madhya Pradesh,Sidhi,2018,Sidhi2018,.,552
+India,Rajasthan,Sikar,2011,Sikar2011,130.47,553
+India,Rajasthan,Sikar,2012,Sikar2012,26.705,553
+India,Rajasthan,Sikar,2013,Sikar2013,63.6,553
+India,Rajasthan,Sikar,2016,Sikar2016,89.605,553
+India,Jharkhand,Simdega,2012,Simdega2012,283.954,554
+India,Jharkhand,Simdega,2013,Simdega2013,.,554
+India,Jharkhand,Simdega,2016,Simdega2016,83.635,554
+India,Jharkhand,Simdega,2017,Simdega2017,118.4,554
+India,Jharkhand,Simdega,2018,Simdega2018,21.98,554
+India,Maharashtra,Sindhudurg,2012,Sindhudurg2012,.,555
+India,Madhya Pradesh,Singrauli,2012,Singrauli2012,174.228,556
+India,Madhya Pradesh,Singrauli,2013,Singrauli2013,123.59,556
+India,Madhya Pradesh,Singrauli,2015,Singrauli2015,110.01,556
+India,Madhya Pradesh,Singrauli,2016,Singrauli2016,91.76,556
+India,Madhya Pradesh,Singrauli,2017,Singrauli2017,168.75,556
+India,Madhya Pradesh,Singrauli,2018,Singrauli2018,.,556
+India,Himachal Pradesh,Sirmaur,2011,Sirmaur2011,31.02,557
+India,Himachal Pradesh,Sirmaur,2013,Sirmaur2013,146.765,557
+India,Himachal Pradesh,Sirmaur,2014,Sirmaur2014,9.75,557
+India,Himachal Pradesh,Sirmaur,2016,Sirmaur2016,193.45,557
+India,Himachal Pradesh,Sirmaur,2017,Sirmaur2017,293.62,557
+India,Himachal Pradesh,Sirmaur,2018,Sirmaur2018,49.62,557
+India,Rajasthan,Sirohi,2011,Sirohi2011,3.4,558
+India,Rajasthan,Sirohi,2012,Sirohi2012,46.8,558
+India,Rajasthan,Sirohi,2013,Sirohi2013,10.5,558
+India,Rajasthan,Sirohi,2016,Sirohi2016,139.8,558
+India,Rajasthan,Sirohi,2017,Sirohi2017,.,558
+India,Bihar,Sitamarhi,2012,Sitamarhi2012,72.75,559
+India,Bihar,Sitamarhi,2013,Sitamarhi2013,336.863,559
+India,Bihar,Sitamarhi,2016,Sitamarhi2016,13.721,559
+India,Bihar,Sitamarhi,2017,Sitamarhi2017,14.445,559
+India,Bihar,Sitamarhi,2018,Sitamarhi2018,2.826,559
+India,Bihar,Sitamarhi,2020,Sitamarhi2020,.,559
+India,Uttar Pradesh,Sitapur,2011,Sitapur2011,47.235,560
+India,Uttar Pradesh,Sitapur,2012,Sitapur2012,304.285,560
+India,Uttar Pradesh,Sitapur,2018,Sitapur2018,13.2,560
+India,Tamil Nadu,Sivaganga,2012,Sivaganga2012,97.444,561
+India,Tamil Nadu,Sivaganga,2016,Sivaganga2016,17.43,561
+India,Tamil Nadu,Sivaganga,2018,Sivaganga2018,30.235,561
+India,Assam,Sivasagar,2012,Sivasagar2012,11.15,562
+India,Assam,Sivasagar,2013,Sivasagar2013,73.59,562
+India,Assam,Sivasagar,2017,Sivasagar2017,192.683,562
+India,Assam,Sivasagar,2018,Sivasagar2018,55.75,562
+India,Bihar,Siwan,2012,Siwan2012,245.96,563
+India,Bihar,Siwan,2013,Siwan2013,304.721,563
+India,Bihar,Siwan,2016,Siwan2016,250.29,563
+India,Bihar,Siwan,2017,Siwan2017,4.2,563
+India,Himachal Pradesh,Solan,2011,Solan2011,53.24,564
+India,Himachal Pradesh,Solan,2013,Solan2013,46.146,564
+India,Himachal Pradesh,Solan,2014,Solan2014,104.883,564
+India,Himachal Pradesh,Solan,2016,Solan2016,275.14,564
+India,Himachal Pradesh,Solan,2017,Solan2017,77.385,564
+India,Himachal Pradesh,Solan,2018,Solan2018,28.46,564
+India,Maharashtra,Solapur,2012,Solapur2012,.,565
+India,Uttar Pradesh,Sonbhadra,2011,Sonbhadra2011,84.94,566
+India,Uttar Pradesh,Sonbhadra,2012,Sonbhadra2012,66.475,566
+India,Uttar Pradesh,Sonbhadra,2018,Sonbhadra2018,5.95,566
+India,Odisha,Sonepur,2011,Sonepur2011,288.98,567
+India,Odisha,Sonepur,2012,Sonepur2012,21.38,567
+India,Odisha,Sonepur,2013,Sonepur2013,245.35,567
+India,Odisha,Sonepur,2016,Sonepur2016,7.55,567
+India,Odisha,Sonepur,2017,Sonepur2017,46.07,567
+India,Odisha,Sonepur,2018,Sonepur2018,4.42,567
+India,Assam,Sonitpur,2012,Sonitpur2012,19.76,568
+India,Assam,Sonitpur,2013,Sonitpur2013,32.332,568
+India,Assam,Sonitpur,2017,Sonitpur2017,162.025,568
+India,Assam,Sonitpur,2018,Sonitpur2018,23.349,568
+India,Andaman And Nicobar Islands,South Andamans,2017,South Andamans2017,7.48,569
+India,Andaman And Nicobar Islands,South Andamans,2018,South Andamans2018,20.149,569
+India,Sikkim,South District,2011,South District2011,116.67,570
+India,Sikkim,South District,2013,South District2013,62.981,570
+India,Sikkim,South District,2014,South District2014,24.37,570
+India,Sikkim,South District,2016,South District2016,146.436,570
+India,Sikkim,South District,2017,South District2017,129.243,570
+India,Sikkim,South District,2020,South District2020,.,570
+India,Sikkim,South District,2021,South District2021,.,570
+India,Meghalaya,South Garo Hills,2013,South Garo Hills2013,2.5,571
+India,Meghalaya,South Garo Hills,2018,South Garo Hills2018,92.838,571
+India,Assam,South Salmara Mancachar,2012,South Salmara Mancachar2012,1.7,572
+India,Assam,South Salmara Mancachar,2017,South Salmara Mancachar2017,19.194,572
+India,Assam,South Salmara Mancachar,2018,South Salmara Mancachar2018,.,572
+India,Tripura,South Tripura,2011,South Tripura2011,52.562,573
+India,Tripura,South Tripura,2013,South Tripura2013,294.913,573
+India,Tripura,South Tripura,2016,South Tripura2016,9.019,573
+India,Meghalaya,South West Garo Hills,2013,South West Garo Hills2013,28.869,574
+India,Meghalaya,South West Garo Hills,2018,South West Garo Hills2018,40.59,574
+India,Meghalaya,South West Khasi Hills,2013,South West Khasi Hills2013,5.55,575
+India,Meghalaya,South West Khasi Hills,2017,South West Khasi Hills2017,31.98,575
+India,Meghalaya,South West Khasi Hills,2018,South West Khasi Hills2018,17.806,575
+India,Andhra Pradesh,Spsr Nellore,2017,Spsr Nellore2017,24.288,576
+India,Punjab,Sri Muktsar Sahib,2012,Sri Muktsar Sahib2012,101.85,577
+India,Punjab,Sri Muktsar Sahib,2013,Sri Muktsar Sahib2013,26.28,577
+India,Punjab,Sri Muktsar Sahib,2014,Sri Muktsar Sahib2014,5.537,577
+India,Andhra Pradesh,Srikakulam,2012,Srikakulam2012,0.8,578
+India,Andhra Pradesh,Srikakulam,2017,Srikakulam2017,.,578
+India,Jammu And Kashmir,Srinagar,2011,Srinagar2011,18.3,579
+India,Jammu And Kashmir,Srinagar,2016,Srinagar2016,3.2,579
+India,Jammu And Kashmir,Srinagar,2018,Srinagar2018,6.64,579
+India,Chhattisgarh,Sukma,2016,Sukma2016,348.45,580
+India,Chhattisgarh,Sukma,2018,Sukma2018,423.585,580
+India,Uttar Pradesh,Sultanpur,2011,Sultanpur2011,18.2,581
+India,Uttar Pradesh,Sultanpur,2012,Sultanpur2012,159.2,581
+India,Uttar Pradesh,Sultanpur,2018,Sultanpur2018,12.85,581
+India,Odisha,Sundargarh,2011,Sundargarh2011,14.37,582
+India,Odisha,Sundargarh,2012,Sundargarh2012,260.23,582
+India,Odisha,Sundargarh,2013,Sundargarh2013,70.93,582
+India,Odisha,Sundargarh,2016,Sundargarh2016,1179.103,582
+India,Odisha,Sundargarh,2017,Sundargarh2017,392.65,582
+India,Odisha,Sundargarh,2018,Sundargarh2018,95.365,582
+India,Bihar,Supaul,2012,Supaul2012,56.404,583
+India,Bihar,Supaul,2013,Supaul2013,168.482,583
+India,Bihar,Supaul,2016,Supaul2016,.,583
+India,Bihar,Supaul,2017,Supaul2017,126.074,583
+India,Bihar,Supaul,2018,Supaul2018,.,583
+India,Bihar,Supaul,2020,Supaul2020,.,583
+India,Chhattisgarh,Surajpur,2013,Surajpur2013,.,584
+India,Chhattisgarh,Surajpur,2016,Surajpur2016,.,584
+India,Gujarat,Surat,2012,Surat2012,2,585
+India,Gujarat,Surat,2013,Surat2013,98.7,585
+India,Gujarat,Surendranagar,2013,Surendranagar2013,55.59,586
+India,Chhattisgarh,Surguja,2013,Surguja2013,8.3,587
+India,Chhattisgarh,Surguja,2016,Surguja2016,6.7,587
+India,Chhattisgarh,Surguja,2018,Surguja2018,.,587
+India,Manipur,Tamenglong,2012,Tamenglong2012,18,588
+India,Manipur,Tamenglong,2013,Tamenglong2013,132.1,588
+India,Manipur,Tamenglong,2014,Tamenglong2014,99.5,588
+India,Manipur,Tamenglong,2017,Tamenglong2017,326.8,588
+India,Manipur,Tamenglong,2018,Tamenglong2018,227.62,588
+India,Manipur,Tamenglong,2020,Tamenglong2020,.,588
+India,Gujarat,Tapi,2013,Tapi2013,280.555,589
+India,Punjab,Tarn Taran,2011,Tarn Taran2011,60.81,590
+India,Punjab,Tarn Taran,2012,Tarn Taran2012,46.33,590
+India,Punjab,Tarn Taran,2013,Tarn Taran2013,34.79,590
+India,Punjab,Tarn Taran,2014,Tarn Taran2014,5.25,590
+India,Arunachal Pradesh,Tawang,2012,Tawang2012,39.2,591
+India,Arunachal Pradesh,Tawang,2016,Tawang2016,5.49,591
+India,Arunachal Pradesh,Tawang,2017,Tawang2017,91.74001,591
+India,Arunachal Pradesh,Tawang,2018,Tawang2018,60.81,591
+India,Uttarakhand,Tehri Garhwal,2012,Tehri Garhwal2012,179.62,592
+India,Uttarakhand,Tehri Garhwal,2013,Tehri Garhwal2013,219.715,592
+India,Uttarakhand,Tehri Garhwal,2016,Tehri Garhwal2016,204.771,592
+India,Uttarakhand,Tehri Garhwal,2017,Tehri Garhwal2017,84.63,592
+India,Uttarakhand,Tehri Garhwal,2018,Tehri Garhwal2018,635.226,592
+India,Uttarakhand,Tehri Garhwal,2021,Tehri Garhwal2021,106.65,592
+India,Manipur,Tengnoupal,2012,Tengnoupal2012,.,593
+India,Manipur,Tengnoupal,2013,Tengnoupal2013,.,593
+India,Manipur,Tengnoupal,2014,Tengnoupal2014,.,593
+India,Manipur,Tengnoupal,2017,Tengnoupal2017,.,593
+India,Manipur,Tengnoupal,2018,Tengnoupal2018,.,593
+India,Tamil Nadu,Tenkasi,2012,Tenkasi2012,63.46363,594
+India,Tamil Nadu,Tenkasi,2016,Tenkasi2016,1.775,594
+India,Tamil Nadu,Tenkasi,2018,Tenkasi2018,4.896,594
+India,Maharashtra,Thane,2012,Thane2012,11.975,595
+India,Tamil Nadu,Thanjavur,2012,Thanjavur2012,61.662,596
+India,Tamil Nadu,Thanjavur,2016,Thanjavur2016,23.601,596
+India,Tamil Nadu,Thanjavur,2018,Thanjavur2018,11.968,596
+India,Tamil Nadu,The Nilgiris,2012,The Nilgiris2012,22.565,597
+India,Tamil Nadu,The Nilgiris,2014,The Nilgiris2014,4.117,597
+India,Tamil Nadu,The Nilgiris,2016,The Nilgiris2016,4.85,597
+India,Tamil Nadu,The Nilgiris,2018,The Nilgiris2018,13.7,597
+India,Tamil Nadu,Theni,2012,Theni2012,10.665,598
+India,Tamil Nadu,Theni,2014,Theni2014,21.345,598
+India,Tamil Nadu,Thiruvallur,2012,Thiruvallur2012,85.523,599
+India,Tamil Nadu,Thiruvallur,2014,Thiruvallur2014,34.438,599
+India,Tamil Nadu,Thiruvallur,2016,Thiruvallur2016,12.3,599
+India,Tamil Nadu,Thiruvallur,2018,Thiruvallur2018,18.065,599
+India,Kerala,Thiruvananthapuram,2013,Thiruvananthapuram2013,59.014,600
+India,Kerala,Thiruvananthapuram,2018,Thiruvananthapuram2018,8.721,600
+India,Tamil Nadu,Thiruvarur,2012,Thiruvarur2012,75.505,601
+India,Tamil Nadu,Thiruvarur,2016,Thiruvarur2016,78.635,601
+India,Tamil Nadu,Thiruvarur,2018,Thiruvarur2018,181.862,601
+India,Manipur,Thoubal,2013,Thoubal2013,43.3,602
+India,Manipur,Thoubal,2014,Thoubal2014,70.7,602
+India,Manipur,Thoubal,2017,Thoubal2017,21.5,602
+India,Manipur,Thoubal,2020,Thoubal2020,.,602
+India,Kerala,Thrissur,2013,Thrissur2013,60.07,603
+India,Madhya Pradesh,Tikamgarh,2011,Tikamgarh2011,33,604
+India,Madhya Pradesh,Tikamgarh,2012,Tikamgarh2012,136.9,604
+India,Madhya Pradesh,Tikamgarh,2015,Tikamgarh2015,80.17,604
+India,Madhya Pradesh,Tikamgarh,2016,Tikamgarh2016,8.2,604
+India,Madhya Pradesh,Tikamgarh,2017,Tikamgarh2017,13.22,604
+India,Madhya Pradesh,Tikamgarh,2018,Tikamgarh2018,.,604
+India,Assam,Tinsukia,2012,Tinsukia2012,36.84,605
+India,Assam,Tinsukia,2013,Tinsukia2013,30.982,605
+India,Assam,Tinsukia,2016,Tinsukia2016,300.87,605
+India,Assam,Tinsukia,2017,Tinsukia2017,475.813,605
+India,Assam,Tinsukia,2018,Tinsukia2018,45.58,605
+India,Arunachal Pradesh,Tirap,2012,Tirap2012,18.85,606
+India,Arunachal Pradesh,Tirap,2013,Tirap2013,.,606
+India,Arunachal Pradesh,Tirap,2016,Tirap2016,19.4,606
+India,Arunachal Pradesh,Tirap,2018,Tirap2018,24.75,606
+India,Tamil Nadu,Tiruchirappalli,2012,Tiruchirappalli2012,84.09,607
+India,Tamil Nadu,Tiruchirappalli,2016,Tiruchirappalli2016,66.185,607
+India,Tamil Nadu,Tiruchirappalli,2018,Tiruchirappalli2018,15.865,607
+India,Tamil Nadu,Tirunelveli,2012,Tirunelveli2012,87.54636,608
+India,Tamil Nadu,Tirunelveli,2016,Tirunelveli2016,8.400001,608
+India,Tamil Nadu,Tirunelveli,2018,Tirunelveli2018,16.568,608
+India,Tamil Nadu,Tirupathur,2012,Tirupathur2012,29.063,609
+India,Tamil Nadu,Tirupathur,2014,Tirupathur2014,7.5,609
+India,Tamil Nadu,Tirupathur,2016,Tirupathur2016,6.678,609
+India,Tamil Nadu,Tiruppur,2012,Tiruppur2012,137.19,610
+India,Tamil Nadu,Tiruppur,2014,Tiruppur2014,15.205,610
+India,Tamil Nadu,Tiruppur,2016,Tiruppur2016,25.16,610
+India,Tamil Nadu,Tiruppur,2018,Tiruppur2018,11.98,610
+India,Tamil Nadu,Tiruvannamalai,2012,Tiruvannamalai2012,59.818,611
+India,Tamil Nadu,Tiruvannamalai,2016,Tiruvannamalai2016,32.729,611
+India,Tamil Nadu,Tiruvannamalai,2018,Tiruvannamalai2018,52.031,611
+India,Rajasthan,Tonk,2012,Tonk2012,26.23,612
+India,Nagaland,Tuensang,2011,Tuensang2011,98.69,613
+India,Nagaland,Tuensang,2018,Tuensang2018,.,613
+India,Karnataka,Tumakuru,2012,Tumakuru2012,14.33,614
+India,Tamil Nadu,Tuticorin,2012,Tuticorin2012,126.135,615
+India,Tamil Nadu,Tuticorin,2014,Tuticorin2014,5.6,615
+India,Tamil Nadu,Tuticorin,2016,Tuticorin2016,25.998,615
+India,Tamil Nadu,Tuticorin,2018,Tuticorin2018,15.555,615
+India,Rajasthan,Udaipur,2011,Udaipur2011,476.295,616
+India,Rajasthan,Udaipur,2012,Udaipur2012,320.195,616
+India,Rajasthan,Udaipur,2013,Udaipur2013,462.595,616
+India,Rajasthan,Udaipur,2016,Udaipur2016,670.32,616
+India,Rajasthan,Udaipur,2017,Udaipur2017,.,616
+India,Assam,Udalguri,2012,Udalguri2012,28.98,617
+India,Assam,Udalguri,2013,Udalguri2013,30.27,617
+India,Assam,Udalguri,2017,Udalguri2017,412.578,617
+India,Assam,Udalguri,2018,Udalguri2018,15.869,617
+India,Jammu And Kashmir,Udhampur,2011,Udhampur2011,924.229,618
+India,Jammu And Kashmir,Udhampur,2012,Udhampur2012,59.575,618
+India,Jammu And Kashmir,Udhampur,2016,Udhampur2016,383.475,618
+India,Jammu And Kashmir,Udhampur,2017,Udhampur2017,161.411,618
+India,Jammu And Kashmir,Udhampur,2018,Udhampur2018,707.424,618
+India,Karnataka,Udupi,2013,Udupi2013,.,619
+India,Madhya Pradesh,Ujjain,2011,Ujjain2011,51.9,620
+India,Madhya Pradesh,Ujjain,2012,Ujjain2012,308.98,620
+India,Madhya Pradesh,Ujjain,2013,Ujjain2013,106.18,620
+India,Madhya Pradesh,Ujjain,2015,Ujjain2015,134.27,620
+India,Madhya Pradesh,Ujjain,2016,Ujjain2016,135.716,620
+India,Madhya Pradesh,Ujjain,2017,Ujjain2017,10.01,620
+India,Madhya Pradesh,Ujjain,2018,Ujjain2018,.,620
+India,Manipur,Ukhrul,2012,Ukhrul2012,14.55,621
+India,Manipur,Ukhrul,2013,Ukhrul2013,55.9,621
+India,Manipur,Ukhrul,2014,Ukhrul2014,74.064,621
+India,Manipur,Ukhrul,2017,Ukhrul2017,110.85,621
+India,Manipur,Ukhrul,2018,Ukhrul2018,72.4,621
+India,Manipur,Ukhrul,2020,Ukhrul2020,.,621
+India,Madhya Pradesh,Umaria,2011,Umaria2011,238.73,622
+India,Madhya Pradesh,Umaria,2012,Umaria2012,162.33,622
+India,Madhya Pradesh,Umaria,2013,Umaria2013,110.99,622
+India,Madhya Pradesh,Umaria,2015,Umaria2015,37.53,622
+India,Madhya Pradesh,Umaria,2017,Umaria2017,52.93,622
+India,Himachal Pradesh,Una,2011,Una2011,5.63,623
+India,Himachal Pradesh,Una,2013,Una2013,15.42,623
+India,Himachal Pradesh,Una,2014,Una2014,.,623
+India,Himachal Pradesh,Una,2016,Una2016,40.4,623
+India,Himachal Pradesh,Una,2017,Una2017,23.5,623
+India,Himachal Pradesh,Una,2018,Una2018,198.21,623
+India,Tripura,Unakoti,2011,Unakoti2011,7.658,624
+India,Tripura,Unakoti,2013,Unakoti2013,89.69701,624
+India,Tripura,Unakoti,2017,Unakoti2017,12.032,624
+India,Rajasthan,Unknown Districts Of India,2011,Unknown Districts Of India2011,1069.065,625
+India,Manipur,Unknown Districts Of India,2012,Unknown Districts Of India2012,1345.979,625
+India,West Bengal,Unknown Districts Of India,2013,Unknown Districts Of India2013,1809.427,625
+India,Tamil Nadu,Unknown Districts Of India,2014,Unknown Districts Of India2014,781.17,625
+India,Madhya Pradesh,Unknown Districts Of India,2015,Unknown Districts Of India2015,0.6,625
+India,Odisha,Unknown Districts Of India,2016,Unknown Districts Of India2016,1701.052,625
+India,Odisha,Unknown Districts Of India,2017,Unknown Districts Of India2017,3012.111,625
+India,Madhya Pradesh,Unknown Districts Of India,2018,Unknown Districts Of India2018,4049.289,625
+India,Manipur,Unknown Districts Of India,2020,Unknown Districts Of India2020,.,625
+India,Uttarakhand,Unknown Districts Of India,2021,Unknown Districts Of India2021,11.6,625
+India,Uttar Pradesh,Unnao,2011,Unnao2011,33.54,626
+India,Uttar Pradesh,Unnao,2012,Unnao2012,204.015,626
+India,Uttar Pradesh,Unnao,2018,Unnao2018,12.7,626
+India,Arunachal Pradesh,Upper Siang,2012,Upper Siang2012,.,627
+India,Arunachal Pradesh,Upper Siang,2013,Upper Siang2013,8,627
+India,Arunachal Pradesh,Upper Siang,2014,Upper Siang2014,10,627
+India,Arunachal Pradesh,Upper Siang,2016,Upper Siang2016,.,627
+India,Arunachal Pradesh,Upper Siang,2017,Upper Siang2017,.,627
+India,Arunachal Pradesh,Upper Siang,2018,Upper Siang2018,32.5,627
+India,Arunachal Pradesh,Upper Subansiri,2012,Upper Subansiri2012,27,628
+India,Arunachal Pradesh,Upper Subansiri,2013,Upper Subansiri2013,44.51,628
+India,Arunachal Pradesh,Upper Subansiri,2014,Upper Subansiri2014,.,628
+India,Arunachal Pradesh,Upper Subansiri,2016,Upper Subansiri2016,115.56,628
+India,Arunachal Pradesh,Upper Subansiri,2017,Upper Subansiri2017,119.15,628
+India,Arunachal Pradesh,Upper Subansiri,2018,Upper Subansiri2018,493.49,628
+India,Uttarakhand,Uttar Kashi,2011,Uttar Kashi2011,20.27,629
+India,Uttarakhand,Uttar Kashi,2013,Uttar Kashi2013,97.485,629
+India,Uttarakhand,Uttar Kashi,2016,Uttar Kashi2016,109.28,629
+India,Uttarakhand,Uttar Kashi,2017,Uttar Kashi2017,151.86,629
+India,Uttarakhand,Uttar Kashi,2018,Uttar Kashi2018,519.068,629
+India,Uttarakhand,Uttar Kashi,2021,Uttar Kashi2021,170.925,629
+India,Karnataka,Uttara Kannada,2012,Uttara Kannada2012,13.8,630
+India,Karnataka,Uttara Kannada,2013,Uttara Kannada2013,.,630
+India,Gujarat,Vadodara,2013,Vadodara2013,8.075,631
+India,Bihar,Vaishali,2012,Vaishali2012,159.36,632
+India,Bihar,Vaishali,2013,Vaishali2013,94.863,632
+India,Bihar,Vaishali,2016,Vaishali2016,48.684,632
+India,Bihar,Vaishali,2018,Vaishali2018,.,632
+India,Gujarat,Valsad,2013,Valsad2013,238.285,633
+India,Gujarat,Valsad,2016,Valsad2016,.,633
+India,Uttar Pradesh,Varanasi,2012,Varanasi2012,88.6,634
+India,Uttar Pradesh,Varanasi,2018,Varanasi2018,12.36,634
+India,Tamil Nadu,Vellore,2012,Vellore2012,34.36638,635
+India,Tamil Nadu,Vellore,2014,Vellore2014,2,635
+India,Tamil Nadu,Vellore,2016,Vellore2016,12.083,635
+India,Tamil Nadu,Vellore,2018,Vellore2018,1.46,635
+India,Madhya Pradesh,Vidisha,2012,Vidisha2012,75,636
+India,Madhya Pradesh,Vidisha,2013,Vidisha2013,75.24,636
+India,Madhya Pradesh,Vidisha,2015,Vidisha2015,243.059,636
+India,Madhya Pradesh,Vidisha,2016,Vidisha2016,8.685,636
+India,Madhya Pradesh,Vidisha,2017,Vidisha2017,14.95,636
+India,Madhya Pradesh,Vidisha,2018,Vidisha2018,.,636
+India,Karnataka,Vijayapura,2013,Vijayapura2013,23.3,637
+India,Telangana,Vikarabad,2016,Vikarabad2016,.,638
+India,Tamil Nadu,Villupuram,2012,Villupuram2012,190.1857,639
+India,Tamil Nadu,Villupuram,2014,Villupuram2014,31.4,639
+India,Tamil Nadu,Villupuram,2016,Villupuram2016,53.46464,639
+India,Tamil Nadu,Villupuram,2018,Villupuram2018,3.563265,639
+India,Tamil Nadu,Virudhunagar,2012,Virudhunagar2012,111.562,640
+India,Tamil Nadu,Virudhunagar,2014,Virudhunagar2014,8.202,640
+India,Tamil Nadu,Virudhunagar,2016,Virudhunagar2016,81.402,640
+India,Tamil Nadu,Virudhunagar,2018,Virudhunagar2018,15.805,640
+India,Andhra Pradesh,Visakhapatanam,2012,Visakhapatanam2012,888.445,641
+India,Andhra Pradesh,Visakhapatanam,2017,Visakhapatanam2017,85.181,641
+India,Andhra Pradesh,Visakhapatanam,2018,Visakhapatanam2018,194.184,641
+India,Andhra Pradesh,Vizianagaram,2012,Vizianagaram2012,78.61,642
+India,Andhra Pradesh,Vizianagaram,2017,Vizianagaram2017,32.515,642
+India,Andhra Pradesh,Vizianagaram,2018,Vizianagaram2018,31.5,642
+India,Telangana,Warangal,2012,Warangal2012,14.6,643
+India,Telangana,Warangal,2016,Warangal2016,9.757999,643
+India,Maharashtra,Wardha,2012,Wardha2012,13.315,644
+India,Maharashtra,Washim,2012,Washim2012,20.5,645
+India,Kerala,Wayanad,2013,Wayanad2013,22.07,646
+India,Kerala,Wayanad,2018,Wayanad2018,6.804,646
+India,Sikkim,West District,2011,West District2011,84.345,647
+India,Sikkim,West District,2013,West District2013,13.66,647
+India,Sikkim,West District,2014,West District2014,28.727,647
+India,Sikkim,West District,2016,West District2016,249.807,647
+India,Sikkim,West District,2017,West District2017,207.21,647
+India,Sikkim,West District,2020,West District2020,.,647
+India,Sikkim,West District,2021,West District2021,.,647
+India,Meghalaya,West Garo Hills,2011,West Garo Hills2011,13.767,648
+India,Meghalaya,West Garo Hills,2013,West Garo Hills2013,144.831,648
+India,Meghalaya,West Garo Hills,2017,West Garo Hills2017,9.263,648
+India,Meghalaya,West Garo Hills,2018,West Garo Hills2018,204.408,648
+India,Andhra Pradesh,West Godavari,2017,West Godavari2017,1.442,649
+India,Meghalaya,West Jaintia Hills,2011,West Jaintia Hills2011,3.33,650
+India,Meghalaya,West Jaintia Hills,2013,West Jaintia Hills2013,50.912,650
+India,Meghalaya,West Jaintia Hills,2017,West Jaintia Hills2017,3.2,650
+India,Meghalaya,West Jaintia Hills,2018,West Jaintia Hills2018,104.647,650
+India,Arunachal Pradesh,West Kameng,2012,West Kameng2012,68.54,651
+India,Arunachal Pradesh,West Kameng,2013,West Kameng2013,108.07,651
+India,Arunachal Pradesh,West Kameng,2016,West Kameng2016,88.229,651
+India,Arunachal Pradesh,West Kameng,2018,West Kameng2018,158.22,651
+India,Assam,West Karbi Anglong,2012,West Karbi Anglong2012,3.1,652
+India,Assam,West Karbi Anglong,2013,West Karbi Anglong2013,51.334,652
+India,Assam,West Karbi Anglong,2017,West Karbi Anglong2017,207.309,652
+India,Assam,West Karbi Anglong,2018,West Karbi Anglong2018,168.175,652
+India,Meghalaya,West Khasi Hills,2011,West Khasi Hills2011,.,653
+India,Meghalaya,West Khasi Hills,2013,West Khasi Hills2013,41.621,653
+India,Meghalaya,West Khasi Hills,2017,West Khasi Hills2017,106.758,653
+India,Meghalaya,West Khasi Hills,2018,West Khasi Hills2018,264.947,653
+India,Arunachal Pradesh,West Siang,2012,West Siang2012,17.88,654
+India,Arunachal Pradesh,West Siang,2016,West Siang2016,67.48,654
+India,Arunachal Pradesh,West Siang,2017,West Siang2017,6.96,654
+India,Arunachal Pradesh,West Siang,2018,West Siang2018,92.28,654
+India,Jharkhand,West Singhbhum,2011,West Singhbhum2011,460.531,655
+India,Jharkhand,West Singhbhum,2012,West Singhbhum2012,77.406,655
+India,Jharkhand,West Singhbhum,2013,West Singhbhum2013,444.77,655
+India,Jharkhand,West Singhbhum,2016,West Singhbhum2016,443.54,655
+India,Jharkhand,West Singhbhum,2017,West Singhbhum2017,151.2,655
+India,Jharkhand,West Singhbhum,2018,West Singhbhum2018,59.205,655
+India,Tripura,West Tripura,2011,West Tripura2011,4.394,656
+India,Tripura,West Tripura,2013,West Tripura2013,171.475,656
+India,Tripura,West Tripura,2016,West Tripura2016,1.9,656
+India,Nagaland,Wokha,2011,Wokha2011,11,657
+India,Nagaland,Wokha,2018,Wokha2018,.,657
+India,Andhra Pradesh,Y.S.R.,2017,Y.S.R.2017,.,658
+India,Karnataka,Yadgir,2012,Yadgir2012,9.84,659
+India,Karnataka,Yadgir,2013,Yadgir2013,.,659
+India,Maharashtra,Yavatmal,2012,Yavatmal2012,.,660
+India,Maharashtra,Yavatmal,2013,Yavatmal2013,81.5,660
+India,Nagaland,Zunheboto,2011,Zunheboto2011,41,661
+India,Nagaland,Zunheboto,2017,Zunheboto2017,42,661
+India,Nagaland,Zunheboto,2018,Zunheboto2018,.,661
